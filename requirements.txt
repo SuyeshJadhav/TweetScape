@@ -1,0 +1,9 @@
+playwright
+openai
+scikit-learn
+pandas
+numpy
+streamlit
+python-dotenv
+plotly
+sentence_transformers
