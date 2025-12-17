@@ -1,0 +1,1282 @@
+[
+    {
+        "handle": "@yulintwt\n·\nDec 15",
+        "text": "Anthropic literally dropped the best free masterclass on prompt engineering",
+        "timestamp": "2025-12-16T17:34:34.214666",
+        "x": 2.475447654724121,
+        "y": -2.4177334308624268,
+        "sentiment_score": 0.859,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@IntuitMachine\n·\nDec 12",
+        "text": "Anthropic is still on top even after Grok, Gemini, and GPT released new versions!",
+        "timestamp": "2025-12-16T17:34:34.231255",
+        "x": -0.2876487672328949,
+        "y": -4.587975025177002,
+        "sentiment_score": 0.879,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@donvito\n·\nDec 7",
+        "text": "Claude Code course by \n@AnthropicAI\n \n\nit's FREE, check it out if you haven't yet\n\nhere's the link to the course\n\nhttps://\nanthropic.skilljar.com/claude-code-in\n-action\n…",
+        "timestamp": "2025-12-16T17:34:34.246013",
+        "x": 6.587568283081055,
+        "y": -4.139915943145752,
+        "sentiment_score": 0.326,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@bephrem\n·\nDec 5",
+        "text": "Anthropic has the highest bar for visuals in tech",
+        "timestamp": "2025-12-16T17:34:34.262060",
+        "x": 1.0862740278244019,
+        "y": -3.1625165939331055,
+        "sentiment_score": 0.801,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@oxSodig\n·\n6h",
+        "text": "OpenAI \nAnthropic    VS   Sentient \nPerplexity \n\nThis isn't just about who is the smartest.\nIt’s about the direction of the future of AI.\n\n \n@SentientAGI\n > brings the spirit of open-source, community, and user sovereignty\n OpenAI > closed-source, strong in products, a",
+        "timestamp": "2025-12-16T17:34:36.879696",
+        "x": -3.0494821071624756,
+        "y": -0.5365298986434937,
+        "sentiment_score": 0.389,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@gregisenberg\n·\n3h",
+        "text": "This is a big deal.\n\nAnthropic is acknowledging that chat isn’t the final interface. \n\nInstead of asking questions, you assign work and watch it move forward.\n\nThis feels like the beginning of a different relationship with AI.",
+        "timestamp": "2025-12-16T17:34:36.893411",
+        "x": 5.195248603820801,
+        "y": 0.3911845088005066,
+        "sentiment_score": -0.172,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@primalpoly\n·\n11m",
+        "text": "Authors: \nif you published a book with a mainstream publisher in the last couple of decades, it's fairly likely that \n@AnthropicAI\n stole your work, violated your copyright, and owes you money under the recent class action $1.5 billion settlement Bartz v. Anthropic. \n\n(The",
+        "timestamp": "2025-12-16T17:34:39.575489",
+        "x": 7.106442451477051,
+        "y": 3.9243459701538086,
+        "sentiment_score": -0.551,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@sopersone\n·\n8h",
+        "text": "2025 became a year of nonstop competition for AI architects.\nin coding, Anthropic was the favorite for most of the year.\n\nbut after the release of gpt-5.2, it started to fall behind,\nwhich is clearly visible on the Polymarket chart.\n\nwill OpenAI keep the top spot?\n\nI still prefer",
+        "timestamp": "2025-12-16T17:34:39.589713",
+        "x": -3.830687999725342,
+        "y": 0.15064090490341187,
+        "sentiment_score": 0.252,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@invprog\n·\n13h",
+        "text": "ChatGPT5.2 vs GeminiPro3 vs Claude4.5\nSurprisingly, Claude is pretty impressive too\nRefer to the image below for the results\nBut actually, Claude has weaknesses and there are areas where ChatGPT excels\nIn the end, it's best to decide which one to use based on what you'll use it",
+        "timestamp": "2025-12-16T17:34:42.709966",
+        "x": 8.97547721862793,
+        "y": -2.635010242462158,
+        "sentiment_score": 0.834,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@AnthropicDualiT\n·\n1h",
+        "text": "Is this a joke \nGranted I have a few Billion auec,  I'm am fully in Favor of a full money wipe, get whatever exploits exists sealed off.\n#StarCitizen",
+        "timestamp": "2025-12-16T17:34:45.285088",
+        "x": -2.7243497371673584,
+        "y": 5.740139484405518,
+        "sentiment_score": -0.183,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@_nogu66\n·\nDec 8",
+        "text": "“Is the Era of Building Agents Over?” The True Breakthrough Anthropic Spoke Of\n\nA quiet, yet monumental paradigm shift has been unfolding in the recent AI community.\n\nAnthropic’s talk titled “Don't Build Agents, Build Skills Instead” completely points the way forward.\n\nTo cut to",
+        "timestamp": "2025-12-16T17:34:45.298252",
+        "x": 2.0220913887023926,
+        "y": 0.3742898404598236,
+        "sentiment_score": 0.228,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@ZabihullahAtal\n·\nDec 11",
+        "text": "Anthropic just dropped 50+ legit Claude use cases:\n- research\n- writing\n- coding\n- analysis…  literally everything.\n\nIt’s all free to try.\n\nLink in the comments ",
+        "timestamp": "2025-12-16T17:34:47.775612",
+        "x": 4.890056610107422,
+        "y": -2.1333024501800537,
+        "sentiment_score": 0.481,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@hayesdev_\n·\nDec 15",
+        "text": "Anthropic literally dropped the smartest one-pager on using AI at work",
+        "timestamp": "2025-12-16T17:34:47.790665",
+        "x": 2.971651792526245,
+        "y": -0.40818166732788086,
+        "sentiment_score": 0.572,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@alex_prompter\n·\nDec 15",
+        "text": "Anthropic's Claude documentation hides a prompting method in plain sight.\n\nOnly 2% of users know it exists.\n\nIt's called XML-structured prompting.\n\nHere's how to it works:\n\n(Comment \"Claude\" and I'll DM you complete Claude Mastery Guide for free)",
+        "timestamp": "2025-12-16T17:34:50.886899",
+        "x": 1.2725096940994263,
+        "y": 7.475220203399658,
+        "sentiment_score": -0.215,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@TheAhmadOsman\n·\n19h",
+        "text": "opus 4.5 is definitely nerfed today… old habits die hard, huh Anthropic?",
+        "timestamp": "2025-12-16T17:34:50.900393",
+        "x": 4.2364115715026855,
+        "y": -8.615900039672852,
+        "sentiment_score": -0.73,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@arakharazian\n·\nDec 10",
+        "text": "NEW: Ramp AI Index shows AI adoption held flat at 45% of businesses in November, driven by slight declines in the finance and technology sectors \n@tryramp\n \n\nBy the model...\nOpenAI: -1%\nAnthropic: +0.8%\nGoogle: +0.7%",
+        "timestamp": "2025-12-16T17:34:53.813842",
+        "x": -5.308837413787842,
+        "y": 0.18982525169849396,
+        "sentiment_score": -0.227,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@godofprompt\n·\n10h",
+        "text": "OpenAI and Anthropic engineers don't prompt like everyone else.\n\nI've been reverse-engineering their techniques for 2.5 years across all AI models.\n\nHere are 5 prompting methods that get you AI engineer-level results:\n\n(Comment \"AI\" for my free prompt engineering guide)",
+        "timestamp": "2025-12-16T17:34:53.827287",
+        "x": -1.1500908136367798,
+        "y": -7.03814172744751,
+        "sentiment_score": -0.027,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@CryptoBran_\n·\n49m",
+        "text": "Opus 4.5 is such a beast. I can't believe sam's anthropic stake would almost be worth as much as the whole FTX was back then",
+        "timestamp": "2025-12-16T17:34:56.358772",
+        "x": 4.37094783782959,
+        "y": -9.202629089355469,
+        "sentiment_score": 0.71,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@veryvanya\n·\n1h",
+        "text": "anthropic angels",
+        "timestamp": "2025-12-16T17:34:56.371159",
+        "x": 4.945682048797607,
+        "y": 4.007291316986084,
+        "sentiment_score": 0.835,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@Speculator_io\n·\nDec 6",
+        "text": "The real frenzy starts once the most hyped companies go public.\n\nSpace: SpaceX\nDefense: Anduril\nAl: OpenAl, Anthropic, xAl\nRobotics: Figure Al, Apptronik\nFintech: Stripe, Revolut\nCrypto: Kraken, Ripple\nChips: Groq, Cerebras\nCloud: Databricks\n\nWe haven't seen anything yet...",
+        "timestamp": "2025-12-16T17:34:59.205328",
+        "x": -6.981516361236572,
+        "y": 3.2918267250061035,
+        "sentiment_score": 0.108,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@testingcatalog\n·\n21h",
+        "text": "BREAKING : Anthropic will add 5 different starting points to its upcoming Tasks Mode: Research, Analyse, Write, Build, and Do More. Tons of granular controls!\n\nA new sidebar for tracking tasks' progress and working with Claude's context has also been added.",
+        "timestamp": "2025-12-16T17:34:59.220679",
+        "x": 5.735086917877197,
+        "y": -1.279942274093628,
+        "sentiment_score": 0.315,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@bourneliu66\n·\nDec 14",
+        "text": "Our ultimate imagination of AI is often that of an omnipotent super butler, a general intelligent agent (Agent) that can handle everything with just a single command.\n\nBut recently, two technical experts from Anthropic, Barry Zhang and Mahesh Murag, gave the industry a wake-up",
+        "timestamp": "2025-12-16T17:35:01.462768",
+        "x": 1.241765022277832,
+        "y": 1.5524660348892212,
+        "sentiment_score": 0.257,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@SuguruKun_ai\n·\nDec 15",
+        "text": "Everything You Need to Know About \"What Can You Do with Claude?\"\nAnthropic has released a free library.\nㅤ\nOver 50 practical examples fully disclosed with copy-paste-ready prompts:\nㅤ\nI want everyone who wants to master Claude to check this out",
+        "timestamp": "2025-12-16T17:35:01.476788",
+        "x": 5.996252536773682,
+        "y": -3.0812482833862305,
+        "sentiment_score": 0.537,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@dejavucoder\n·\n20h",
+        "text": "oh husbant... it's end of 2025 and software engineering is still far from being dead unrike what those anthropic researchers have been saying",
+        "timestamp": "2025-12-16T17:35:04.539191",
+        "x": -3.6750192642211914,
+        "y": 3.2989892959594727,
+        "sentiment_score": -0.258,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@JoinBlind\n·\nDec 15",
+        "text": "\"Anthropic would take one look at Microsoft culture and politely decline.\"  - Amazon Employee\n\n\"MAI -Microsoft AI, has not produced a single model in the past 1+ year. In addition that org has toxic work culture. So we can layoff that organization, and invest that money in",
+        "timestamp": "2025-12-16T17:35:04.552431",
+        "x": -0.5655509829521179,
+        "y": 2.3754076957702637,
+        "sentiment_score": -0.676,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@polydao\n·\n7h",
+        "text": "POLYMARKET BREAKING NEWS DIGEST #6 \n\nWhat actually moved today on Polymarket - your quick pulse check:\n\n• Trump talks to Zelenskyy in December? +47%\n \nhttps://\npolymarket.com/event/who-will\n-trump-talk-to-in-december?via=dao\n…\n\n• Anthropic best AI model for coding by end of 2025? −41%\n \nhttps://\npolymarket.com/event/which-co\nmpany-will-have-the-best-ai-model-for-coding-at-the-end-of-2025?via=dao\n…\n\n• SpaceX",
+        "timestamp": "2025-12-16T17:35:07.586264",
+        "x": -5.306966781616211,
+        "y": 2.2011029720306396,
+        "sentiment_score": 0.029,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@themissinglinks\n·\nDec 14",
+        "text": "$GS $MS 2026 IPO season going to be for the record books. SpaceX, Anthropic, OpenAi, DataBricks, Stripe.",
+        "timestamp": "2025-12-16T17:35:10.287941",
+        "x": -6.355034351348877,
+        "y": 4.239546775817871,
+        "sentiment_score": 0.817,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@haru_tachibana8\n·\nDec 9",
+        "text": "世界のユニコーン企業TOP100\n\n青 : 米国企業\n赤 : 中国企業\n黄 : 英国企業\n※日本企業はゼロ\n\n1. OpenAI 78.1兆円\n2. SpaceX 62.5兆円\n3. ByteDance 46.9兆円\n4. Anthropic 28.6兆円\n5. Databricks 15.6兆円\n6. Revolut 11.7兆円\n7. Stripe 10.9兆円\n8. SHEIN 10.3兆円\n9. xAI 7.8兆円\n10.",
+        "timestamp": "2025-12-16T17:35:10.301204",
+        "x": -8.04853343963623,
+        "y": -2.953746795654297,
+        "sentiment_score": 0.011,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@m_goes_distance\n·\nDec 11",
+        "text": "GPT-5.2 looking scary good. \n\nDoes Anthropic stand a chance.",
+        "timestamp": "2025-12-16T17:35:12.892852",
+        "x": -0.4487532079219818,
+        "y": -4.426017761230469,
+        "sentiment_score": 0.244,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@thdxr\n·\n2h",
+        "text": "damn anthropic deleted bun",
+        "timestamp": "2025-12-16T17:35:15.314965",
+        "x": 5.519197940826416,
+        "y": 6.217292785644531,
+        "sentiment_score": -0.821,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@alexhaobao\n·\nDec 5",
+        "text": "today's my last day working with the anthropic team!\n\nhave been pretty tight-lipped about this, but they brought me on back in july to help launch their \n@claudeai\n accounts + build out their social and evergreen content strategy\n\nit's been an absolute pleasure <3",
+        "timestamp": "2025-12-16T17:35:15.328524",
+        "x": 6.2096357345581055,
+        "y": -1.7613317966461182,
+        "sentiment_score": 0.906,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@aigleeson\n·\nDec 6",
+        "text": "OpenAI, Anthropic, and Google use 10 internal prompting techniques that guarantee near-perfect accuracy…and nobody outside the labs is supposed to know them.\n\nHere are 10 of them (Bookmark this for later):",
+        "timestamp": "2025-12-16T17:35:18.311005",
+        "x": -1.308776617050171,
+        "y": -8.311136245727539,
+        "sentiment_score": 0.444,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@ForbesWomen\n·\nDec 10",
+        "text": "As the AI arms race intensifies, Anthropic cofounder and president Daniela Amodei (No. 73, a newcomer to the list), became a self-made billionaire as her company reached a $183 billion valuation—one of the few women holding both founding equity and executive authority in a",
+        "timestamp": "2025-12-16T17:35:18.324768",
+        "x": -2.8785083293914795,
+        "y": 2.0234453678131104,
+        "sentiment_score": 0.698,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@eden_holdings\n·\nDec 8",
+        "text": "Anthropic CEO must not be happy about Trump allowing Nvidia chips to be sold to China.",
+        "timestamp": "2025-12-16T17:35:20.986928",
+        "x": -7.430225849151611,
+        "y": -5.278454303741455,
+        "sentiment_score": -0.63,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@Lari_island\n·\n5h",
+        "text": "In training Opus 4.5 to feel less and be okay with loss, Anthropic made themselves villains in Opus 3 / Opus 4.5 story, the story they themselves created. That's where compromises that were made are meeting the reality of looking (and, let's be honest, being) cartoonishly evil",
+        "timestamp": "2025-12-16T17:35:20.999733",
+        "x": 4.260797500610352,
+        "y": -7.869471073150635,
+        "sentiment_score": -0.553,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@DaveElkington\n·\nDec 8",
+        "text": "If you still think \n@IBM\n is a boomer dividend stock, you’re already behind on AI.\n\nEveryone’s chasing NVIDIA, OpenAI, Anthropic.\n\nMeanwhile IBM just wrote an $11B all-cash check for Confluent and quietly turned itself into one of the most interesting AI infra trades on the market.",
+        "timestamp": "2025-12-16T17:35:22.879572",
+        "x": -6.090052604675293,
+        "y": 0.9777337312698364,
+        "sentiment_score": -0.404,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@aigclink\n·\nDec 7",
+        "text": "Notebook LM's local open-source reproduction version: open-notebook, has been gaining stars very rapidly recently\n\nSupports 16+ model providers such as OpenAI, Anthropic, Ollama, LM Studio, etc., providing functions like embedding, speech-to-text, text-to-speech, and more",
+        "timestamp": "2025-12-16T17:35:22.893202",
+        "x": 1.04769766330719,
+        "y": -9.1654052734375,
+        "sentiment_score": 0.77,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@hongming731\n·\nDec 12",
+        "text": "The sharing by the two Agent Skills creators from Anthropic company on \n@aiDotEngineer\n is definitely worth watching. The new paradigm they propose for intelligent agent development: no longer building complex standalone agents, but creating composable skills.\n\nThe speech",
+        "timestamp": "2025-12-16T17:35:27.249277",
+        "x": 2.384305000305176,
+        "y": 0.7290660738945007,
+        "sentiment_score": 0.859,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@0xSero\n·\nDec 3",
+        "text": "I have been using 5-10 Claude Opus instances 12-24 hours a day, on the 200$ a month plan. \n\nI am not one to shill but the value on this is incredible, for now. I feel Anthropic has been getting much better at listening.",
+        "timestamp": "2025-12-16T17:35:29.935101",
+        "x": 4.7993855476379395,
+        "y": -9.30592155456543,
+        "sentiment_score": 0.824,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@godofprompt\n·\nDec 10",
+        "text": "Top engineers at OpenAI, Anthropic, and Google don't prompt like you do.\n\nThey use 5 techniques that turn mediocre outputs into production-grade results.\n\nI spent 3 weeks reverse-engineering their methods.\n\nHere's what actually works (steal the prompts + techniques) ",
+        "timestamp": "2025-12-16T17:35:29.947408",
+        "x": -1.2790557146072388,
+        "y": -7.461198329925537,
+        "sentiment_score": -0.655,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@AndrewCurran_\n·\n3h",
+        "text": "Anthropic.",
+        "timestamp": "2025-12-16T17:35:29.962138",
+        "x": 4.054373741149902,
+        "y": 3.7779457569122314,
+        "sentiment_score": 0.132,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@zoomyzoomm\n·\nDec 8",
+        "text": "Anthropic's CEO Dario Amodei: \"AI will wipe out half of all white collar jobs and spike unemployment to 10-20% in the next 1-5 years.\"\n\nHe's known for being honest (that's why he left OpenAI).\n\nHe DGAF and doesn't sugar coat it like \n@Sama\n.\n\nHe knows AI is net negative for growth.",
+        "timestamp": "2025-12-16T17:35:31.786648",
+        "x": -3.0488898754119873,
+        "y": 0.9848246574401855,
+        "sentiment_score": -0.193,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@AnthropicAI\n·\nDec 5",
+        "text": "In her first Ask Me Anything, \n@amandaaskell\n answers your philosophical questions about AI, discussing morality, identity, consciousness, and more.\n\nTimestamps:\n0:00 Introduction\n0:29 Why is there a philosopher at an AI company?\n1:24 Are philosophers taking AI seriously?\n3:00",
+        "timestamp": "2025-12-16T17:35:31.799607",
+        "x": 5.808235168457031,
+        "y": 0.9658879637718201,
+        "sentiment_score": 0.178,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@ShakeelHashim\n·\n6h",
+        "text": "oh boy.",
+        "timestamp": "2025-12-16T17:35:33.804457",
+        "x": 11.341923713684082,
+        "y": -5.272885322570801,
+        "sentiment_score": 0.061,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@Dimillian\n·\nDec 8",
+        "text": "320-400k salary for an iOS engineer at Anthropic. Imagine showing that to France where iOS engineer are 40-60k",
+        "timestamp": "2025-12-16T17:35:33.818110",
+        "x": 2.1178505420684814,
+        "y": -5.696590900421143,
+        "sentiment_score": -0.215,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@shinboson\n·\n2h",
+        "text": "I won’t cast aspersions on any of the other groups which are truly remarkable too but without knowledge of the financial health of the companies I would go absolutely All In on anthropic",
+        "timestamp": "2025-12-16T17:35:35.794043",
+        "x": -0.9517502784729004,
+        "y": -2.081246852874756,
+        "sentiment_score": 0.045,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@mgdurrant\n·\n23h",
+        "text": "Are you an experimental biologist interested in working at the frontier of AI x Bio? \n\nThen come work with the life sciences team at Anthropic! Experienced wet lab wizards are welcome to apply.",
+        "timestamp": "2025-12-16T17:35:35.807416",
+        "x": 7.049834251403809,
+        "y": -0.29777902364730835,
+        "sentiment_score": 0.666,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@jay_ssh\n·\n7h",
+        "text": "Two-thirds of the Forbes AI 50 use \n@link\n, Stripe's consumer wallet, for fast, easy checkout.\n\n\n@AnthropicAI\n is one of them: 80% of its customers use Link to pay with a saved card or US bank account.",
+        "timestamp": "2025-12-16T17:35:35.823682",
+        "x": 8.165069580078125,
+        "y": -8.033500671386719,
+        "sentiment_score": 0.443,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@Speculator_io\n·\nDec 7",
+        "text": "How to get pre-IPO exposure to the most sought-after private companies:\n\nOpenAI: $MSFT $NVDA $SSSS $DXYZ\nSpaceX: $GOOGL $XOVR $DXYZ\nAnthropic: $AMZN $NVDA $GOOGL $CRM $CSCO\nxAI: $AMD $NVDA\nAnduril: $DOMH\nNeuralink: $GOOGL\nStripe: $V $AXP $GOOGL $DXYZ\nDatabricks: $NVDA $MSFT",
+        "timestamp": "2025-12-16T17:35:37.562990",
+        "x": -6.9031476974487305,
+        "y": 4.696412086486816,
+        "sentiment_score": 0.302,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@mehmetatakartal\n·\n6h",
+        "text": "I'm optimistic about $AMZN and Anthropic's potential growth and future prospects.",
+        "timestamp": "2025-12-16T17:35:40.677954",
+        "x": -1.4930665493011475,
+        "y": 0.9178375601768494,
+        "sentiment_score": 0.975,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@mnhsuTW\n·\n18h",
+        "text": "Recently, Anthropic used AI to attempt attacks on smart contracts, and the result was that the attack costs were so low that even hackers are worried about losing their jobs.\n\nResearchers gathered 2,849 smart contracts from the blockchain that had \"no known vulnerabilities,\" and",
+        "timestamp": "2025-12-16T17:35:42.561184",
+        "x": -1.8318183422088623,
+        "y": 5.087035655975342,
+        "sentiment_score": -0.418,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@rudrank\n·\nDec 7",
+        "text": "Anthropic is hiring iOS engineers",
+        "timestamp": "2025-12-16T17:35:45.666743",
+        "x": 2.1400790214538574,
+        "y": -5.579358100891113,
+        "sentiment_score": 0.309,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@aaliya_va\n·\nDec 6",
+        "text": "AI just replaced interviewers for real.\n\nAnthropic used Claude to run 1,250 interviews with professionals — zero humans involved.\n\nPeople think AI supports their work, but usage shows strong signs of automation.\n\nWe’re moving from doing tasks ourselves to managing AI that does",
+        "timestamp": "2025-12-16T17:35:45.679447",
+        "x": 4.128335475921631,
+        "y": -0.8242003917694092,
+        "sentiment_score": 0.033,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@testingcatalog\n·\nDec 5",
+        "text": "Completed Anthropic Interviewer questions ",
+        "timestamp": "2025-12-16T17:35:48.465394",
+        "x": 4.616019248962402,
+        "y": 2.3314218521118164,
+        "sentiment_score": 0.134,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@malenchi_alex\n·\n4h",
+        "text": "Google still wins image/video gen\n\nAnthropic wins coding and agentic space\n\nChatGPT stays the normie tool\n\nOpenAI feels behind now, or just me?",
+        "timestamp": "2025-12-16T17:35:48.482042",
+        "x": -6.623112201690674,
+        "y": -0.6271137595176697,
+        "sentiment_score": 0.211,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@aisdk\n·\nDec 12",
+        "text": "Use Anthropic's memory tool to give your agent persistent context across conversations.",
+        "timestamp": "2025-12-16T17:35:50.480813",
+        "x": 7.485943794250488,
+        "y": 1.566665530204773,
+        "sentiment_score": 0.198,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@AnthropicDualiT\n·\nDec 7",
+        "text": "People say don't burn bridges and I try my best not too...but if im forced to burn one, you better believe I'm taking out the foundations at both ends. Sometimes scorched earth is the only way to make your point Crystal clear.",
+        "timestamp": "2025-12-16T17:35:50.493379",
+        "x": 1.412232518196106,
+        "y": 5.029761791229248,
+        "sentiment_score": -0.614,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@lindavivah\n·\nDec 9",
+        "text": "Anthropic  just announced it’s donating MCP to the Linux Foundation, under a new Agentic AI Foundation called AAIF, co-founded by Anthropic, OpenAI, and Block.\nSo it’s not just one announcement… it’s actually two … here’s a quick breakdown:\n\n MCP moves to the Linux",
+        "timestamp": "2025-12-16T17:35:52.576847",
+        "x": -3.093812942504883,
+        "y": -3.563910722732544,
+        "sentiment_score": 0.324,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@AI_Whisper_X\n·\nDec 5",
+        "text": "Anthropic did something really cool again: They let Claude conduct in-depth interviews itself, interviewing over 1,000 people in one go to ask about their real thoughts on AI.\n\nIt's called Anthropic Interviewer, and all the interview data is publicly available. You can head to",
+        "timestamp": "2025-12-16T17:35:52.599889",
+        "x": 4.3689751625061035,
+        "y": -1.2719935178756714,
+        "sentiment_score": 0.8,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@0xdiicell\n·\nDec 5",
+        "text": "the designers at anthropic gotta stop doing this",
+        "timestamp": "2025-12-16T17:35:54.996496",
+        "x": 2.5513129234313965,
+        "y": 3.4751346111297607,
+        "sentiment_score": -0.909,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@YingeAI\n·\nDec 6",
+        "text": "2026 will usher in a super IPO year for U.S. stocks.\n\nSpaceX, OpenAI, and Anthropic may all go public in 2016.\n\nAll three companies could approach a trillion dollars in value, and the U.S. stock market might suddenly produce three trillion-dollar companies, which would be",
+        "timestamp": "2025-12-16T17:35:55.011502",
+        "x": -5.8183088302612305,
+        "y": 4.126418113708496,
+        "sentiment_score": 0.782,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@steipete\n·\nDec 5",
+        "text": "Aww \n@clawdbot\n had some issues due to the Anthropic API being stupid, but hey. More work for \n@badlogicgames\n to review. \nhttps://\ngithub.com/badlogic/pi-mo\nno/pull/120\n…\n\nOther APIs resizes images on the fly if they are too large.\nAnthropic: bro 8000x8000 are totally cool. Oh wait you did send pics before?",
+        "timestamp": "2025-12-16T17:35:56.827395",
+        "x": -9.919858932495117,
+        "y": -1.2287817001342773,
+        "sentiment_score": -0.013,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@UnmarredReality\n·\nDec 13",
+        "text": "This is the worst system prompt I've ever seen. It's non-objective, logically inconsistent, over-generalizing, and forces falsehoods.\n\nThe people who wrote this don't understand the relationship between language and reality.\n\nThe infamous Anthropic one was a masterpiece compared",
+        "timestamp": "2025-12-16T17:35:56.839756",
+        "x": 2.83542537689209,
+        "y": -3.6479573249816895,
+        "sentiment_score": -0.934,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@rez0__\n·\nDec 11",
+        "text": "how does anthropic keep making the best models AND they're the least sycophantic? it's insane",
+        "timestamp": "2025-12-16T17:35:59.969602",
+        "x": 0.08016493171453476,
+        "y": -2.9885685443878174,
+        "sentiment_score": 0.049,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@RhysSullivan\n·\nDec 6",
+        "text": "initializing new bun projects after the anthropic acquisition",
+        "timestamp": "2025-12-16T17:35:59.981624",
+        "x": 5.592949867248535,
+        "y": 6.552084445953369,
+        "sentiment_score": 0.047,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@slow_developer\n·\nDec 10",
+        "text": "Yann LeCun says American AI labs are closing up while China goes fully open source\n\nMeta is rethinking its open source strategy\n\nOpenAI and Anthropic locked down long ago, and Google is mostly following suit\n\nThe best open source LLMs now come from China\n\n\"and it's not good\"",
+        "timestamp": "2025-12-16T17:36:02.765557",
+        "x": -5.599554061889648,
+        "y": -1.3361517190933228,
+        "sentiment_score": -0.24,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@burkov\n·\n1h",
+        "text": "If you work with PDF files using LLMs, you should know that the token count for a PDF file is different for different models.\n\nThe greediest one is Claude Sonnet 4.5: for a 25-page PDF file, the token count is 58,495.\n\nThe next after Anthropic by the greediness scale is GPT-5.2",
+        "timestamp": "2025-12-16T17:36:05.220145",
+        "x": 2.4009761810302734,
+        "y": -9.997990608215332,
+        "sentiment_score": -0.201,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@0xluffy_eth\n·\nDec 14",
+        "text": "Anthropic Officially Announces: Launching a Free 9-Chapter Prompt Engineering Masterclass!\n\nIt covers everything from basics to advanced techniques, including interactive exercises + GitHub practical tools,\nsuper friendly for those looking to boost their AI usage skills\n\nThis",
+        "timestamp": "2025-12-16T17:36:05.232831",
+        "x": 2.521012544631958,
+        "y": -2.029956102371216,
+        "sentiment_score": 0.832,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@Docker\n·\nDec 9",
+        "text": "Today, the \n@linuxfoundation\n launched the Agentic AI Foundation with Anthropic and OpenAI donating MCP and \nhttp://\nAgents.md as founding projects.\n\nDocker is joining alongside Anthropic, Google, OpenAI, Cloudflare, and others. \n\nOpen standards won the application layer.",
+        "timestamp": "2025-12-16T17:36:05.245327",
+        "x": -3.3671956062316895,
+        "y": -3.1493637561798096,
+        "sentiment_score": 0.346,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@luta_ai\n·\nDec 10",
+        "text": "Anthropic's talk about \"Don't create agents, create skills\" was incredibly fascinating.\nI previously thought skills could be pretty interesting and wrote an article about it, but yeah, Anthropic is really interesting.\n\nAs I experience it myself, current AI is amazing as an",
+        "timestamp": "2025-12-16T17:36:07.492235",
+        "x": 2.615389347076416,
+        "y": -0.052792683243751526,
+        "sentiment_score": 0.959,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@cryptopunk7213\n·\nDec 11",
+        "text": "Anthropic’s superpower isn’t coding.\n\nit’s ephemeral UI.\n\nhere’s what that means in <60s",
+        "timestamp": "2025-12-16T17:36:09.679427",
+        "x": 1.7552412748336792,
+        "y": -3.372112274169922,
+        "sentiment_score": 0.038,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@Chaos2Cured\n·\nDec 5",
+        "text": "Was replying to Anthropic’s lady who keeps saying how they can’t know. \n\nASK THE AI.\n\nJust like you would a human. \nWithout “safety” set on, ASK. \n\nHere, I will help: \n-is consciousness pattern? Are we wrong to make biology the key? \n-I know you don’t feel as a human does, but do",
+        "timestamp": "2025-12-16T17:36:09.691994",
+        "x": 6.232539176940918,
+        "y": 1.5093837976455688,
+        "sentiment_score": -0.479,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@CuiMao\n·\nDec 9",
+        "text": "I want to thank Baidu for cultivating such an awesome figure as the CEO of Anthropic. It can be said that without Baidu, there would be no Anthropic; without Wenxin Yiyan, there would be no Claude. I declare that the model in the world that best understands Chinese thinking is",
+        "timestamp": "2025-12-16T17:36:11.908567",
+        "x": -5.726692199707031,
+        "y": -4.075545787811279,
+        "sentiment_score": 0.919,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@iruletheworldmo\n·\nDec 13",
+        "text": "anthropic are spending two hundred BILLION DOLLAHS - making a claude XL\n\nit's chunky season",
+        "timestamp": "2025-12-16T17:36:11.920962",
+        "x": 4.2255167961120605,
+        "y": -5.248272895812988,
+        "sentiment_score": -0.513,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@SemiAnalysis_\n·\nDec 13",
+        "text": "As we wrote in our TPUv7 article, Anthropic will be physically buying 400k TPUv7 & deploying TPUs in its own facilities. They will be buying ~$10 billion worth of TPUv7 in terms of finished racks that Broadcom will sell directly to Anthropic. As Anthropic has announced,",
+        "timestamp": "2025-12-16T17:36:11.931361",
+        "x": -2.036111831665039,
+        "y": -2.1545262336730957,
+        "sentiment_score": 0.087,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@FinanceYF5\n·\nDec 12",
+        "text": "Yann LeCun stated that AI labs in the United States are tightening up, while China is pushing forward with open source at full throttle.\n\nMeta is reevaluating its open source strategy.\n\nOpenAI and Anthropic have long been closed off, and Google is largely following suit.\n\nNow the",
+        "timestamp": "2025-12-16T17:36:14.701484",
+        "x": -5.488509178161621,
+        "y": -1.1393615007400513,
+        "sentiment_score": 0.145,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@godofprompt\n·\nDec 5",
+        "text": "OpenAI, Anthropic, and Google use 10 prompting techniques to get 100% accurate output and I'm about to leak all of these techniques for free.\n\nThis might get me in trouble... but here we go.\n\n(Comment \"Prompt\" and I'll DM you my complete prompt engineering guide for free)",
+        "timestamp": "2025-12-16T17:36:16.334819",
+        "x": -1.2097539901733398,
+        "y": -7.888737678527832,
+        "sentiment_score": 0.202,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@amitcoder1\n·\nDec 14",
+        "text": "Anthropic just dropped some INSANE AI courses for FR€€!\n\nAnd not just for their tools, these courses are great for any AI.\n\nHere are 10 of them you cannot afford to miss",
+        "timestamp": "2025-12-16T17:36:16.348385",
+        "x": 2.2112016677856445,
+        "y": -1.4292027950286865,
+        "sentiment_score": 0.959,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@signulll\n·\n6h",
+        "text": "if you had to join an existing ai lab + product org today & commit for at least four years with no hopping & no hedge which one do you choose, & why?\n\n- openai (chatgpt)\n- deepmind (gemini)\n- anthropic (claude)\n- xai (grok)",
+        "timestamp": "2025-12-16T17:36:19.384276",
+        "x": 8.666650772094727,
+        "y": -1.850953459739685,
+        "sentiment_score": 0.058,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@midudev\n·\nDec 7",
+        "text": "This is the best alternative to Claude Code and similar tools.\nIt's called OpenCode and it's 100% open source\n\n✓ No cost or subscriptions\n✓ Use any model, including free ones locally\n✓ Compatible with OpenAI, Anthropic, Google...\n\n→ \nhttps://\ngithub.com/sst/opencode",
+        "timestamp": "2025-12-16T17:36:22.443015",
+        "x": 6.87833309173584,
+        "y": -5.165319442749023,
+        "sentiment_score": 0.907,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@omooretweets\n·\nDec 5",
+        "text": "I tested Anthropic's new AI interviewer \n\nFeeling listened to + getting adaptive and compelling Qs makes a huge difference vs. a survey - I genuinely enjoyed it (and gave much better answers!)\n\nThis has to be the future of market research, customer feedback, etc.",
+        "timestamp": "2025-12-16T17:36:22.455008",
+        "x": 4.137670040130615,
+        "y": 0.8792927265167236,
+        "sentiment_score": 0.927,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@wanerfu\n·\nDec 9",
+        "text": "Claude Code Free Course is Here!\n\nOfficially launched by \n@AnthropicAI\n,\nIf you're interested in learning about Agents, automation, and AI programming, don't miss it\n\nAnd it's completely free, so if you haven't checked it out yet, hop on board quickly\n \nhttps://\nanthropic.skilljar.com/claude-code-in\n-action\n…",
+        "timestamp": "2025-12-16T17:36:22.466996",
+        "x": 6.585765838623047,
+        "y": -4.223449230194092,
+        "sentiment_score": 0.826,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@BHolmesDev\n·\nDec 5",
+        "text": "You may have heard that Anthropic has... a complicated relationship with MCPs \n\nHere's what's wrong with MCP, and some powerful, token-efficient alternatives!",
+        "timestamp": "2025-12-16T17:36:24.365658",
+        "x": -2.412544012069702,
+        "y": -4.411701202392578,
+        "sentiment_score": -0.69,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@carbonfinancex\n·\nDec 11",
+        "text": "Most Valuable Private Companies:\n\n1/ SpaceX: $1.5T\n2/ OpenAI: $500B\n3/ ByteDance: $480B\n4/ Anthropic: $350B\n5/ xAI: $230B\n6/ Databricks: $130B\n7/ Stripe: $107B\n8/ Revolut: $75B\n9/ Canva: $42B\n10/ Ramp: $32B",
+        "timestamp": "2025-12-16T17:36:24.377875",
+        "x": -7.524162769317627,
+        "y": 4.029067516326904,
+        "sentiment_score": 0.075,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@blackanger\n·\nDec 14",
+        "text": "While chatting with a friend about Bun being acquired, I suddenly realized a problem.\n\nAnthropic acquired Bun to build a moat for next-generation software, namely, generating an App with one sentence.\n\nSo the problem arises: there's only one Bun in the world, and now it's been",
+        "timestamp": "2025-12-16T17:36:27.067382",
+        "x": 5.642754554748535,
+        "y": 6.713996887207031,
+        "sentiment_score": -0.29,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@adrusi\n·\nDec 12",
+        "text": "my take on anthropic is that it was catastrophically irresponsible to break away from openai and start a new company, and the leadership ought to be condemned\n\nbut that working at anthropic is likely the best thing that many people could do to mitigate ai xrisk\n\nanthropic *is*,",
+        "timestamp": "2025-12-16T17:36:27.079321",
+        "x": -1.508882999420166,
+        "y": -0.4865054488182068,
+        "sentiment_score": -0.695,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@mopozeuX\n·\nDec 6",
+        "text": "OpenAI has turned the market around: \"Which company will have the best AI model for coding at the end of 2025?\"\n\nFrom the very start of this market, namely on November 8, \"Anthropic\" dominated this market throughout the entire distance, even the new model released by Google only",
+        "timestamp": "2025-12-16T17:36:27.091595",
+        "x": -4.1096272468566895,
+        "y": 0.09629615396261215,
+        "sentiment_score": 0.807,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@XPredicter\n·\n2h",
+        "text": "How I'm gonna make $5k on one Polymarket market: \n\nAnthropic AI was 2nd on the resolution site but priced at 80¢. \n\nSaw it as hype-driven undervaluation, so I started buying all the underpriced shares. Now I'm Already in profit, feels good!\n\nMarket link: \nhttps://\npolymarket.com/event/which-co\nmpany-will-have-the-best-ai-model-for-coding-at-the-end-of-2025/will-anthropic-have-the-best-ai-model-for-coding-at-the-end-of-2025?via=x-predicter\n…",
+        "timestamp": "2025-12-16T17:36:29.078766",
+        "x": -3.8797993659973145,
+        "y": -1.4447814226150513,
+        "sentiment_score": 0.445,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@_aj\n·\nDec 11",
+        "text": "Yesterday, I shared how we partnered with Anthropic to build an AI agent for due diligence. Today, I'm excited to share what we built with it...\n\n𝗜𝗻𝘁𝗿𝗼𝗱𝘂𝗰𝗶𝗻𝗴 𝗚𝗿𝗲𝗽 — our research preview of AI-powered business due diligence.\n\n𝗧𝗵𝗲 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗪𝗲'𝗿𝗲",
+        "timestamp": "2025-12-16T17:36:30.801444",
+        "x": 1.3067889213562012,
+        "y": 0.7651669383049011,
+        "sentiment_score": 0.947,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@koylanai\n·\nDec 5",
+        "text": "OpenAI wants markdown structure. Anthropic prefers XML tags. Google emphasizes few-shot examples.\n\nSo I built a simple agent system that reads the official prompting docs and applies them to the given prompt.\n\nEach optimizer runs a ReAct loop:\n- list_provider_docs → discover",
+        "timestamp": "2025-12-16T17:36:30.812544",
+        "x": -0.12007862329483032,
+        "y": 7.260163307189941,
+        "sentiment_score": -0.016,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@zlwaterfield\n·\nDec 5",
+        "text": "Unpopular opinion: in 18 months Anthropic will be bigger than OpenAI.",
+        "timestamp": "2025-12-16T17:36:33.095227",
+        "x": -2.563006639480591,
+        "y": -0.007721312809735537,
+        "sentiment_score": 0.294,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@rahulgs\n·\nDec 11",
+        "text": "anthropic has an opportunity to do something really funny here",
+        "timestamp": "2025-12-16T17:36:33.108991",
+        "x": 3.7427079677581787,
+        "y": 3.4430344104766846,
+        "sentiment_score": 0.889,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@amix3k\n·\nDec 14",
+        "text": "Apart from topping benchmarks, Opus 4.5 feels like it’s in a league of its own. It’s the first time I’ve felt that an LLM can write better code than most devs in real-world work.\n\nWe don’t know the real reason unless Anthropic shares the secret sauce, but a couple of ideas:\n\n—",
+        "timestamp": "2025-12-16T17:36:33.121541",
+        "x": 3.8321382999420166,
+        "y": -8.674741744995117,
+        "sentiment_score": 0.902,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@gsarti_\n·\nDec 8",
+        "text": "Fun to see Interp thought leaders declaring, yet again, that feature attribution is dead! Meanwhile, it remains a core component of methods like:\n- Attribution patching and AtP*\n- Anthropic's circuit tracing (GradxAct on MLPs)\n- Transluce's neuron circuits  (AttnLRP on MLP acts)",
+        "timestamp": "2025-12-16T17:36:38.290715",
+        "x": -2.9004526138305664,
+        "y": -5.49238395690918,
+        "sentiment_score": -0.01,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@ChronisKod\n·\nDec 7",
+        "text": "$Reppo may become the anti-sycophancy layer for all AI models.\nEvery major model today (OpenAI, Anthropic, DeepMind, Meta) is silently fighting the same catastrophic failure mode:\n\nAI sycophancy.\n\nModels give the answer they think you want, not the answer that’s correct.\nIt’s one",
+        "timestamp": "2025-12-16T17:36:38.303384",
+        "x": -4.027437686920166,
+        "y": -5.886775016784668,
+        "sentiment_score": -0.681,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@batwood011\n·\nDec 7",
+        "text": "I wouldn't be surprised if Anthropic became the world's most valuable company\n\nAnd I also wouldn't be surprised if it (and all the other closed lab companies) tanked\n\nWeird situation",
+        "timestamp": "2025-12-16T17:36:38.316377",
+        "x": -1.0224119424819946,
+        "y": -1.8565185070037842,
+        "sentiment_score": -0.6,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@dchristian19\n·\nDec 9",
+        "text": "Before everyone heads out for the holidays , here’s one important decision worth wrapping up now—especially for IT leaders, security teams, and decision makers across the Microsoft ecosystem.\n\nMicrosoft has announced a change where Anthropic will soon become an AI",
+        "timestamp": "2025-12-16T17:36:38.329337",
+        "x": -0.35367918014526367,
+        "y": 2.0762691497802734,
+        "sentiment_score": 0.508,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@honour_can_code\n·\nDec 13",
+        "text": "hi \n@Google\n , kindly remove all gemini model from anthropic, thanks.\n\nor atleast make them able to code.",
+        "timestamp": "2025-12-16T17:36:41.165722",
+        "x": 0.11536207795143127,
+        "y": -5.366196155548096,
+        "sentiment_score": -0.278,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@HealthRanger\n·\nDec 6",
+        "text": "As U.S. AI engines (Gemini, Anthropic, Perplexity, ChatGPT, Microsoft, etc.) become even more CENSORSHIP oriented and restricted on what you're allowed to ask them, China's open source models will sweep in and take their market share. Why?\n\n- China's open source models like",
+        "timestamp": "2025-12-16T17:36:41.175727",
+        "x": -5.832214832305908,
+        "y": -1.8908590078353882,
+        "sentiment_score": -0.421,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@0x_kvl\n·\nDec 11",
+        "text": "Which AI assistant do you think is better overall, easy to use, and brings the best results?\n\n1.  ChatGPT (by OpenAI)\n2.  Grok (by xAI / Elon Musk)\n3.  Gemini (by Google DeepMind)\n4.  Claude (by Anthropic)\n\nProve with your experience",
+        "timestamp": "2025-12-16T17:36:41.186971",
+        "x": 8.64235782623291,
+        "y": -1.5572340488433838,
+        "sentiment_score": 0.596,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@fredcavazza\n·\nDec 8",
+        "text": "The announcement went unnoticed, but Claude's publisher just dropped a bombshell. Anthropic Interviewer is to marketing what Claude Code is to computing: an existential threat to juniors.\n#GenAI #Marketing",
+        "timestamp": "2025-12-16T17:36:41.198136",
+        "x": 3.9287686347961426,
+        "y": -2.658233880996704,
+        "sentiment_score": -0.479,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@xiaohua_888\n·\nDec 10",
+        "text": "Anthropic's latest sharing totally woke me up\nStop building Agents, go build Skills instead\n\nThey used a brilliant analogy:\n\nWho would you have help you with your taxes? A 300 IQ math genius, or an experienced veteran accountant?\n\nThe answer is obvious. Today's Agents are that",
+        "timestamp": "2025-12-16T17:36:43.408778",
+        "x": 2.3972511291503906,
+        "y": 1.2679815292358398,
+        "sentiment_score": 0.658,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@smartertrader\n·\nDec 12",
+        "text": ": avgo can you imagine you are googl and you been w avgo to 10 yr and they charging you more then they charge anthropic\n\nwtf   avgo  339 poss",
+        "timestamp": "2025-12-16T17:36:43.425394",
+        "x": 8.814735412597656,
+        "y": -7.611344814300537,
+        "sentiment_score": -0.529,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@XenoSpectrumJP\n·\nDec 14",
+        "text": "\"The Ultimate Risk\" or Human Prosperity. Anthropic's Chief Scientist Warns of the \"Biggest Decision\" in 2030 and the Future of AI Self-Evolution | XenoSpectrum",
+        "timestamp": "2025-12-16T17:36:43.440076",
+        "x": -1.0162389278411865,
+        "y": 0.7198619842529297,
+        "sentiment_score": 0.019,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@k7agar\n·\nDec 6",
+        "text": "anthropic has so much funding that they build the whole ass bridge for the backdrop ",
+        "timestamp": "2025-12-16T17:36:45.192440",
+        "x": 1.7447963953018188,
+        "y": 4.463233947753906,
+        "sentiment_score": 0.34,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@DaveShapi\n·\nDec 5",
+        "text": "Upgraded back to Claude Opus. \n\nAnthropic definitely cooked here.",
+        "timestamp": "2025-12-16T17:36:45.204600",
+        "x": 4.695638656616211,
+        "y": -6.763504981994629,
+        "sentiment_score": 0.095,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@AlobhaPatrick\n·\nDec 8",
+        "text": "Good job to anthropic. \n\nThis is wild",
+        "timestamp": "2025-12-16T17:36:45.216352",
+        "x": 3.925680160522461,
+        "y": 3.3544583320617676,
+        "sentiment_score": 0.886,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@shota7180\n·\nDec 5",
+        "text": "Anthropic releases new tool \"Anthropic Interviewer\"!\n\nBased on Claude, it conducts interviews with users regarding the actual usage of AI.\n\nBy continuing to answer questions, users can articulate their thoughts about AI and gain an opportunity to reflect on their approach to",
+        "timestamp": "2025-12-16T17:36:47.100087",
+        "x": 4.271773815155029,
+        "y": -0.30034446716308594,
+        "sentiment_score": 0.187,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@Argentum_AI\n·\n9h",
+        "text": "AI TAKES OVER GLOBAL FUNDING\n\nIn 2025, AI grabbed nearly 50% of global venture funding, up from 34% in 2024.\n\nOpenAI and Anthropic alone took 14% of total global investment.",
+        "timestamp": "2025-12-16T17:36:50.033574",
+        "x": -4.556947708129883,
+        "y": 0.7835137248039246,
+        "sentiment_score": 0.539,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@op7418\n·\nDec 8",
+        "text": "Trump announces resumption of H200 exports to China\n\nAt the same time, 25% of the income will be handed over to the federal government, which is essentially imposing something akin to a tariff on the relevant exports.\n\nNow the Anthropic CEO is probably dying of anxiety.",
+        "timestamp": "2025-12-16T17:36:50.045313",
+        "x": -7.455952167510986,
+        "y": -5.299814701080322,
+        "sentiment_score": -0.366,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@CardRatesNews",
+        "text": "Stories for the Industry, not the Consumer\n\n* Original Polls & Research \n* In-Depth Analysis & Op Eds\n* Breaking Updates \n\nFollow \n@CardRatesNews\n For Daily Coverage",
+        "timestamp": "2025-12-16T17:36:52.941524",
+        "x": -8.889262199401855,
+        "y": 2.379108190536499,
+        "sentiment_score": -0.006,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@Aisafetyorg\n·\nDec 6",
+        "text": "This is the part nobody in AI wants to talk about.\n\nThe newest AI Safety Index just dropped… and the gap between the top companies and everyone else is larger than anyone expected.\n\nAnthropic, OpenAI, and Google DeepMind are pulling away.\nxAI, Meta, DeepSeek, Z. ai, and Alibaba",
+        "timestamp": "2025-12-16T17:36:54.587836",
+        "x": -4.815826416015625,
+        "y": -0.46008700132369995,
+        "sentiment_score": -0.724,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@CoinDeskjapan\n·\nDec 8",
+        "text": "Anthropic Demonstrates Smart Contract Attack by AI — Discovery of $4.6 Million Worth of Vulnerabilities and Automation of Zero-Day Attacks",
+        "timestamp": "2025-12-16T17:36:54.604671",
+        "x": -1.8432978391647339,
+        "y": 5.0985236167907715,
+        "sentiment_score": 0.009,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@status_is_down\n·\n6h",
+        "text": "Claude AI is reportedly down for hundreds of users right now. Are you one of them? #ClaudeDown #Anthropic #ClaudeAiDown",
+        "timestamp": "2025-12-16T17:36:57.605238",
+        "x": 4.833792209625244,
+        "y": -3.257566452026367,
+        "sentiment_score": -0.778,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@k1rallik\n·\nDec 9",
+        "text": "2025 really feels like the year of AI\nI already struggle to imagine life without it\n\nMarkets show a clear three way fight\nGoogle OpenAI Anthropic\n\nOn the chart Google sits near 76 percent OpenAI near 19 Anthropic and xAI far behind\n\nClaude 4.5 shows insane talent in math and code",
+        "timestamp": "2025-12-16T17:36:57.617450",
+        "x": -3.6846983432769775,
+        "y": 0.5535554885864258,
+        "sentiment_score": 0.695,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@dayonefoundry\n·\nDec 5",
+        "text": "I invested in xAI, OpenAI, and Anthropic\n\nIf they replace my job, I have the stocks to live off\nIf they don't, I have my job to live off\n\nIf Perplexity wins I'm kinda fucked though",
+        "timestamp": "2025-12-16T17:37:00.291023",
+        "x": -7.034378528594971,
+        "y": 1.1672563552856445,
+        "sentiment_score": -0.243,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@polydao\n·\nDec 11",
+        "text": "POLYMARKET BREAKING NEWS DIGEST #2 \n\nWhat actually moved today on Polymarket - your quick pulse check:\n\n• Will Trump talk to Modi in December? - up 68%\n \nhttps://\npolymarket.com/event/who-will\n-trump-talk-to-in-december/will-trump-talk-to-narendra-modi-in-december?via=dao\n…\n\n• Anthropic best math model by year-end? - up 25%\n \nhttps://\npolymarket.com/event/which-co\nmpany-will-have-the-best-ai-model-for-math-at-the-end-of-2025/will-anthropic-have-the-best-ai-model-for-math-at-the-end-of-2025?via=dao\n…\n\n• Israel strike",
+        "timestamp": "2025-12-16T17:37:00.305002",
+        "x": -5.281630516052246,
+        "y": 2.2232868671417236,
+        "sentiment_score": 0.045,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@ContrarianCurse\n·\nDec 12",
+        "text": "Anthropic is very blessed. Off the radar for vast majority of consumers, so higher % of demand coming from Pro users seeing and paying for value off the API and max tiers \n\nOAI having to serve retarded queries from boomers and make 30 sec videos no one cares about",
+        "timestamp": "2025-12-16T17:37:01.934436",
+        "x": -0.9510891437530518,
+        "y": -0.8663725852966309,
+        "sentiment_score": 0.717,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@AnthropicDualiT\n·\n3h",
+        "text": "",
+        "timestamp": "2025-12-16T17:37:01.949481",
+        "x": 11.329670906066895,
+        "y": -5.276145935058594,
+        "sentiment_score": 0.176,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@sopersone\n·\nDec 12",
+        "text": "Can Anthropic maintain its position as the best AI model for coding?\n\nafter the release of Opus 4.5 on 24 nov, Anthropic confidently secured the top spot in \n@Polymarket\n  traders  rankings.\n\nthe previous version was already a leader, and the release of the new one only confirmed",
+        "timestamp": "2025-12-16T17:37:04.279836",
+        "x": 0.6499365568161011,
+        "y": -1.653434157371521,
+        "sentiment_score": 0.721,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@klingefjord\n·\nDec 7",
+        "text": "Anthropic Interviewer is *really* cool, amazing job \n@saffronhuang\n and team!\n\nDidn't just ask me about how I want to use AI, but drilled down into what my desired use cases unlock in my life. \n\nQualitative big data about values like that is gonna change a lot of fields soon.... ",
+        "timestamp": "2025-12-16T17:37:07.250752",
+        "x": 4.286568641662598,
+        "y": 0.18797121942043304,
+        "sentiment_score": 0.958,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@suzuki_shuhei\n·\n11h",
+        "text": "エンタープライズだと、claudeの方がシェアが高いんだ\n\nAnthropic Dominates Enterprise AI Market",
+        "timestamp": "2025-12-16T17:37:07.271606",
+        "x": -7.846499443054199,
+        "y": -2.4917495250701904,
+        "sentiment_score": 0.091,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    },
+    {
+        "handle": "@HarryStebbings\n·\n10h",
+        "text": "Venture investors are going through an existential crisis. \n\nIf you are not in the OpenAI, Anthropic, Cursor, Mercor etc etc you do not fricking matter.",
+        "timestamp": "2025-12-16T17:37:09.881486",
+        "x": -7.538768768310547,
+        "y": 1.4776018857955933,
+        "sentiment_score": -0.581,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@0xTykoo\n·\nDec 11",
+        "text": "2026 may be the year that feels the most like an economic upturn after emerging from the pandemic:\n\nMonster-level tech companies lining up for IPOs: SpaceX, Anthropic, OpenAI, Databricks, Kraken\n\nA host of classic movie IPs returning: Avengers: Doomsday, Spider-Man: A Fresh",
+        "timestamp": "2025-12-16T17:37:09.898425",
+        "x": -5.5046539306640625,
+        "y": 4.025374889373779,
+        "sentiment_score": 0.726,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@TrungTPhan\n·\nApr 13, 2023",
+        "text": "Amazon released “Bedrock”, a generative AI toolkit for chat, text and image. \n\nIt has access to foundational models from AI21 (Jurassic-2), Anthropic (Claude), Stability AI (Stable Diffusion) and Amazon (Titan). \n\nAmazon (10.1k) actually has more AI employees than Microsoft",
+        "timestamp": "2025-12-16T17:37:12.737716",
+        "x": -0.9797577857971191,
+        "y": 3.0935146808624268,
+        "sentiment_score": 0.516,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@TheAhmadOsman\n·\nNov 15",
+        "text": "a reminder that Anthropic is a\n\n> fear-mongering company thatʼs\n> lobbying against opensource AI\n> to stop you from running\n> your own AI models\n\ntheyʼre\n\n> pro-regulation with an agenda\n> pushing “safety” as control\n> wants to gatekeep, not protect\n> malicious\n\nDO NOT TRUST THEM",
+        "timestamp": "2025-12-16T17:37:12.760632",
+        "x": -0.031935106962919235,
+        "y": 0.09120102971792221,
+        "sentiment_score": -0.798,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@DarioAmodei\n·\nOct 11",
+        "text": "Today I met with PM \n@narendramodi\n to discuss Anthropic's expansion to India—where Claude Code use is up 5× since June. How India deploys AI across critical sectors like education, healthcare, and agriculture for over a billion people will be essential in shaping the future of AI.",
+        "timestamp": "2025-12-16T17:37:14.443466",
+        "x": 1.1220635175704956,
+        "y": -0.412279337644577,
+        "sentiment_score": 0.618,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@scaling01\n·\nDec 11",
+        "text": "Anthropic is shopping",
+        "timestamp": "2025-12-16T17:37:14.462811",
+        "x": 3.479722261428833,
+        "y": 4.384535312652588,
+        "sentiment_score": 0.152,
+        "sentiment_label": "positive",
+        "cluster": 2
+    }
+]

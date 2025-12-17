@@ -1,0 +1,112 @@
+[
+    {
+        "handle": "@rubenhassid\n·\nJun 20, 2024",
+        "text": "BREAKING: claude 3.5 is live since 1h.\n\nThey claim to be better than gpt-4o.\n\nSo I ran my own little test:  \n\ntest #1 → copy the UI of a website",
+        "timestamp": "2025-12-16T17:58:32.549355",
+        "x": -60.449947357177734,
+        "y": -16.433368682861328,
+        "sentiment_score": 0.348,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@ns123abc\n·\nAug 31",
+        "text": "BREAKING: OpenAI researchoor admits claude code is better than codex \n\nit’s over",
+        "timestamp": "2025-12-16T17:58:32.585029",
+        "x": -16.27285385131836,
+        "y": 47.3724479675293,
+        "sentiment_score": 0.167,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@rubenhassid\n·\nJun 21, 2024",
+        "text": "claude 3.5 claims to be better than gpt4o.\n\nI don't trust benchmarks. \n\nSo I ran my own tests:\n\ntest #1 → analyze a 42-page PDF",
+        "timestamp": "2025-12-16T17:58:32.603041",
+        "x": 41.804405212402344,
+        "y": -33.75778579711914,
+        "sentiment_score": -0.715,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@0xSero\n·\nDec 3",
+        "text": "I have been using 5-10 Claude Opus instances 12-24 hours a day, on the 200$ a month plan. \n\nI am not one to shill but the value on this is incredible, for now. I feel Anthropic has been getting much better at listening.",
+        "timestamp": "2025-12-16T17:58:32.624974",
+        "x": 1.4539458751678467,
+        "y": 14.816119194030762,
+        "sentiment_score": 0.824,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@ChrisLaubAI\n·\nNov 29",
+        "text": " This project just made most AI agents look outdated.\n\nIt’s called Better Agents and it supercharges your coding assistant (Kilocode, Claude Code, Cursor, etc), making it an expert in any agent framework you choose (Agno, Mastra, etc) and all their best practices.\n\nThis is the",
+        "timestamp": "2025-12-16T17:58:35.466591",
+        "x": 6.183922290802002,
+        "y": -57.23310470581055,
+        "sentiment_score": 0.787,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@aakashg0\n·\nDec 8",
+        "text": "ChatGPT Codex is insane. \n\nBetter than Claude Code at many things. \n\nSo here's a complete guide, with \n@carlvellotti\n:\n\n5:07 Setting Up Your Workspace with Files  \n25:28 Running Code and Connecting APIs  \n44:56 Codex vs Claude Code  \n1:13:36 Test Driven Development",
+        "timestamp": "2025-12-16T17:58:35.484859",
+        "x": -30.517433166503906,
+        "y": -44.76523208618164,
+        "sentiment_score": 0.689,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@rubenhassid\n·\nMar 5, 2024",
+        "text": "claude 3 claims to be better than gpt-4\n\nI don't trust benchmarks. \n\nSo I ran my own tests:\n\ntest #1 → analyze a 42-page PDF",
+        "timestamp": "2025-12-16T17:58:37.453854",
+        "x": 7.1822099685668945,
+        "y": -20.030920028686523,
+        "sentiment_score": -0.63,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@livedocshq\n·\n3h",
+        "text": "GPT5.1 is better than Claude 4.5 for data analysis?!\n\nFull breakdown here  \nhttps://\nlivedocs.com/blog/gpt-or-cl\naude-for-data-analysis\n…",
+        "timestamp": "2025-12-16T17:58:37.470530",
+        "x": 26.182613372802734,
+        "y": 42.440406799316406,
+        "sentiment_score": 0.264,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@daniel_271828\n·\nDec 12",
+        "text": "Claude doesn’t do much better:",
+        "timestamp": "2025-12-16T17:58:42.041986",
+        "x": -46.66559982299805,
+        "y": 23.488122940063477,
+        "sentiment_score": -0.853,
+        "sentiment_label": "negative",
+        "cluster": 0
+    },
+    {
+        "handle": "@_StanGirard\n·\n1h",
+        "text": "Claude agent sdk is insane. In an hour of vibe coding I was able to build something better than what I spent 1 year building at \n@quivr_brain",
+        "timestamp": "2025-12-16T17:58:42.058895",
+        "x": -24.970178604125977,
+        "y": -7.001452445983887,
+        "sentiment_score": 0.911,
+        "sentiment_label": "positive",
+        "cluster": 2
+    },
+    {
+        "handle": "@Jordy_vD_\n·\nDec 6",
+        "text": "Every now and then I hear Claude is a better writing assistant and ofc it’s better at supporting MCP and stuff.\n\nBut why is the app so jank?",
+        "timestamp": "2025-12-16T17:58:42.077669",
+        "x": 40.14159393310547,
+        "y": 5.272041320800781,
+        "sentiment_score": 0.031,
+        "sentiment_label": "neutral",
+        "cluster": 1
+    }
+]
