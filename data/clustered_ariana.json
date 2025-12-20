@@ -1,0 +1,999 @@
+[
+    {
+        "handle": "@arianafeeds\n·\n11h",
+        "text": "she looks so beautiful",
+        "timestamp": "2025-12-19T13:33:06.745291",
+        "x": 1.203808307647705,
+        "y": -0.40103018283843994,
+        "sentiment": "positive",
+        "sentiment_score": 0.964,
+        "emotion": "joy",
+        "emotion_score": 0.512,
+        "cluster": 2,
+        "topics": [
+            "looks beautiful",
+            "beautiful"
+        ],
+        "primary_topic": "looks beautiful"
+    },
+    {
+        "handle": "@arianafeeds\n·\n18h",
+        "text": "ariana grande omfg",
+        "timestamp": "2025-12-19T13:33:06.776413",
+        "x": 1.44389808177948,
+        "y": -2.2953436374664307,
+        "sentiment": "positive",
+        "sentiment_score": 0.669,
+        "emotion": "neutral",
+        "emotion_score": 0.54,
+        "cluster": 2,
+        "topics": [
+            "ariana grande",
+            "ariana"
+        ],
+        "primary_topic": "ariana grande"
+    },
+    {
+        "handle": "@AutoTrader_com",
+        "text": "From full-size pickups to mid sizers and even a crossover-based model, this month’s best new truck lease deals have a little something for just about everyone.",
+        "timestamp": "2025-12-19T13:33:06.803958",
+        "x": 3.137016534805298,
+        "y": -4.633398056030273,
+        "sentiment": "positive",
+        "sentiment_score": 0.856,
+        "emotion": "neutral",
+        "emotion_score": 0.911,
+        "cluster": 2,
+        "topics": [
+            "truck lease",
+            "lease deals"
+        ],
+        "primary_topic": "truck lease"
+    },
+    {
+        "handle": "@arianafeeds\n·\n12h",
+        "text": "the people’s princess",
+        "timestamp": "2025-12-19T13:33:06.817736",
+        "x": 2.096916913986206,
+        "y": -0.7636672258377075,
+        "sentiment": "positive",
+        "sentiment_score": 0.491,
+        "emotion": "neutral",
+        "emotion_score": 0.868,
+        "cluster": 2,
+        "topics": [
+            "people princess",
+            "princess"
+        ],
+        "primary_topic": "people princess"
+    },
+    {
+        "handle": "@nmixxpics_·8h",
+        "text": "LILY COVERS ‘SANTA TELL ME’ BY ARIANA GRANDE FOR W KOREA’s W SETLIST CAROL",
+        "timestamp": "2025-12-19T13:33:06.831535",
+        "x": 1.3373539447784424,
+        "y": -3.7955267429351807,
+        "sentiment": "positive",
+        "sentiment_score": 0.113,
+        "emotion": "neutral",
+        "emotion_score": 0.922,
+        "cluster": 2,
+        "topics": [
+            "setlist carol",
+            "lily covers"
+        ],
+        "primary_topic": "setlist carol"
+    },
+    {
+        "handle": "@KelleyBlueBook",
+        "text": "Ready to test-drive your next car? Don’t just wing it—bring this checklist and drive smarter.",
+        "timestamp": "2025-12-19T13:33:08.515169",
+        "x": 3.5290911197662354,
+        "y": -4.296745777130127,
+        "sentiment": "positive",
+        "sentiment_score": 0.531,
+        "emotion": "neutral",
+        "emotion_score": 0.865,
+        "cluster": 2,
+        "topics": [
+            "drive smarter",
+            "test drive"
+        ],
+        "primary_topic": "drive smarter"
+    },
+    {
+        "handle": "@theegrandeheels\n·\n19h",
+        "text": "ariana grande looks breathtaking for snl",
+        "timestamp": "2025-12-19T13:33:11.444255",
+        "x": 0.6882966160774231,
+        "y": -1.9909179210662842,
+        "sentiment": "positive",
+        "sentiment_score": 0.946,
+        "emotion": "joy",
+        "emotion_score": 0.47,
+        "cluster": 2,
+        "topics": [
+            "ariana grande",
+            "breathtaking snl"
+        ],
+        "primary_topic": "ariana grande"
+    },
+    {
+        "handle": "@arianafeeds\n·\nDec 16",
+        "text": "i love this look",
+        "timestamp": "2025-12-19T13:33:11.467337",
+        "x": 1.2049986124038696,
+        "y": -0.22686275839805603,
+        "sentiment": "positive",
+        "sentiment_score": 0.952,
+        "emotion": "joy",
+        "emotion_score": 0.989,
+        "cluster": 2,
+        "topics": [
+            "love look",
+            "look"
+        ],
+        "primary_topic": "love look"
+    },
+    {
+        "handle": "@ArianaWorldHQ\n·\n17h",
+        "text": "Princess Ari",
+        "timestamp": "2025-12-19T13:33:14.177732",
+        "x": 2.2812297344207764,
+        "y": -0.5711277723312378,
+        "sentiment": "positive",
+        "sentiment_score": 0.428,
+        "emotion": "neutral",
+        "emotion_score": 0.859,
+        "cluster": 2,
+        "topics": [
+            "princess ari",
+            "ari"
+        ],
+        "primary_topic": "princess ari"
+    },
+    {
+        "handle": "@arianafeeds\n·\nDec 17",
+        "text": "this mug",
+        "timestamp": "2025-12-19T13:33:14.191487",
+        "x": 0.9428035616874695,
+        "y": -0.8806473016738892,
+        "sentiment": "negative",
+        "sentiment_score": -0.362,
+        "emotion": "neutral",
+        "emotion_score": 0.741,
+        "cluster": 0,
+        "topics": [
+            "mug"
+        ],
+        "primary_topic": "mug"
+    },
+    {
+        "handle": "@plasticmakers",
+        "text": "Innovations in recycling technologies are powering the future of U.S. manufacturing, supporting jobs AND sustainability",
+        "timestamp": "2025-12-19T13:33:17.084735",
+        "x": 3.0348222255706787,
+        "y": -4.190455913543701,
+        "sentiment": "positive",
+        "sentiment_score": 0.91,
+        "emotion": "neutral",
+        "emotion_score": 0.865,
+        "cluster": 2,
+        "topics": [
+            "recycling technologies",
+            "innovations recycling"
+        ],
+        "primary_topic": "recycling technologies"
+    },
+    {
+        "handle": "@ArianatorFallen\n·\n16h",
+        "text": "Ariana is so princess coded",
+        "timestamp": "2025-12-19T13:33:17.101595",
+        "x": 2.743623971939087,
+        "y": -1.4859569072723389,
+        "sentiment": "positive",
+        "sentiment_score": 0.588,
+        "emotion": "neutral",
+        "emotion_score": 0.908,
+        "cluster": 2,
+        "topics": [
+            "ariana princess",
+            "ariana"
+        ],
+        "primary_topic": "ariana princess"
+    },
+    {
+        "handle": "@wickedmovie\n·\nDec 18",
+        "text": "Ariana Grande shines as Glinda ",
+        "timestamp": "2025-12-19T13:33:18.877431",
+        "x": 1.7110875844955444,
+        "y": -1.7587028741836548,
+        "sentiment": "positive",
+        "sentiment_score": 0.712,
+        "emotion": "joy",
+        "emotion_score": 0.394,
+        "cluster": 2,
+        "topics": [
+            "shines glinda",
+            "ariana grande"
+        ],
+        "primary_topic": "shines glinda"
+    },
+    {
+        "handle": "@PopCrave\n·\n19h",
+        "text": "Cher and Ariana Grande for SNL.",
+        "timestamp": "2025-12-19T13:33:21.861751",
+        "x": 0.43707582354545593,
+        "y": -2.8363215923309326,
+        "sentiment": "positive",
+        "sentiment_score": 0.241,
+        "emotion": "neutral",
+        "emotion_score": 0.768,
+        "cluster": 2,
+        "topics": [
+            "cher ariana",
+            "grande snl"
+        ],
+        "primary_topic": "cher ariana"
+    },
+    {
+        "handle": "@ArianaToday\n·\n17h",
+        "text": "ariana grande on late night with seth meyers ♡",
+        "timestamp": "2025-12-19T13:33:21.874196",
+        "x": 0.8004087805747986,
+        "y": -2.9484236240386963,
+        "sentiment": "positive",
+        "sentiment_score": 0.697,
+        "emotion": "joy",
+        "emotion_score": 0.68,
+        "cluster": 2,
+        "topics": [
+            "ariana grande",
+            "ariana"
+        ],
+        "primary_topic": "ariana grande"
+    },
+    {
+        "handle": "@vibezayriana\n·\nDec 17",
+        "text": "ariana’s looks during the voice era were so iconic",
+        "timestamp": "2025-12-19T13:33:21.887789",
+        "x": 2.5160410404205322,
+        "y": -1.5973327159881592,
+        "sentiment": "positive",
+        "sentiment_score": 0.933,
+        "emotion": "neutral",
+        "emotion_score": 0.734,
+        "cluster": 2,
+        "topics": [
+            "ariana looks",
+            "ariana"
+        ],
+        "primary_topic": "ariana looks"
+    },
+    {
+        "handle": "@styledinred\n·\nDec 18",
+        "text": "ticket to ariana grande concert OR night with him?",
+        "timestamp": "2025-12-19T13:33:24.476345",
+        "x": 0.6101738810539246,
+        "y": -3.3326759338378906,
+        "sentiment": "neutral",
+        "sentiment_score": 0.085,
+        "emotion": "neutral",
+        "emotion_score": 0.592,
+        "cluster": 1,
+        "topics": [
+            "ticket ariana",
+            "grande concert"
+        ],
+        "primary_topic": "ticket ariana"
+    },
+    {
+        "handle": "@BuzzingPop\n·\n16h",
+        "text": "Ariana Grande stuns in vintage Bob Mackie dress for #SNL promo, originally worn by Carol Burnett in 1973.",
+        "timestamp": "2025-12-19T13:33:24.494383",
+        "x": -0.15110260248184204,
+        "y": -2.5515267848968506,
+        "sentiment": "positive",
+        "sentiment_score": 0.665,
+        "emotion": "joy",
+        "emotion_score": 0.453,
+        "cluster": 2,
+        "topics": [
+            "mackie dress",
+            "dress snl"
+        ],
+        "primary_topic": "mackie dress"
+    },
+    {
+        "handle": "@Variety\n·\n2m",
+        "text": "Bowen Yang is exiting #SNL in the middle of his eighth season on the show. \n\nHis last turn as a cast member will be this Saturday’s episode, which is being hosted by Ariana Grande with Cher as musical guest.\n\n\nhttps://\nvariety.com/2025/tv/news/b\nowen-yang-exit-snl-cast-1236612812/\n…",
+        "timestamp": "2025-12-19T13:33:28.839737",
+        "x": -0.2023611217737198,
+        "y": -3.110917091369629,
+        "sentiment": "neutral",
+        "sentiment_score": -0.033,
+        "emotion": "fear",
+        "emotion_score": 0.695,
+        "cluster": 1,
+        "topics": [
+            "exiting snl",
+            "exit snl"
+        ],
+        "primary_topic": "exiting snl"
+    },
+    {
+        "handle": "@vodolove\n·\n22h",
+        "text": "No Text",
+        "timestamp": "2025-12-19T13:33:28.852990",
+        "x": 2.4143271446228027,
+        "y": -2.9031825065612793,
+        "sentiment": "neutral",
+        "sentiment_score": 0.007,
+        "emotion": "neutral",
+        "emotion_score": 0.861,
+        "cluster": 1,
+        "topics": [
+            "text"
+        ],
+        "primary_topic": "text"
+    },
+    {
+        "handle": "@pbzero_official",
+        "text": "Phantom Blade Zero launches worldwide on September 9, 2026 on Steam, PlayStation, and the Epic Games Store.\n\nJoin the journey and wishlist today to stay connected!",
+        "timestamp": "2025-12-19T13:33:28.869368",
+        "x": 2.634861946105957,
+        "y": -4.218726634979248,
+        "sentiment": "positive",
+        "sentiment_score": 0.63,
+        "emotion": "neutral",
+        "emotion_score": 0.885,
+        "cluster": 2,
+        "topics": [
+            "blade zero",
+            "phantom blade"
+        ],
+        "primary_topic": "blade zero"
+    },
+    {
+        "handle": "@ArianaToday\n·\n15h",
+        "text": "fun fact: ‘christmas & chill’ was made in four days",
+        "timestamp": "2025-12-19T13:33:28.884363",
+        "x": 1.928874135017395,
+        "y": -4.390471935272217,
+        "sentiment": "positive",
+        "sentiment_score": 0.182,
+        "emotion": "joy",
+        "emotion_score": 0.971,
+        "cluster": 2,
+        "topics": [
+            "fact christmas",
+            "christmas chill"
+        ],
+        "primary_topic": "fact christmas"
+    },
+    {
+        "handle": "@rudyIopez\n·\nDec 18",
+        "text": "the concept of ariana grande attending a house party.",
+        "timestamp": "2025-12-19T13:33:31.439586",
+        "x": 1.2868852615356445,
+        "y": -2.382301092147827,
+        "sentiment": "neutral",
+        "sentiment_score": 0.005,
+        "emotion": "disgust",
+        "emotion_score": 0.915,
+        "cluster": 1,
+        "topics": [
+            "ariana grande",
+            "house party"
+        ],
+        "primary_topic": "ariana grande"
+    },
+    {
+        "handle": "@rollymollykd\n·\n3h",
+        "text": "The internet can laugh but when it’s Ariana she can’t even chuckle",
+        "timestamp": "2025-12-19T13:33:34.039151",
+        "x": 2.5097663402557373,
+        "y": -2.2056078910827637,
+        "sentiment": "negative",
+        "sentiment_score": -0.606,
+        "emotion": "neutral",
+        "emotion_score": 0.465,
+        "cluster": 0,
+        "topics": [
+            "laugh ariana",
+            "ariana chuckle"
+        ],
+        "primary_topic": "laugh ariana"
+    },
+    {
+        "handle": "@tscrazier\n·\n9h",
+        "text": "“the lights are never too bright for travis” ",
+        "timestamp": "2025-12-19T13:33:34.055473",
+        "x": 1.9681822061538696,
+        "y": -3.6766276359558105,
+        "sentiment": "positive",
+        "sentiment_score": 0.608,
+        "emotion": "neutral",
+        "emotion_score": 0.709,
+        "cluster": 2,
+        "topics": [
+            "bright travis",
+            "travis"
+        ],
+        "primary_topic": "bright travis"
+    },
+    {
+        "handle": "@CMEActiveTrader",
+        "text": "Go long or short. Crypto futures give you the tools to express directional views without needing coins or custody.",
+        "timestamp": "2025-12-19T13:33:34.070869",
+        "x": 3.4240639209747314,
+        "y": -4.489932060241699,
+        "sentiment": "positive",
+        "sentiment_score": 0.427,
+        "emotion": "neutral",
+        "emotion_score": 0.971,
+        "cluster": 2,
+        "topics": [
+            "crypto futures",
+            "futures"
+        ],
+        "primary_topic": "crypto futures"
+    },
+    {
+        "handle": "@vodolove\n·\nDec 15",
+        "text": "her grillz",
+        "timestamp": "2025-12-19T13:33:39.280766",
+        "x": 0.9201846718788147,
+        "y": -1.3449379205703735,
+        "sentiment": "positive",
+        "sentiment_score": 0.157,
+        "emotion": "neutral",
+        "emotion_score": 0.871,
+        "cluster": 2,
+        "topics": [
+            "grillz"
+        ],
+        "primary_topic": "grillz"
+    },
+    {
+        "handle": "@iconiksongs\n·\n15h",
+        "text": "5 years ago, ariana grande released '34+35'",
+        "timestamp": "2025-12-19T13:33:39.296032",
+        "x": 1.4509577751159668,
+        "y": -3.2183780670166016,
+        "sentiment": "positive",
+        "sentiment_score": 0.189,
+        "emotion": "surprise",
+        "emotion_score": 0.472,
+        "cluster": 2,
+        "topics": [
+            "ariana grande",
+            "released 34"
+        ],
+        "primary_topic": "ariana grande"
+    },
+    {
+        "handle": "@PopCrave\n·\n20h",
+        "text": "JT tells \n@Dazed\n she was introduced to Ariana Grande by her prison bunkee, who was a huge fan:\n\n“I was just falling in love, in love, and then I became more of an Arianator than her.”",
+        "timestamp": "2025-12-19T13:33:41.670929",
+        "x": 1.3337458372116089,
+        "y": -1.951879858970642,
+        "sentiment": "positive",
+        "sentiment_score": 0.346,
+        "emotion": "surprise",
+        "emotion_score": 0.863,
+        "cluster": 2,
+        "topics": [
+            "ariana grande",
+            "introduced ariana"
+        ],
+        "primary_topic": "ariana grande"
+    },
+    {
+        "handle": "@browseract",
+        "text": "Can’t scrape the sites you need? Browseract scrapes any website without code—beats CAPTCHAs, rotates IPs, and handles logins, dynamic pages, and infinite scroll with human‑like reliability. Build smart templates with simple prompts and power Make & n8n automation workflows.",
+        "timestamp": "2025-12-19T13:33:41.685537",
+        "x": 3.4601497650146484,
+        "y": -3.7419371604919434,
+        "sentiment": "positive",
+        "sentiment_score": 0.215,
+        "emotion": "neutral",
+        "emotion_score": 0.961,
+        "cluster": 2,
+        "topics": [
+            "browseract scrapes",
+            "scrapes website"
+        ],
+        "primary_topic": "browseract scrapes"
+    },
+    {
+        "handle": "@erynsbloodline\n·\n6h",
+        "text": "genuinely why did the ariana hate train lowkey die down when mercury retrograde ended…",
+        "timestamp": "2025-12-19T13:33:43.856177",
+        "x": 2.796091079711914,
+        "y": -1.9142248630523682,
+        "sentiment": "negative",
+        "sentiment_score": -0.739,
+        "emotion": "anger",
+        "emotion_score": 0.495,
+        "cluster": 0,
+        "topics": [
+            "did ariana",
+            "ariana hate"
+        ],
+        "primary_topic": "did ariana"
+    },
+    {
+        "handle": "@ArianaToday\n·\nDec 14",
+        "text": "seven years ago, ariana grande released ‘imagine’ ",
+        "timestamp": "2025-12-19T13:33:43.873254",
+        "x": 1.689656138420105,
+        "y": -2.8533711433410645,
+        "sentiment": "positive",
+        "sentiment_score": 0.191,
+        "emotion": "fear",
+        "emotion_score": 0.714,
+        "cluster": 2,
+        "topics": [
+            "released imagine",
+            "ariana grande"
+        ],
+        "primary_topic": "released imagine"
+    },
+    {
+        "handle": "@DEADLINE\n·\n2m",
+        "text": "Bowen Yang is leaving ‘Saturday Night Live.’\n\nDeadline understands that Yang will leave ‘SNL’ at midseason, during the Christmas break, after tomorrow night’s show, which is hosted by his ‘Wicked’ co-star Ariana Grande with a musical performance by Cher.\n\nMore details here:",
+        "timestamp": "2025-12-19T13:33:45.885245",
+        "x": -0.14659899473190308,
+        "y": -3.177730083465576,
+        "sentiment": "neutral",
+        "sentiment_score": 0.022,
+        "emotion": "sadness",
+        "emotion_score": 0.773,
+        "cluster": 1,
+        "topics": [
+            "leave snl",
+            "yang leaving"
+        ],
+        "primary_topic": "leave snl"
+    },
+    {
+        "handle": "@TheWickedSource\n·\n1m",
+        "text": "He knew he couldn’t leave until he got to experience Ariana Grande hosting one more time",
+        "timestamp": "2025-12-19T13:33:48.835349",
+        "x": 0.3487929701805115,
+        "y": -3.5951850414276123,
+        "sentiment": "positive",
+        "sentiment_score": 0.666,
+        "emotion": "neutral",
+        "emotion_score": 0.861,
+        "cluster": 2,
+        "topics": [
+            "ariana grande",
+            "experience ariana"
+        ],
+        "primary_topic": "ariana grande"
+    },
+    {
+        "handle": "@vodolove\n·\nDec 16",
+        "text": "this kinda being where it all started for her",
+        "timestamp": "2025-12-19T13:33:48.850679",
+        "x": 1.7431646585464478,
+        "y": -1.3101527690887451,
+        "sentiment": "neutral",
+        "sentiment_score": 0.011,
+        "emotion": "neutral",
+        "emotion_score": 0.797,
+        "cluster": 1,
+        "topics": [
+            "kinda started",
+            "kinda"
+        ],
+        "primary_topic": "kinda started"
+    },
+    {
+        "handle": "@arianagrandebr\n·\n17h",
+        "text": " LINDA! Ariana Grande no Late Night with Seth Meyers.",
+        "timestamp": "2025-12-19T13:33:51.745340",
+        "x": 0.657913088798523,
+        "y": -2.6894452571868896,
+        "sentiment": "positive",
+        "sentiment_score": 0.174,
+        "emotion": "surprise",
+        "emotion_score": 0.469,
+        "cluster": 2,
+        "topics": [
+            "linda ariana",
+            "ariana grande"
+        ],
+        "primary_topic": "linda ariana"
+    },
+    {
+        "handle": "@HitsAndCharts\n·\nDec 17",
+        "text": "Ariana Grande and The Weeknd are now Spotify’s top 2 in monthly listeners.",
+        "timestamp": "2025-12-19T13:33:51.760308",
+        "x": 1.0325679779052734,
+        "y": -2.850525140762329,
+        "sentiment": "positive",
+        "sentiment_score": 0.754,
+        "emotion": "neutral",
+        "emotion_score": 0.578,
+        "cluster": 2,
+        "topics": [
+            "weeknd spotify",
+            "spotify monthly"
+        ],
+        "primary_topic": "weeknd spotify"
+    },
+    {
+        "handle": "@arianafeeds\n·\nDec 15",
+        "text": "she’s soooooo",
+        "timestamp": "2025-12-19T13:33:56.874472",
+        "x": 1.7450553178787231,
+        "y": -0.1024666577577591,
+        "sentiment": "positive",
+        "sentiment_score": 0.893,
+        "emotion": "surprise",
+        "emotion_score": 0.565,
+        "cluster": 2,
+        "topics": [
+            "soooooo"
+        ],
+        "primary_topic": "soooooo"
+    },
+    {
+        "handle": "@arianafeeds\n·\nDec 17",
+        "text": "she is so cute",
+        "timestamp": "2025-12-19T13:33:56.900065",
+        "x": 1.547218918800354,
+        "y": -0.36669519543647766,
+        "sentiment": "positive",
+        "sentiment_score": 0.953,
+        "emotion": "joy",
+        "emotion_score": 0.814,
+        "cluster": 2,
+        "topics": [
+            "cute"
+        ],
+        "primary_topic": "cute"
+    },
+    {
+        "handle": "@FTMO_com",
+        "text": "Prove your trading skills with simulated capital and start earning real-money rewards!",
+        "timestamp": "2025-12-19T13:33:56.915636",
+        "x": 3.2558224201202393,
+        "y": -4.0486297607421875,
+        "sentiment": "positive",
+        "sentiment_score": 0.716,
+        "emotion": "neutral",
+        "emotion_score": 0.529,
+        "cluster": 2,
+        "topics": [
+            "simulated capital",
+            "trading skills"
+        ],
+        "primary_topic": "simulated capital"
+    },
+    {
+        "handle": "@arianafeeds\n·\nDec 13",
+        "text": "the hair flip",
+        "timestamp": "2025-12-19T13:33:58.867369",
+        "x": 1.6286053657531738,
+        "y": -0.8306607007980347,
+        "sentiment": "neutral",
+        "sentiment_score": 0.001,
+        "emotion": "surprise",
+        "emotion_score": 0.654,
+        "cluster": 1,
+        "topics": [
+            "hair flip",
+            "hair"
+        ],
+        "primary_topic": "hair flip"
+    },
+    {
+        "handle": "@FilmUpdates\n·\n17s",
+        "text": "Bowen Yang is officially exiting SNL. \n\nHis last turn as a cast member will be this Saturday’s episode, which is being hosted by Ariana Grande with Cher as musical guest.",
+        "timestamp": "2025-12-19T13:33:58.890708",
+        "x": -0.0206744447350502,
+        "y": -3.3079833984375,
+        "sentiment": "neutral",
+        "sentiment_score": 0.004,
+        "emotion": "sadness",
+        "emotion_score": 0.449,
+        "cluster": 1,
+        "topics": [
+            "exiting snl",
+            "bowen yang"
+        ],
+        "primary_topic": "exiting snl"
+    },
+    {
+        "handle": "@arianafeeds\n·\nDec 11",
+        "text": "stunning",
+        "timestamp": "2025-12-19T13:34:01.254738",
+        "x": 1.2056138515472412,
+        "y": 0.08493737876415253,
+        "sentiment": "positive",
+        "sentiment_score": 0.82,
+        "emotion": "surprise",
+        "emotion_score": 0.664,
+        "cluster": 2,
+        "topics": [
+            "stunning"
+        ],
+        "primary_topic": "stunning"
+    },
+    {
+        "handle": "@arianafeeds\n·\nDec 15",
+        "text": "real ones get this song",
+        "timestamp": "2025-12-19T13:34:01.285239",
+        "x": 1.9654791355133057,
+        "y": -3.7850990295410156,
+        "sentiment": "positive",
+        "sentiment_score": 0.399,
+        "emotion": "neutral",
+        "emotion_score": 0.673,
+        "cluster": 2,
+        "topics": [
+            "real ones",
+            "ones song"
+        ],
+        "primary_topic": "real ones"
+    },
+    {
+        "handle": "@CipherOwl",
+        "text": "Running a small OTC desk? That $15k/month compliance vendor isn't realistic. So you skip screening, then your bank threatens to close your account because you can't prove due diligence. \n\nWe built pay-per-check screening so compliance costs don't kill your business.",
+        "timestamp": "2025-12-19T13:34:03.410284",
+        "x": 3.7347114086151123,
+        "y": -4.093817234039307,
+        "sentiment": "negative",
+        "sentiment_score": -0.826,
+        "emotion": "fear",
+        "emotion_score": 0.707,
+        "cluster": 0,
+        "topics": [
+            "screening compliance",
+            "screening bank"
+        ],
+        "primary_topic": "screening compliance"
+    },
+    {
+        "handle": "@arianafeeds\n·\nDec 8",
+        "text": "the light is coming live >>",
+        "timestamp": "2025-12-19T13:34:03.426401",
+        "x": 2.272763967514038,
+        "y": -3.433093786239624,
+        "sentiment": "positive",
+        "sentiment_score": 0.759,
+        "emotion": "neutral",
+        "emotion_score": 0.555,
+        "cluster": 2,
+        "topics": [
+            "light coming",
+            "coming live"
+        ],
+        "primary_topic": "light coming"
+    },
+    {
+        "handle": "@arianafeeds\n·\nDec 16",
+        "text": "i mean imagine looking like this",
+        "timestamp": "2025-12-19T13:34:09.380302",
+        "x": 0.74018794298172,
+        "y": -0.6067667603492737,
+        "sentiment": "negative",
+        "sentiment_score": -0.628,
+        "emotion": "joy",
+        "emotion_score": 0.28,
+        "cluster": 0,
+        "topics": [
+            "imagine looking",
+            "imagine"
+        ],
+        "primary_topic": "imagine looking"
+    },
+    {
+        "handle": "@browsertotal",
+        "text": "Ever wonder what your Browser extensions are really doing?\nOr what data that random VSCode plugin is siphoning off?",
+        "timestamp": "2025-12-19T13:34:09.400616",
+        "x": 3.080843448638916,
+        "y": -3.071215867996216,
+        "sentiment": "negative",
+        "sentiment_score": -0.43,
+        "emotion": "surprise",
+        "emotion_score": 0.959,
+        "cluster": 0,
+        "topics": [
+            "vscode plugin",
+            "vscode"
+        ],
+        "primary_topic": "vscode plugin"
+    },
+    {
+        "handle": "@arianafeeds\n·\nDec 8",
+        "text": "we do NOT talk about this glinda look enough",
+        "timestamp": "2025-12-19T13:34:12.266307",
+        "x": 1.3287767171859741,
+        "y": -1.1546961069107056,
+        "sentiment": "negative",
+        "sentiment_score": -0.414,
+        "emotion": "neutral",
+        "emotion_score": 0.88,
+        "cluster": 0,
+        "topics": [
+            "glinda look",
+            "talk glinda"
+        ],
+        "primary_topic": "glinda look"
+    },
+    {
+        "handle": "@magnifcntlygay\n·\nDec 18",
+        "text": "dorothy being taken away by the flying monkeys being one of ariana’s favorite shots in for good ",
+        "timestamp": "2025-12-19T13:34:14.688216",
+        "x": 2.159426689147949,
+        "y": -1.7068110704421997,
+        "sentiment": "positive",
+        "sentiment_score": 0.419,
+        "emotion": "fear",
+        "emotion_score": 0.454,
+        "cluster": 2,
+        "topics": [
+            "monkeys ariana",
+            "flying monkeys"
+        ],
+        "primary_topic": "monkeys ariana"
+    },
+    {
+        "handle": "@PopBase\n·\nDec 18",
+        "text": "‘Christmas & Chill’ by Ariana Grande turns 10.",
+        "timestamp": "2025-12-19T13:34:17.804039",
+        "x": 1.7539077997207642,
+        "y": -4.084659576416016,
+        "sentiment": "positive",
+        "sentiment_score": 0.373,
+        "emotion": "joy",
+        "emotion_score": 0.66,
+        "cluster": 2,
+        "topics": [
+            "christmas chill",
+            "turns 10"
+        ],
+        "primary_topic": "christmas chill"
+    },
+    {
+        "handle": "@vodolove\n·\nDec 14",
+        "text": "ariana with natural hair & no makeup… wow",
+        "timestamp": "2025-12-19T13:34:17.828145",
+        "x": 2.4910402297973633,
+        "y": -1.0901226997375488,
+        "sentiment": "positive",
+        "sentiment_score": 0.716,
+        "emotion": "surprise",
+        "emotion_score": 0.925,
+        "cluster": 2,
+        "topics": [
+            "ariana natural",
+            "ariana"
+        ],
+        "primary_topic": "ariana natural"
+    },
+    {
+        "handle": "@vodolove\n·\nDec 9",
+        "text": "her early blonde",
+        "timestamp": "2025-12-19T13:34:17.857262",
+        "x": 1.4466222524642944,
+        "y": -0.7068842649459839,
+        "sentiment": "positive",
+        "sentiment_score": 0.103,
+        "emotion": "surprise",
+        "emotion_score": 0.574,
+        "cluster": 2,
+        "topics": [
+            "early blonde",
+            "blonde"
+        ],
+        "primary_topic": "early blonde"
+    },
+    {
+        "handle": "@arimoon_agb\n·\nDec 18",
+        "text": " Ariana Grande for SNL, this saturday",
+        "timestamp": "2025-12-19T13:34:23.268065",
+        "x": 0.3429848849773407,
+        "y": -2.5289924144744873,
+        "sentiment": "positive",
+        "sentiment_score": 0.198,
+        "emotion": "sadness",
+        "emotion_score": 0.316,
+        "cluster": 2,
+        "topics": [
+            "ariana grande",
+            "grande snl"
+        ],
+        "primary_topic": "ariana grande"
+    },
+    {
+        "handle": "@ArianaToday\n·\n18h",
+        "text": "ariana grande wearing bob mackie for snl, styled by law roach",
+        "timestamp": "2025-12-19T13:34:23.289683",
+        "x": 0.04885115846991539,
+        "y": -2.2386653423309326,
+        "sentiment": "neutral",
+        "sentiment_score": 0.03,
+        "emotion": "neutral",
+        "emotion_score": 0.454,
+        "cluster": 1,
+        "topics": [
+            "mackie snl",
+            "ariana grande"
+        ],
+        "primary_topic": "mackie snl"
+    },
+    {
+        "handle": "@yaf",
+        "text": "Tired of raging leftists taking over your campus? Join Young Americans for Freedom and take back your school >>",
+        "timestamp": "2025-12-19T13:34:23.309029",
+        "x": 2.7137579917907715,
+        "y": -3.948556661605835,
+        "sentiment": "negative",
+        "sentiment_score": -0.577,
+        "emotion": "anger",
+        "emotion_score": 0.912,
+        "cluster": 0,
+        "topics": [
+            "freedom school",
+            "taking campus"
+        ],
+        "primary_topic": "freedom school"
+    },
+    {
+        "handle": "@arianapologist\n·\n19h",
+        "text": "the concept of Ariana having a huge following in prison",
+        "timestamp": "2025-12-19T13:34:26.421668",
+        "x": 2.9966344833374023,
+        "y": -1.721530556678772,
+        "sentiment": "negative",
+        "sentiment_score": -0.342,
+        "emotion": "anger",
+        "emotion_score": 0.32,
+        "cluster": 0,
+        "topics": [
+            "ariana",
+            "concept ariana"
+        ],
+        "primary_topic": "ariana"
+    },
+    {
+        "handle": "@arianagbnewsnet\n·\n15h",
+        "text": "ariana grande with fran drescher on the late night with seth meyers ♡",
+        "timestamp": "2025-12-19T13:34:29.388732",
+        "x": 0.7692044973373413,
+        "y": -2.4432153701782227,
+        "sentiment": "positive",
+        "sentiment_score": 0.525,
+        "emotion": "joy",
+        "emotion_score": 0.822,
+        "cluster": 2,
+        "topics": [
+            "ariana grande",
+            "ariana"
+        ],
+        "primary_topic": "ariana grande"
+    },
+    {
+        "handle": "@webdivaariana\n·\nDec 18",
+        "text": "why would Taylor EVER have the mastery to hit the same note as Ariana",
+        "timestamp": "2025-12-19T13:34:29.409309",
+        "x": 2.4549670219421387,
+        "y": -1.9996892213821411,
+        "sentiment": "negative",
+        "sentiment_score": -0.517,
+        "emotion": "surprise",
+        "emotion_score": 0.93,
+        "cluster": 0,
+        "topics": [
+            "taylor mastery",
+            "note ariana"
+        ],
+        "primary_topic": "taylor mastery"
+    }
+]

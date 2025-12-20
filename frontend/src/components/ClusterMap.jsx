@@ -6,17 +6,25 @@ function ClusterMap({ data, onPointClick }) {
 	const [tooltipData, setTooltipData] = useState(null)
 	const hasData = data && data.length > 0
 
-	// Color palette for sentiment
-	const clusterColors = {
-		0: '#ef4444', // Negative - red
-		1: '#6b7280', // Neutral - gray
-		2: '#22c55e', // Positive - green
+	// Emotion colors (primary fill in Tug of War mode)
+	const emotionColors = {
+		'anger': '#ef4444',    // red
+		'disgust': '#a855f7',  // purple
+		'fear': '#6366f1',     // indigo
+		'joy': '#22c55e',      // green
+		'neutral': '#6b7280',  // gray
+		'sadness': '#3b82f6',  // blue
+		'surprise': '#eab308'  // yellow
 	}
 
-	const clusterNames = {
-		0: '😠 Negative',
-		1: '😐 Neutral',
-		2: '😊 Positive'
+	const emotionEmojis = {
+		'anger': '😠',
+		'disgust': '🤢',
+		'fear': '😨',
+		'joy': '😊',
+		'neutral': '😐',
+		'sadness': '😢',
+		'surprise': '😲'
 	}
 
 	useEffect(() => {
@@ -24,68 +32,84 @@ function ClusterMap({ data, onPointClick }) {
 
 		const width = 780
 		const height = 600
+		const padding = 80
 
 		// Adaptive node size based on count
 		const nodeCount = data.length
-		const nodeRadius = Math.max(6, Math.min(16, 200 / Math.sqrt(nodeCount)))
+		const nodeRadius = Math.max(6, Math.min(14, 180 / Math.sqrt(nodeCount)))
 
-		// Circular cluster centers
-		const centerX = width / 2
-		const centerY = height / 2
-		const clusterRadius = 180 // Distance from center to cluster center
-
-		// Positions in a triangle: Negative top-left, Neutral top-right, Positive bottom
-		const clusterCenters = {
-			0: { x: centerX - clusterRadius, y: centerY - clusterRadius * 0.5 }, // Negative - top left
-			1: { x: centerX + clusterRadius, y: centerY - clusterRadius * 0.5 }, // Neutral - top right
-			2: { x: centerX, y: centerY + clusterRadius * 0.8 } // Positive - bottom
-		}
-
+		// "Tug of War" layout: X = sentiment score, Y = random spread
 		const nodes = data.map((tweet, i) => {
-			const target = clusterCenters[tweet.cluster] || { x: centerX, y: centerY }
+			// X position: sentiment score (-1 to +1) maps to (padding to width-padding)
+			const sentimentScore = tweet.sentiment_score || 0
+			const xPos = padding + ((sentimentScore + 1) / 2) * (width - 2 * padding)
+
+			// Y position: random spread within bounds
+			const yPos = height * 0.15 + Math.random() * height * 0.7
+
 			return {
 				id: i,
 				...tweet,
-				// Start nodes near their target cluster with randomness
-				x: target.x + (Math.random() - 0.5) * 100,
-				y: target.y + (Math.random() - 0.5) * 100
+				x: xPos,
+				y: yPos,
+				targetX: xPos  // Store target for force simulation
 			}
 		})
 
+		// Force simulation - keeps nodes separated but pulls toward their X target
 		const simulation = d3.forceSimulation(nodes)
-			.force('charge', d3.forceManyBody().strength(-15))
-			.force('collide', d3.forceCollide(nodeRadius + 2))
-			.force('x', d3.forceX(d => clusterCenters[d.cluster]?.x || centerX).strength(0.12))
-			.force('y', d3.forceY(d => clusterCenters[d.cluster]?.y || centerY).strength(0.12))
-			.alphaDecay(0.02)
-			.velocityDecay(0.25)
+			.force('charge', d3.forceManyBody().strength(-8))
+			.force('collide', d3.forceCollide(nodeRadius + 1))
+			.force('x', d3.forceX(d => d.targetX).strength(0.3))
+			.force('y', d3.forceY(height / 2).strength(0.02))
+			.alphaDecay(0.03)
+			.velocityDecay(0.3)
 
 		const svg = d3.select(svgRef.current)
 		svg.selectAll('*').remove()
 
-		// Zone labels - positioned near cluster centers
-		const zones = [
-			{ x: clusterCenters[0].x, y: clusterCenters[0].y - 80, label: '😠 NEGATIVE', color: '#ef4444' },
-			{ x: clusterCenters[1].x, y: clusterCenters[1].y - 80, label: '😐 NEUTRAL', color: '#6b7280' },
-			{ x: clusterCenters[2].x, y: clusterCenters[2].y + 100, label: '😊 POSITIVE', color: '#22c55e' }
-		]
+		// Background gradient (dark)
+		const defs = svg.append('defs')
 
-		svg.selectAll('.zone-label')
-			.data(zones)
-			.enter()
-			.append('text')
-			.attr('class', 'zone-label')
-			.attr('x', d => d.x)
-			.attr('y', d => d.y)
+		// Axis labels for Tug of War
+		svg.append('text')
+			.attr('x', padding)
+			.attr('y', height - 20)
 			.attr('text-anchor', 'middle')
-			.attr('fill', d => d.color)
+			.attr('fill', '#ef4444')
 			.attr('font-size', '14px')
 			.attr('font-family', 'Space Mono, monospace')
 			.attr('font-weight', 'bold')
-			.text(d => d.label)
+			.text('← NEGATIVE')
 
-		// Glow filters for extreme sentiments
-		const defs = svg.append('defs')
+		svg.append('text')
+			.attr('x', width - padding)
+			.attr('y', height - 20)
+			.attr('text-anchor', 'middle')
+			.attr('fill', '#22c55e')
+			.attr('font-size', '14px')
+			.attr('font-family', 'Space Mono, monospace')
+			.attr('font-weight', 'bold')
+			.text('POSITIVE →')
+
+		svg.append('text')
+			.attr('x', width / 2)
+			.attr('y', height - 20)
+			.attr('text-anchor', 'middle')
+			.attr('fill', '#6b7280')
+			.attr('font-size', '12px')
+			.attr('font-family', 'Space Mono, monospace')
+			.text('NEUTRAL')
+
+		// Center line (neutral zone)
+		svg.append('line')
+			.attr('x1', width / 2)
+			.attr('y1', 40)
+			.attr('x2', width / 2)
+			.attr('y2', height - 50)
+			.attr('stroke', '#333')
+			.attr('stroke-width', 1)
+			.attr('stroke-dasharray', '4,4')
 
 		// Green glow for strong positive
 		const glowGreen = defs.append('filter').attr('id', 'glow-green')
@@ -119,24 +143,32 @@ function ClusterMap({ data, onPointClick }) {
 			.append('circle')
 			.attr('r', nodeRadius)
 			.attr('fill', d => {
-				const intensity = Math.abs(d.sentiment_score || 0)
-				const opacity = 0.4 + intensity * 0.6
-				if (d.cluster === 2) return `rgba(34, 197, 94, ${opacity})`
-				if (d.cluster === 0) return `rgba(239, 68, 68, ${opacity})`
-				return `rgba(107, 114, 128, 0.6)`
+				// Fill color = Emotion
+				const color = emotionColors[d.emotion] || '#6b7280'
+				const intensity = d.emotion_score || 0.7
+				const opacity = 0.5 + intensity * 0.5
+				const r = parseInt(color.slice(1, 3), 16)
+				const g = parseInt(color.slice(3, 5), 16)
+				const b = parseInt(color.slice(5, 7), 16)
+				return `rgba(${r}, ${g}, ${b}, ${opacity})`
 			})
-			.attr('stroke', '#1a1a1a')
+			.attr('stroke', d => {
+				// Stroke color = Sentiment (red/gray/green border)
+				if (d.sentiment_score > 0.1) return '#22c55e'
+				if (d.sentiment_score < -0.1) return '#ef4444'
+				return '#6b7280'
+			})
 			.attr('stroke-width', 2)
 			.attr('filter', d => {
-				const intensity = Math.abs(d.sentiment_score || 0)
-				if (intensity > 0.7) {
+				// Strong sentiment gets glow
+				if (Math.abs(d.sentiment_score) > 0.7) {
 					return d.sentiment_score > 0 ? 'url(#glow-green)' : 'url(#glow-red)'
 				}
 				return null
 			})
 			.style('cursor', 'pointer')
 			.on('mouseover', function (event, d) {
-				d3.select(this).attr('r', nodeRadius * 1.4).attr('stroke-width', 3)
+				d3.select(this).attr('r', nodeRadius * 1.5).attr('stroke-width', 3)
 				setTooltipData(d)
 			})
 			.on('mouseout', function (event, d) {
@@ -159,22 +191,42 @@ function ClusterMap({ data, onPointClick }) {
 					d.fy = null
 				})
 			)
-		// Gentle random floating motion - slower with more amplitude
-		const float = () => {
-			nodes.forEach(node => {
-				node.vx += (Math.random() - 0.5) * 0.6
-				node.vy += (Math.random() - 0.5) * 0.6
-			})
-			simulation.alpha(0.03).restart()
+
+		// Smooth continuous floating animation using sine waves
+		let animationFrame
+		let time = 0
+
+		const animate = () => {
+			time += 0.02  // Controls animation speed
+
+			circles
+				.attr('cx', d => {
+					// Each node has unique phase based on its id
+					const phase = d.id * 0.5
+					const floatX = Math.sin(time + phase) * 3  // Horizontal drift
+					return d.x + floatX
+				})
+				.attr('cy', d => {
+					const phase = d.id * 0.5
+					const floatY = Math.cos(time * 0.7 + phase) * 4  // Vertical drift (slower)
+					return d.y + floatY
+				})
+
+			animationFrame = requestAnimationFrame(animate)
 		}
-		const floatInterval = setInterval(float, 3000)
 
 		simulation.on('tick', () => {
 			circles.attr('cx', d => d.x).attr('cy', d => d.y)
 		})
 
+		// Start smooth animation after simulation settles
+		setTimeout(() => {
+			simulation.stop()
+			animate()
+		}, 3000)
+
 		return () => {
-			clearInterval(floatInterval)
+			cancelAnimationFrame(animationFrame)
 			simulation.stop()
 		}
 	}, [data, hasData])
@@ -183,8 +235,8 @@ function ClusterMap({ data, onPointClick }) {
 		<div className="map-container">
 			<div className="map-header">
 				<h2 className="map-title">
-					🗺️ Semantic Landscape
-					<span className="map-badge">INTERACTIVE</span>
+					⚔️ Tug of War
+					<span className="map-badge">POLARITY MAP</span>
 				</h2>
 			</div>
 
@@ -194,7 +246,7 @@ function ClusterMap({ data, onPointClick }) {
 						<div className="map-placeholder">
 							<div style={ { fontSize: '3rem', marginBottom: '1rem' } }>🌌</div>
 							<div>No data yet.</div>
-							<div>Search for a topic to see the narrative map.</div>
+							<div>Search for a topic to see the polarity map.</div>
 						</div>
 					) : (
 						<svg
@@ -225,18 +277,29 @@ function ClusterMap({ data, onPointClick }) {
 						<div style={ {
 							fontSize: '0.75rem',
 							fontWeight: 'bold',
-							color: clusterColors[tooltipData?.cluster],
+							color: emotionColors[tooltipData?.emotion] || '#6b7280',
 							marginBottom: '0.5rem'
 						} }>
 							{ tooltipData?.handle?.split('\n')[0] }
 							<span style={ {
 								marginLeft: '0.5rem',
-								background: clusterColors[tooltipData?.cluster],
+								background: emotionColors[tooltipData?.emotion] || '#6b7280',
 								color: '#fff',
 								padding: '2px 6px',
-								fontSize: '0.625rem'
+								fontSize: '0.625rem',
+								borderRadius: '3px'
 							} }>
-								{ clusterNames[tooltipData?.cluster] }
+								{ emotionEmojis[tooltipData?.emotion] } { tooltipData?.emotion }
+							</span>
+						</div>
+						<div style={ { fontSize: '0.7rem', marginBottom: '0.5rem', display: 'flex', gap: '0.5rem' } }>
+							<span style={ {
+								padding: '2px 6px',
+								background: tooltipData?.sentiment_score > 0 ? '#22c55e' : tooltipData?.sentiment_score < 0 ? '#ef4444' : '#6b7280',
+								color: '#fff',
+								borderRadius: '3px'
+							} }>
+								{ tooltipData?.sentiment } ({ tooltipData?.sentiment_score?.toFixed(2) })
 							</span>
 						</div>
 						<div style={ { fontSize: '0.8rem', lineHeight: 1.4 } }>

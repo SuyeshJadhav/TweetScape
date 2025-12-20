@@ -1,0 +1,172 @@
+[
+    {
+        "handle": "@hehelarious\n·\nAug 28",
+        "text": "Knocked on my door thinking my roommate was in bed w her bf, walked in on her explaining the history of DHH (Desi Hip Hop) to him…",
+        "timestamp": "2025-12-18T13:04:03.153540",
+        "x": 0.005352820735424757,
+        "y": 14.035690307617188,
+        "sentiment": "neutral",
+        "sentiment_score": 0.009,
+        "emotion": "surprise",
+        "emotion_score": 0.796,
+        "cluster": 1,
+        "topics": [
+            "history dhh",
+            "roommate"
+        ],
+        "primary_topic": "history dhh"
+    },
+    {
+        "handle": "@sharmaajii_\n·\n9m",
+        "text": "Bhai mujhe nhi pta kya hogya hai divine ke pen game ko fr\nHomicide, Tequila dance, Dr.divine, Boom.\nYe tracks fir bhi better hai",
+        "timestamp": "2025-12-18T13:04:03.170120",
+        "x": 0.9940364360809326,
+        "y": 13.516642570495605,
+        "sentiment": "neutral",
+        "sentiment_score": -0.032,
+        "emotion": "anger",
+        "emotion_score": 0.39,
+        "cluster": 1,
+        "topics": [
+            "better hai",
+            "hai divine"
+        ],
+        "primary_topic": "better hai"
+    },
+    {
+        "handle": "@sarc_honey\n·\nApr 29",
+        "text": "repping desi hip hop!\n\n#newmusicsoon",
+        "timestamp": "2025-12-18T13:04:03.187633",
+        "x": -0.4807879626750946,
+        "y": 14.819079399108887,
+        "sentiment": "positive",
+        "sentiment_score": 0.628,
+        "emotion": "joy",
+        "emotion_score": 0.6,
+        "cluster": 2,
+        "topics": [
+            "hop newmusicsoon",
+            "hip hop"
+        ],
+        "primary_topic": "hop newmusicsoon"
+    },
+    {
+        "handle": "@desisigma\n·\nFeb 27",
+        "text": "Desi Hip Hop peaked here",
+        "timestamp": "2025-12-18T13:04:03.211533",
+        "x": 0.5007013082504272,
+        "y": 14.478887557983398,
+        "sentiment": "positive",
+        "sentiment_score": 0.127,
+        "emotion": "neutral",
+        "emotion_score": 0.566,
+        "cluster": 2,
+        "topics": [
+            "hop peaked",
+            "desi hip"
+        ],
+        "primary_topic": "hop peaked"
+    },
+    {
+        "handle": "@vedangbkl\n·\nFeb 6",
+        "text": "Once upon a time in desi hip hop",
+        "timestamp": "2025-12-18T13:04:03.227163",
+        "x": -0.17904357612133026,
+        "y": 13.262194633483887,
+        "sentiment": "neutral",
+        "sentiment_score": 0.083,
+        "emotion": "neutral",
+        "emotion_score": 0.662,
+        "cluster": 1,
+        "topics": [
+            "desi hip",
+            "time desi"
+        ],
+        "primary_topic": "desi hip"
+    },
+    {
+        "handle": "@adityamtweets\n·\nSep 2",
+        "text": "Mashooriya on ideation and execution of one of the most ICONIC rollouts of Desi Hip Hop for Mr. Sharmeeli.",
+        "timestamp": "2025-12-18T13:04:04.883540",
+        "x": 1.252357840538025,
+        "y": 14.394432067871094,
+        "sentiment": "positive",
+        "sentiment_score": 0.612,
+        "emotion": "neutral",
+        "emotion_score": 0.927,
+        "cluster": 2,
+        "topics": [
+            "mashooriya ideation",
+            "mr sharmeeli"
+        ],
+        "primary_topic": "mashooriya ideation"
+    },
+    {
+        "handle": "@DesiHipHopLeaks\n·\nMay 21",
+        "text": "YOURS TRULY KRSNA",
+        "timestamp": "2025-12-18T13:04:04.902019",
+        "x": -1.0082383155822754,
+        "y": 14.110142707824707,
+        "sentiment": "positive",
+        "sentiment_score": 0.21,
+        "emotion": "neutral",
+        "emotion_score": 0.88,
+        "cluster": 2,
+        "topics": [
+            "truly krsna",
+            "krsna"
+        ],
+        "primary_topic": "truly krsna"
+    },
+    {
+        "handle": "@Feelslikejatin\n·\nMar 16",
+        "text": "Seedhe maut has the best discography in desi hip hop!",
+        "timestamp": "2025-12-18T13:04:07.807100",
+        "x": 0.4916234612464905,
+        "y": 15.246418952941895,
+        "sentiment": "positive",
+        "sentiment_score": 0.942,
+        "emotion": "neutral",
+        "emotion_score": 0.436,
+        "cluster": 2,
+        "topics": [
+            "seedhe maut",
+            "best discography"
+        ],
+        "primary_topic": "seedhe maut"
+    },
+    {
+        "handle": "@Chinmayi\n·\nNov 20, 2024",
+        "text": "One of the most talented and beloved female artists in the South will still not find space in a success poster, shoulder to shoulder with a man. \n\nRowdy Baby was what it was also because of the trippy vocals of Dhee. \n\nAnyway.",
+        "timestamp": "2025-12-18T13:04:09.912309",
+        "x": 1.1564258337020874,
+        "y": 15.240521430969238,
+        "sentiment": "neutral",
+        "sentiment_score": -0.023,
+        "emotion": "neutral",
+        "emotion_score": 0.784,
+        "cluster": 1,
+        "topics": [
+            "rowdy baby",
+            "vocals dhee"
+        ],
+        "primary_topic": "rowdy baby"
+    },
+    {
+        "handle": "@faizanahmed5278\n·\nApr 28",
+        "text": "Black day for Desi Hip Hop",
+        "timestamp": "2025-12-18T13:04:09.928384",
+        "x": 0.6501650214195251,
+        "y": 12.797525405883789,
+        "sentiment": "negative",
+        "sentiment_score": -0.486,
+        "emotion": "neutral",
+        "emotion_score": 0.361,
+        "cluster": 0,
+        "topics": [
+            "black day",
+            "day desi"
+        ],
+        "primary_topic": "black day"
+    }
+]

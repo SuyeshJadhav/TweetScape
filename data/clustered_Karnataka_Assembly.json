@@ -1,0 +1,1685 @@
+[
+    {
+        "handle": "@NewIndianXpress\n·\n6h",
+        "text": "Karnataka Assembly has passed a bill against hate speech amid a din by BJP MLAs.\n\nThe Hate Speech and Hate Crimes (Prevention) Bill, the first such law in the country, has a provision for a jail term up to seven years and fine up to Rs one lakh.\n\nKarnataka Home Minister G",
+        "timestamp": "2025-12-18T13:25:45.395213",
+        "x": 3.1256535053253174,
+        "y": -8.099726676940918,
+        "sentiment": "neutral",
+        "sentiment_score": -0.035,
+        "emotion": "anger",
+        "emotion_score": 0.571,
+        "cluster": 1,
+        "topics": [
+            "speech hate",
+            "hate speech"
+        ],
+        "primary_topic": "speech hate"
+    },
+    {
+        "handle": "@NewsAlgebraIND\n·\n5h",
+        "text": "BIG BREAKING NEWS \n\nAmid MASSIVE uproar by BJP, Karnataka Assembly passes the Hate Speech and Hate Crimes (Prevention) Bill.\n\n\"Hate speech\" (including on Social Media) is now a cognizable and non-bailable offence.\n\nThe law provides for up to 7 years of imprisonment and fines.",
+        "timestamp": "2025-12-18T13:25:45.422513",
+        "x": 2.6247189044952393,
+        "y": -7.573966026306152,
+        "sentiment": "negative",
+        "sentiment_score": -0.119,
+        "emotion": "anger",
+        "emotion_score": 0.681,
+        "cluster": 0,
+        "topics": [
+            "hate speech",
+            "speech hate"
+        ],
+        "primary_topic": "hate speech"
+    },
+    {
+        "handle": "@PoornimaNimo\n·\n4h",
+        "text": "Karnataka Assembly passes the Hate Speech and Hate Crimes (Prevention) Bill 2025.\nThe new law says any spoken, written, visual or online content that promotes hatred, enmity or disharmony against a person or group will attract strict punishment\n First offence: 1 to 7 yrs in",
+        "timestamp": "2025-12-18T13:25:45.439417",
+        "x": 2.7967755794525146,
+        "y": -6.6985764503479,
+        "sentiment": "negative",
+        "sentiment_score": -0.46,
+        "emotion": "anger",
+        "emotion_score": 0.789,
+        "cluster": 0,
+        "topics": [
+            "hate crimes",
+            "karnataka"
+        ],
+        "primary_topic": "hate crimes"
+    },
+    {
+        "handle": "@PTI_News\n·\n9h",
+        "text": "VIDEO | Bengaluru: The Karnataka Legislative Assembly passed the Hate Speech and Hate Crimes Prevention Bill, 2025, amid strong protests by the Opposition. \n\nKarnataka Deputy Chief Minister DK Shivakumar said, “...The hate bill has been passed in the Assembly and it will now go",
+        "timestamp": "2025-12-18T13:25:48.489602",
+        "x": 3.0444846153259277,
+        "y": -5.720218181610107,
+        "sentiment": "negative",
+        "sentiment_score": -0.157,
+        "emotion": "anger",
+        "emotion_score": 0.453,
+        "cluster": 0,
+        "topics": [
+            "karnataka legislative",
+            "opposition karnataka"
+        ],
+        "primary_topic": "karnataka legislative"
+    },
+    {
+        "handle": "@deepakchannel_\n·\n4h",
+        "text": " BIG BREAKING | KARNATAKA PASSES INDIA’S FIRST HATE SPEECH LAW \n BENGALURU | ASSEMBLY FLOOR\n\n KARNATAKA HATE SPEECH & HATE CRIMES (PREVENTION) BILL — EXPLAINED\n\nThe Karnataka Assembly has passed the Hate Speech and Hate Crimes (Prevention) Bill, becoming the first state",
+        "timestamp": "2025-12-18T13:25:48.502641",
+        "x": 3.2623403072357178,
+        "y": -6.836562156677246,
+        "sentiment": "neutral",
+        "sentiment_score": -0.049,
+        "emotion": "anger",
+        "emotion_score": 0.781,
+        "cluster": 1,
+        "topics": [
+            "karnataka hate",
+            "breaking karnataka"
+        ],
+        "primary_topic": "karnataka hate"
+    },
+    {
+        "handle": "@PTI_News\n·\nDec 17",
+        "text": "STORY | Bill to provide internal reservation to SCs tabled in Karnataka Assembly\n\nKarnataka government on Wednesday tabled a bill in the Legislative Assembly to provide internal reservation to the Scheduled Castes (SC).\n\nREAD: \nhttps://\nptinews.com/story/national\n/bill-to-provide-internal-reservation-to-scs-tabled-in-karnataka-assembly/3199711\n…",
+        "timestamp": "2025-12-18T13:25:50.837640",
+        "x": 3.0044126510620117,
+        "y": -3.982172727584839,
+        "sentiment": "neutral",
+        "sentiment_score": 0.046,
+        "emotion": "fear",
+        "emotion_score": 0.555,
+        "cluster": 1,
+        "topics": [
+            "tabled karnataka",
+            "karnataka assembly"
+        ],
+        "primary_topic": "tabled karnataka"
+    },
+    {
+        "handle": "@PTI_News\n·\n9h",
+        "text": "STORY | Karnataka Assembly passes hate speech bill amid din\n\nThe Karnataka Assembly on Thursday passed a bill against hate speech amid a din. The Hate Speech and Hate Crimes (Prevention) Bill, the first such law in the country, has a provision for a jail term up to seven years",
+        "timestamp": "2025-12-18T13:25:50.854086",
+        "x": 3.32596492767334,
+        "y": -7.488492488861084,
+        "sentiment": "negative",
+        "sentiment_score": -0.188,
+        "emotion": "disgust",
+        "emotion_score": 0.5,
+        "cluster": 0,
+        "topics": [
+            "din karnataka",
+            "karnataka assembly"
+        ],
+        "primary_topic": "din karnataka"
+    },
+    {
+        "handle": "@nabilajamal_\n·\n7h",
+        "text": "#BREAKING\n\n#Karnataka Assembly passes the Hate Speech and Hate Crimes (Prevention) Bill 2025\n\nThe new law says any spoken, written, visual or online content that promotes hatred, enmity or disharmony against a person or group will attract strict punishment\n\n• First offence: 1 to",
+        "timestamp": "2025-12-18T13:25:53.276721",
+        "x": 2.9751381874084473,
+        "y": -6.378159523010254,
+        "sentiment": "negative",
+        "sentiment_score": -0.449,
+        "emotion": "fear",
+        "emotion_score": 0.529,
+        "cluster": 0,
+        "topics": [
+            "breaking karnataka",
+            "karnataka"
+        ],
+        "primary_topic": "breaking karnataka"
+    },
+    {
+        "handle": "@TheSignOfFive\n·\n6h",
+        "text": "“Hate speech now non-bailable offence in Karnataka: Assembly passes Bill; includes 7-year jail term.”\n\nSouthern India is like a frog sitting in a pot of slow-boiling water,\n\nIts loudest & stupidest voices playing divisive games on social platforms while the temperature rises.",
+        "timestamp": "2025-12-18T13:25:53.289623",
+        "x": 2.341834545135498,
+        "y": -7.892466068267822,
+        "sentiment": "negative",
+        "sentiment_score": -0.795,
+        "emotion": "anger",
+        "emotion_score": 0.673,
+        "cluster": 0,
+        "topics": [
+            "offence karnataka",
+            "karnataka"
+        ],
+        "primary_topic": "offence karnataka"
+    },
+    {
+        "handle": "@TweetzBallari\n·\n14h",
+        "text": "Gali Janardhan Reddy raised questions during the Karnataka Winter Assembly Session -2025 regarding safety measures in Gangavathi Taluk and the safety of visitors in Hampi.\n\n#Ballari #Bellary \n@JanardhanaBJP",
+        "timestamp": "2025-12-18T13:25:54.944497",
+        "x": 4.383996486663818,
+        "y": -3.817929983139038,
+        "sentiment": "neutral",
+        "sentiment_score": 0.025,
+        "emotion": "fear",
+        "emotion_score": 0.973,
+        "cluster": 1,
+        "topics": [
+            "taluk safety",
+            "questions karnataka"
+        ],
+        "primary_topic": "taluk safety"
+    },
+    {
+        "handle": "@solidaritykar\n·\nDec 16",
+        "text": "Solidarity activists visited the Suvarna Vidhana Soudha and observed the proceedings of the Legislative Assembly. On this occasion, they also interacted with the Honorable Speaker of the Assembly, Shri U. T. Khader.\n\n\n@utkhader",
+        "timestamp": "2025-12-18T13:25:57.456945",
+        "x": 5.696158409118652,
+        "y": -4.592728614807129,
+        "sentiment": "positive",
+        "sentiment_score": 0.33,
+        "emotion": "joy",
+        "emotion_score": 0.777,
+        "cluster": 2,
+        "topics": [
+            "suvarna vidhana",
+            "legislative assembly"
+        ],
+        "primary_topic": "suvarna vidhana"
+    },
+    {
+        "handle": "@DeccanHerald\n·\n2h",
+        "text": "RSS & Bajrang Dal can be Booked Under New Karnataka Hate Speech Bill 2025 | BJP Stages Walkout\n\nKarnataka Assembly passes the Hate Speech & hate Crimes Bill, 2025 while BJP protests and stages walkout.\n\n#KarnatakaNews #HateSpeechBill",
+        "timestamp": "2025-12-18T13:25:59.570809",
+        "x": 3.963625192642212,
+        "y": -4.610742568969727,
+        "sentiment": "negative",
+        "sentiment_score": -0.532,
+        "emotion": "anger",
+        "emotion_score": 0.816,
+        "cluster": 0,
+        "topics": [
+            "karnatakanews hatespeechbill",
+            "karnataka hate"
+        ],
+        "primary_topic": "karnatakanews hatespeechbill"
+    },
+    {
+        "handle": "@ANI\n·\n8h",
+        "text": "#WATCH | Belagavi, Karnataka | On Karnataka Assembly passes Hate Speech and Hate Crimes Prevention Bill, 2025, BJP leader CN Ashwath Narayan says, \"Congress doesn't have any respect for democracy when one of the ministers made a very insensitive statement against a region. When",
+        "timestamp": "2025-12-18T13:25:59.584055",
+        "x": 3.542003870010376,
+        "y": -5.24937105178833,
+        "sentiment": "negative",
+        "sentiment_score": -0.556,
+        "emotion": "anger",
+        "emotion_score": 0.92,
+        "cluster": 0,
+        "topics": [
+            "karnataka assembly",
+            "karnataka karnataka"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@KiranKS\n·\nDec 17",
+        "text": "The industry minister is from North Karnataka. \nThe IT BT minister is from NK. \nThe Small industry minister is from NK. \nThe Skill development minister is from NK.\n\nStill nothing is happening in North Karnataka! \n\nSharanagouda Kandakura exposes very well in the assembly!",
+        "timestamp": "2025-12-18T13:26:02.418589",
+        "x": 4.4898810386657715,
+        "y": -3.200470209121704,
+        "sentiment": "negative",
+        "sentiment_score": -0.474,
+        "emotion": "neutral",
+        "emotion_score": 0.387,
+        "cluster": 0,
+        "topics": [
+            "north karnataka",
+            "karnataka bt"
+        ],
+        "primary_topic": "north karnataka"
+    },
+    {
+        "handle": "@timesofindia\n·\n6h",
+        "text": "Hate speech now non-bailable offence: #Karnataka assembly passes Bill; includes 7-year jail term",
+        "timestamp": "2025-12-18T13:26:04.459340",
+        "x": 2.5409703254699707,
+        "y": -7.935522079467773,
+        "sentiment": "negative",
+        "sentiment_score": -0.668,
+        "emotion": "anger",
+        "emotion_score": 0.978,
+        "cluster": 0,
+        "topics": [
+            "offence karnataka",
+            "karnataka assembly"
+        ],
+        "primary_topic": "offence karnataka"
+    },
+    {
+        "handle": "@ndtv\n·\n9h",
+        "text": "#BREAKING | Hate Speech bill passed in Karnataka assembly\n\n\n@dpkBopanna",
+        "timestamp": "2025-12-18T13:26:04.473539",
+        "x": 4.962273120880127,
+        "y": -5.3864970207214355,
+        "sentiment": "negative",
+        "sentiment_score": -0.339,
+        "emotion": "fear",
+        "emotion_score": 0.929,
+        "cluster": 0,
+        "topics": [
+            "karnataka assembly",
+            "passed karnataka"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@ANI\n·\n8h",
+        "text": "#WATCH | Belagavi, Karnataka | On Karnataka Assembly passes Hate Speech and Hate Crimes Prevention Bill, 2025, State Minister Priyank Kharge says, \"The Supreme Court has laid down a very clear definition of hate speech. They have said hate speech should be curbed,  correct? They",
+        "timestamp": "2025-12-18T13:26:07.167748",
+        "x": 3.664175271987915,
+        "y": -5.917357921600342,
+        "sentiment": "neutral",
+        "sentiment_score": -0.027,
+        "emotion": "fear",
+        "emotion_score": 0.594,
+        "cluster": 1,
+        "topics": [
+            "speech hate",
+            "hate speech"
+        ],
+        "primary_topic": "speech hate"
+    },
+    {
+        "handle": "@ANI\n·\n9h",
+        "text": "#WATCH | Belagavi: On state government's hate speech bill passed in Karnataka Legislative Assembly, Karnataka Deputy Chief Minister DK Shivakumar says, \"The hate speech bill, which we have passed in the assembly, will go to the council. It is a need of the hour... It is a right",
+        "timestamp": "2025-12-18T13:26:09.592634",
+        "x": 4.257390975952148,
+        "y": -6.157053470611572,
+        "sentiment": "negative",
+        "sentiment_score": -0.117,
+        "emotion": "fear",
+        "emotion_score": 0.505,
+        "cluster": 0,
+        "topics": [
+            "karnataka legislative",
+            "assembly karnataka"
+        ],
+        "primary_topic": "karnataka legislative"
+    },
+    {
+        "handle": "@CNNnews18\n·\n7h",
+        "text": "Karnataka assembly passes Hate Speech bill amid opposition's protests\n\nNews18's \n@harishupadhya\n with details \n\n\n@akankshaswarups\n | #Karnataka #HateSpeechBill",
+        "timestamp": "2025-12-18T13:26:09.609850",
+        "x": 5.693328380584717,
+        "y": -5.5058674812316895,
+        "sentiment": "negative",
+        "sentiment_score": -0.26,
+        "emotion": "anger",
+        "emotion_score": 0.757,
+        "cluster": 0,
+        "topics": [
+            "karnataka hatespeechbill",
+            "hatespeechbill"
+        ],
+        "primary_topic": "karnataka hatespeechbill"
+    },
+    {
+        "handle": "@PTI_News\n·\n9h",
+        "text": "Karnataka Assembly passes bill on hate speech amid din by BJP MLAs.",
+        "timestamp": "2025-12-18T13:26:09.622115",
+        "x": 5.6648054122924805,
+        "y": -5.847471237182617,
+        "sentiment": "negative",
+        "sentiment_score": -0.495,
+        "emotion": "anger",
+        "emotion_score": 0.458,
+        "cluster": 0,
+        "topics": [
+            "karnataka assembly",
+            "hate speech"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@SVishnuReddy\n·\nMar 21",
+        "text": "Muslim League Congress strikes again!\n\nToday, the Karnataka Assembly passed a shocking bill granting 4% reservation for Muslim contractors taking appeasement politics to a dangerous new level.\n\nThis is a dark day in Karnataka’s history! Now, even contractual work is being",
+        "timestamp": "2025-12-18T13:26:09.636220",
+        "x": 3.457054376602173,
+        "y": -4.330577850341797,
+        "sentiment": "negative",
+        "sentiment_score": -0.889,
+        "emotion": "fear",
+        "emotion_score": 0.829,
+        "cluster": 0,
+        "topics": [
+            "karnataka assembly",
+            "today karnataka"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@ANI\n·\n8h",
+        "text": "#WATCH | Belagavi, Karnataka | On Karnataka Assembly passes Hate Speech and Hate Crimes Prevention Bill, 2025, Congress leader Satish Jarkiholi says, \"...The opposition has also given some suggestions about the bill which we are considering...\"",
+        "timestamp": "2025-12-18T13:26:12.553819",
+        "x": 3.4651834964752197,
+        "y": -5.550008773803711,
+        "sentiment": "neutral",
+        "sentiment_score": -0.035,
+        "emotion": "anger",
+        "emotion_score": 0.495,
+        "cluster": 1,
+        "topics": [
+            "karnataka assembly",
+            "karnataka karnataka"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@GudumbaSatti\n·\n3h",
+        "text": "After BJP lost to Congress in the 2023 Karnataka Assembly elections, the opposition started to trend \"BJP mukth South India\" on Social Media.\n\nBJP bounced back after that trend like never before.\n\n1. BJP won 8 out 17 LS seats in Telangana.\n2. BJP won 17 seats in Karnataka and NDA",
+        "timestamp": "2025-12-18T13:26:12.566286",
+        "x": 3.4638710021972656,
+        "y": -2.8044121265411377,
+        "sentiment": "neutral",
+        "sentiment_score": -0.043,
+        "emotion": "neutral",
+        "emotion_score": 0.706,
+        "cluster": 1,
+        "topics": [
+            "bjp lost",
+            "bjp won"
+        ],
+        "primary_topic": "bjp lost"
+    },
+    {
+        "handle": "@CNNnews18\n·\n9h",
+        "text": "#BreakingNews | Hate speech Bill passed in Karnataka assembly, BJP leader R Ashok tears up the copy of the bill \n\n\n@harishupadhya\n shares more details\n\nBJP's S Prakash says there is not clarity about hate speech in the bill\n\n#Karnataka #Congress #HateSpeechBill | \n@poonam_burde",
+        "timestamp": "2025-12-18T13:26:15.593365",
+        "x": 5.417804718017578,
+        "y": -5.607460975646973,
+        "sentiment": "negative",
+        "sentiment_score": -0.667,
+        "emotion": "fear",
+        "emotion_score": 0.722,
+        "cluster": 0,
+        "topics": [
+            "congress hatespeechbill",
+            "hatespeechbill"
+        ],
+        "primary_topic": "congress hatespeechbill"
+    },
+    {
+        "handle": "@ThePrintIndia\n·\n8h",
+        "text": "Karnataka Assembly passes hate speech bill, jail term up to 7 years for offenders",
+        "timestamp": "2025-12-18T13:26:17.406516",
+        "x": 2.8734450340270996,
+        "y": -8.384411811828613,
+        "sentiment": "negative",
+        "sentiment_score": -0.609,
+        "emotion": "anger",
+        "emotion_score": 0.506,
+        "cluster": 0,
+        "topics": [
+            "karnataka assembly",
+            "karnataka"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@ANI\n·\n8h",
+        "text": "#WATCH | Belagavi, Karnataka | On Karnataka Assembly passes Hate Speech and Hate Crimes Prevention Bill, 2025, Congress MLA N. A. Haris says, \"...The BJP opposes all the good steps taken by the government. For them, politics is more important than building a good society. We are",
+        "timestamp": "2025-12-18T13:26:17.420084",
+        "x": 3.8260116577148438,
+        "y": -5.065162658691406,
+        "sentiment": "negative",
+        "sentiment_score": -0.647,
+        "emotion": "anger",
+        "emotion_score": 0.872,
+        "cluster": 0,
+        "topics": [
+            "bjp opposes",
+            "karnataka assembly"
+        ],
+        "primary_topic": "bjp opposes"
+    },
+    {
+        "handle": "@shaandelhite\n·\nNov 21",
+        "text": "During Karnataka assembly election, Rahul Gandhi Ji promised to make Bellary the Jeans capital of the world.\n\nCongress has fulfilled his promise, RG will soon inaugurate jeans park in Bellary.\n\nNow it’s time for Modi to make Patna-Pune & Motihari-Mumbai to give a befitting reply.",
+        "timestamp": "2025-12-18T13:26:17.432913",
+        "x": 4.20295524597168,
+        "y": -2.1645891666412354,
+        "sentiment": "positive",
+        "sentiment_score": 0.536,
+        "emotion": "neutral",
+        "emotion_score": 0.84,
+        "cluster": 2,
+        "topics": [
+            "jeans capital",
+            "bellary jeans"
+        ],
+        "primary_topic": "jeans capital"
+    },
+    {
+        "handle": "@utkhader\n·\nJul 16, 2023",
+        "text": "Karnataka Assembly Session : Here is the schedule for 17th July 2023.\n\nIn a first-of-its-kind initiative by the Karnataka Legislative Assembly , one day – July  17 , has been set aside for the first time elected MLAs to speak & discuss the Budget 2023-24.",
+        "timestamp": "2025-12-18T13:26:19.269480",
+        "x": 3.1586110591888428,
+        "y": -3.9590413570404053,
+        "sentiment": "neutral",
+        "sentiment_score": 0.059,
+        "emotion": "neutral",
+        "emotion_score": 0.633,
+        "cluster": 1,
+        "topics": [
+            "initiative karnataka",
+            "karnataka assembly"
+        ],
+        "primary_topic": "initiative karnataka"
+    },
+    {
+        "handle": "@LavanyaBallal\n·\nOct 30",
+        "text": "Met Dr. \n@utkhader\n sir, our honourable Speaker of Karnataka legislative assembly and congratulated him on being conferred \"Doctorate\" by the Bengaluru University.",
+        "timestamp": "2025-12-18T13:26:22.084158",
+        "x": 4.337990760803223,
+        "y": -3.1054601669311523,
+        "sentiment": "positive",
+        "sentiment_score": 0.874,
+        "emotion": "joy",
+        "emotion_score": 0.923,
+        "cluster": 2,
+        "topics": [
+            "doctorate bengaluru",
+            "conferred doctorate"
+        ],
+        "primary_topic": "doctorate bengaluru"
+    },
+    {
+        "handle": "@path2shah\n·\n8h",
+        "text": "Karnataka Assembly: Chaos Erupts as Government Pushes Through ‘Hate Speech and Hate Crimes prevention Bill’\n\nBelagavi\n\n The Karnataka Legislative Assembly descended into pandemonium on Thursday as the state government passed the contentious \"#HateSpeech and #HateCrimes Prevention",
+        "timestamp": "2025-12-18T13:26:22.096334",
+        "x": 3.9649970531463623,
+        "y": -5.3750901222229,
+        "sentiment": "negative",
+        "sentiment_score": -0.649,
+        "emotion": "anger",
+        "emotion_score": 0.5,
+        "cluster": 0,
+        "topics": [
+            "karnataka assembly",
+            "karnataka legislative"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@siddaramaiah\n·\nNov 5",
+        "text": "Leader of the Opposition in the Lok Sabha, Shri \n@RahulGandhi\n, has once again exposed the dark face of systematic electoral malpractice in India’s election system.\n\nHaving earlier revealed large-scale voter fraud in Mahadevapura and Aland Assembly constituencies of Karnataka, he",
+        "timestamp": "2025-12-18T13:26:23.769641",
+        "x": 2.385200262069702,
+        "y": -2.6760573387145996,
+        "sentiment": "negative",
+        "sentiment_score": -0.412,
+        "emotion": "fear",
+        "emotion_score": 0.878,
+        "cluster": 0,
+        "topics": [
+            "voter fraud",
+            "fraud mahadevapura"
+        ],
+        "primary_topic": "voter fraud"
+    },
+    {
+        "handle": "@INCKarnataka\n·\nNov 5",
+        "text": "1 PERSON, Her 22 votes, at 10 booths, in Rai assembly constituency, Haryana \n\nAnd the person is a resident of Brazil\n\nName is Matheus Ferrero\n\n#VoteChori",
+        "timestamp": "2025-12-18T13:26:23.782612",
+        "x": 2.4698336124420166,
+        "y": -2.6495132446289062,
+        "sentiment": "neutral",
+        "sentiment_score": 0.051,
+        "emotion": "fear",
+        "emotion_score": 0.619,
+        "cluster": 1,
+        "topics": [
+            "constituency haryana",
+            "ferrero votechori"
+        ],
+        "primary_topic": "constituency haryana"
+    },
+    {
+        "handle": "@ANI\n·\n9h",
+        "text": "Karnataka Legislative Assembly passes Hate Speech and Hate Crimes Prevention Bill 2025",
+        "timestamp": "2025-12-18T13:26:26.428435",
+        "x": 2.956082582473755,
+        "y": -5.484893321990967,
+        "sentiment": "negative",
+        "sentiment_score": -0.261,
+        "emotion": "anger",
+        "emotion_score": 0.366,
+        "cluster": 0,
+        "topics": [
+            "karnataka legislative",
+            "karnataka"
+        ],
+        "primary_topic": "karnataka legislative"
+    },
+    {
+        "handle": "@tv9kannada\n·\n8h",
+        "text": "Karnataka Assembly Passes Hate Speech Bill Amid BJP's Opposition, R Ashok Fumes\n\n#TV9Kannada #BelagaviSession #BelagaviWinterSession2025 #KarnatakaAssemblySession2025 #KarnatakaWinterSession2025",
+        "timestamp": "2025-12-18T13:26:26.443447",
+        "x": 5.129568099975586,
+        "y": -5.484525203704834,
+        "sentiment": "negative",
+        "sentiment_score": -0.293,
+        "emotion": "anger",
+        "emotion_score": 0.527,
+        "cluster": 0,
+        "topics": [
+            "karnataka assembly",
+            "karnatakaassemblysession2025 karnatakawintersession2025"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@Girishvhp\n·\nDec 9",
+        "text": "This is the Karnataka government’s response to the question raised in the Assembly by Shri \n@karkalasunil\n the RSS Pathasanchalan was conducted peacefully across 518 locations this year, with lakhs of Swayamsevaks participating. There were no incidents of violence or disturbance",
+        "timestamp": "2025-12-18T13:26:26.458194",
+        "x": 4.090536594390869,
+        "y": -3.611138105392456,
+        "sentiment": "neutral",
+        "sentiment_score": 0.094,
+        "emotion": "anger",
+        "emotion_score": 0.495,
+        "cluster": 1,
+        "topics": [
+            "pathasanchalan conducted",
+            "rss pathasanchalan"
+        ],
+        "primary_topic": "pathasanchalan conducted"
+    },
+    {
+        "handle": "@ANI\n·\n8h",
+        "text": "#WATCH | Belagavi, Karnataka | On Karnataka Assembly passes Hate Speech and Hate Crimes Prevention Bill, 2025, State Minister Byrathi Suresh says, \"...What is the meaning of opposing the Hate Speech Bill?...We all agree that there should be no hate speech\"",
+        "timestamp": "2025-12-18T13:26:29.511170",
+        "x": 3.7217679023742676,
+        "y": -6.148264408111572,
+        "sentiment": "neutral",
+        "sentiment_score": -0.052,
+        "emotion": "fear",
+        "emotion_score": 0.695,
+        "cluster": 1,
+        "topics": [
+            "speech hate",
+            "hate speech"
+        ],
+        "primary_topic": "speech hate"
+    },
+    {
+        "handle": "@ChristinMP_\n·\n4h",
+        "text": "Karnataka legislative assembly on Thursday passed Karnataka Hate Speech and Hate Crimes (Prevention) Bill, 2025. Introducing the Bill, Home Minister \n@DrParameshwara\n said it aims to prevent & curb dissemination and promotion of hate speech and crimes that create disharmony and",
+        "timestamp": "2025-12-18T13:26:29.523338",
+        "x": 3.266465902328491,
+        "y": -6.106693267822266,
+        "sentiment": "neutral",
+        "sentiment_score": 0.047,
+        "emotion": "fear",
+        "emotion_score": 0.892,
+        "cluster": 1,
+        "topics": [
+            "karnataka hate",
+            "karnataka legislative"
+        ],
+        "primary_topic": "karnataka hate"
+    },
+    {
+        "handle": "@IndiaToday\n·\n9h",
+        "text": "Karnataka Minister Laxmi Hebbalkar apologised in the Assembly for giving wrong reply on Gruha Lakshmi payments, BJP walks out\n\n#Karnataka #LaxmiHebbalkar \n@nagarjund",
+        "timestamp": "2025-12-18T13:26:33.978296",
+        "x": 4.819148540496826,
+        "y": -4.927084922790527,
+        "sentiment": "negative",
+        "sentiment_score": -0.409,
+        "emotion": "fear",
+        "emotion_score": 0.829,
+        "cluster": 0,
+        "topics": [
+            "hebbalkar apologised",
+            "karnataka laxmihebbalkar"
+        ],
+        "primary_topic": "hebbalkar apologised"
+    },
+    {
+        "handle": "@krishnakamal077\n·\n4h",
+        "text": "Amid MASSIVE uproar by BJP, Karnataka Assembly passes the Hate Speech and Hate Crimes (Prevention) Bill.\n\n\"Hate speech\" (including on Social Media) is now a cognizable and non-bailable offence.\n\nThe law provides for up to 7 years of imprisonment and fines. Repeat offences can",
+        "timestamp": "2025-12-18T13:26:33.989432",
+        "x": 2.8226752281188965,
+        "y": -7.902922630310059,
+        "sentiment": "negative",
+        "sentiment_score": -0.125,
+        "emotion": "anger",
+        "emotion_score": 0.713,
+        "cluster": 0,
+        "topics": [
+            "hate crimes",
+            "hate speech"
+        ],
+        "primary_topic": "hate crimes"
+    },
+    {
+        "handle": "@ANI\n·\n9h",
+        "text": "Speaking in the state assembly on the hate speech bill, Karnataka Home Minister Dr G Parameshwar says,\" Whoever commits hate crimes shall be punished with imprisonment for a term which shall not be less than one year, but which may be extended to seven years, and with a fine of",
+        "timestamp": "2025-12-18T13:26:34.001172",
+        "x": 3.1528737545013428,
+        "y": -8.128283500671387,
+        "sentiment": "negative",
+        "sentiment_score": -0.458,
+        "emotion": "anger",
+        "emotion_score": 0.758,
+        "cluster": 0,
+        "topics": [
+            "punished imprisonment",
+            "hate crimes"
+        ],
+        "primary_topic": "punished imprisonment"
+    },
+    {
+        "handle": "@RShivshankar·Dec 10",
+        "text": "KARNATAKA \"HATE SPEECH\" BILL TABLED IN ASSEMBLY. CONG'S UNDECLARED EMERGENCY?\nBill is riddled with vague terms like “harm” & “hatred”, advocates harsh, non-bailable penalties. It could chill satire, dissent.\nPlatforms face liability even “unknowingly\". Wide powers to cops/DMs to",
+        "timestamp": "2025-12-18T13:26:34.010862",
+        "x": 2.9069557189941406,
+        "y": -7.001096725463867,
+        "sentiment": "negative",
+        "sentiment_score": -0.854,
+        "emotion": "anger",
+        "emotion_score": 0.735,
+        "cluster": 0,
+        "topics": [
+            "karnataka hate",
+            "karnataka"
+        ],
+        "primary_topic": "karnataka hate"
+    },
+    {
+        "handle": "@Deb_livnletliv·1h",
+        "text": "BREAKING  \nKarnataka Assembly passes HATE SPEECH BILL to curb and prevent dissemination, publication or promotion of hate speech and hate crime.\n\npunishment up to 7 years and Rs 50,000 fine \nextended punishment and Rs 1 lakh fine for repeat offences.\n\nEntire BJP ITCell is",
+        "timestamp": "2025-12-18T13:26:34.023500",
+        "x": 2.8676741123199463,
+        "y": -7.8051862716674805,
+        "sentiment": "negative",
+        "sentiment_score": -0.526,
+        "emotion": "anger",
+        "emotion_score": 0.865,
+        "cluster": 0,
+        "topics": [
+            "breaking karnataka",
+            "karnataka assembly"
+        ],
+        "primary_topic": "breaking karnataka"
+    },
+    {
+        "handle": "@ChristinMP_·Dec 10",
+        "text": "Karnataka assembly on Dec 9 passed major bills, including: Karnataka Hate Speech & Hate Crimes Bill, 2025, Workers Welfare Fund (Amendment) Bill, Cine & Cultural Workers Welfare (Amendment) Bill, Hindu Religious Institutions & Charitable Endowments (Amendment) Bill, Drugs &",
+        "timestamp": "2025-12-18T13:26:34.033158",
+        "x": 2.9535646438598633,
+        "y": -4.430428504943848,
+        "sentiment": "neutral",
+        "sentiment_score": -0.016,
+        "emotion": "anger",
+        "emotion_score": 0.487,
+        "cluster": 1,
+        "topics": [
+            "karnataka assembly",
+            "including karnataka"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@shaandelhite\n·\nDec 10",
+        "text": "Amit Shah lies — Congress never makes claim of Vote Chori where they win \n\nFact check — Rahul Gandhi Ji did a separate press conference on Aland assembly constituency of Karnataka where Congress candidate has won.",
+        "timestamp": "2025-12-18T13:26:37.937551",
+        "x": 2.343284845352173,
+        "y": -2.7191522121429443,
+        "sentiment": "negative",
+        "sentiment_score": -0.309,
+        "emotion": "neutral",
+        "emotion_score": 0.792,
+        "cluster": 0,
+        "topics": [
+            "vote chori",
+            "lies congress"
+        ],
+        "primary_topic": "vote chori"
+    },
+    {
+        "handle": "@Pamphlet_in\n·\nNov 7",
+        "text": "During Karnataka assembly elections, Congress made an issue of Amul forays in the state, calling for safeguarding of local milk brand Nandini & linking it to Kannadiga pride. But today after the GST rate cut announced by the centre reduced the price of one liter of Nandini ghee",
+        "timestamp": "2025-12-18T13:26:39.734205",
+        "x": 3.3630282878875732,
+        "y": -4.423897743225098,
+        "sentiment": "neutral",
+        "sentiment_score": -0.085,
+        "emotion": "anger",
+        "emotion_score": 0.539,
+        "cluster": 1,
+        "topics": [
+            "amul forays",
+            "amul"
+        ],
+        "primary_topic": "amul forays"
+    },
+    {
+        "handle": "@bhatnaturally\n·\n8h",
+        "text": "Hate speech now non-bailable offence: Karnataka assembly passes Bill; includes 7-year jail term",
+        "timestamp": "2025-12-18T13:26:39.747416",
+        "x": 2.4797701835632324,
+        "y": -8.210172653198242,
+        "sentiment": "negative",
+        "sentiment_score": -0.649,
+        "emotion": "anger",
+        "emotion_score": 0.88,
+        "cluster": 0,
+        "topics": [
+            "offence karnataka",
+            "karnataka assembly"
+        ],
+        "primary_topic": "offence karnataka"
+    },
+    {
+        "handle": "@dhanyarajendran\n·\n5h",
+        "text": "Karnataka Assembly passes hate speech bill amid BJP protest\n |",
+        "timestamp": "2025-12-18T13:26:41.889675",
+        "x": 5.8421430587768555,
+        "y": -6.008988857269287,
+        "sentiment": "negative",
+        "sentiment_score": -0.522,
+        "emotion": "anger",
+        "emotion_score": 0.88,
+        "cluster": 0,
+        "topics": [
+            "bjp protest",
+            "karnataka assembly"
+        ],
+        "primary_topic": "bjp protest"
+    },
+    {
+        "handle": "@KannadaRepublic\n·\n7h",
+        "text": "Karnataka Assembly Passes Hate Speech Bill: ದ್ವೇಷ ಭಾಷಣ ಬಿಲ್​: 7 ವರ್ಷ ಜೈಲು, 50 ಸಾವರ ರೂ.ದಂಡ..\n.\n.\n.\nWATCH #RepublicKannada LIVE: \nhttps://\nyoutube.com/watch?v=Ciehbj\nVwMAs\n…\n.\n.\n.\n#belagaviwintersession #hatespeechbill #dkshivakumar #wintersession2025 #BelagaviWinterSession2025 #cmsiddaramaiah #rashoka",
+        "timestamp": "2025-12-18T13:26:41.908858",
+        "x": 5.125197887420654,
+        "y": -4.9633283615112305,
+        "sentiment": "negative",
+        "sentiment_score": -0.167,
+        "emotion": "anger",
+        "emotion_score": 0.561,
+        "cluster": 0,
+        "topics": [
+            "hatespeechbill dkshivakumar",
+            "belagaviwintersession hatespeechbill"
+        ],
+        "primary_topic": "hatespeechbill dkshivakumar"
+    },
+    {
+        "handle": "@RoflGandhi_\n·\nNov 26",
+        "text": "Will it be the last ride of Siddu Mysorewala at the top ? \n\nHe is already 77 and has served as the LoP & CM for quite a long time now. In the swing state of Karnataka, 2028 Assembly elections will be a real test for INC. Who will be the face of the contest? Jr. Kharge, Patil or",
+        "timestamp": "2025-12-18T13:26:44.094357",
+        "x": 3.93927001953125,
+        "y": -2.5120506286621094,
+        "sentiment": "positive",
+        "sentiment_score": 0.142,
+        "emotion": "neutral",
+        "emotion_score": 0.676,
+        "cluster": 2,
+        "topics": [
+            "karnataka 2028",
+            "siddu mysorewala"
+        ],
+        "primary_topic": "karnataka 2028"
+    },
+    {
+        "handle": "@MallikarjunaNH\n·\nDec 17",
+        "text": "Basangouda Patil Yatnal can lead the opposition more effectively than R. Ashoka. You can see him asking sincere and genuine questions on issues of Kittur and Kalyana Karnataka region in the assembly. Sadly, instead of using him as the party's spokesperson and working on",
+        "timestamp": "2025-12-18T13:26:44.107177",
+        "x": 4.085748672485352,
+        "y": -2.237147808074951,
+        "sentiment": "neutral",
+        "sentiment_score": -0.028,
+        "emotion": "sadness",
+        "emotion_score": 0.964,
+        "cluster": 1,
+        "topics": [
+            "ashoka asking",
+            "effectively ashoka"
+        ],
+        "primary_topic": "ashoka asking"
+    },
+    {
+        "handle": "@KA_Talkies\n·\n2h",
+        "text": " Karnataka Assembly clears bill to prevent hate speech.\n\nViolators face up to 7 years in prison and a fine of up to ₹1 lakh.",
+        "timestamp": "2025-12-18T13:26:46.035791",
+        "x": 2.8799526691436768,
+        "y": -8.265334129333496,
+        "sentiment": "negative",
+        "sentiment_score": -0.394,
+        "emotion": "anger",
+        "emotion_score": 0.461,
+        "cluster": 0,
+        "topics": [
+            "karnataka",
+            "karnataka assembly"
+        ],
+        "primary_topic": "karnataka"
+    },
+    {
+        "handle": "@NewsArenaIndia\n·\n2h",
+        "text": "Karnataka Assembly witness chaotic scenes as heated exchange erupt over remarks on coastal region.\n\nHouse passed Hate Speech Bill, BJP slams this Bill as it is likely to curb freedom of speech.",
+        "timestamp": "2025-12-18T13:26:46.049444",
+        "x": 5.602063179016113,
+        "y": -5.807422161102295,
+        "sentiment": "negative",
+        "sentiment_score": -0.671,
+        "emotion": "fear",
+        "emotion_score": 0.56,
+        "cluster": 0,
+        "topics": [
+            "speech bjp",
+            "bjp slams"
+        ],
+        "primary_topic": "speech bjp"
+    },
+    {
+        "handle": "@ndtv\n·\n5h",
+        "text": "Row Over Women's Scheme In Karnataka Assembly: BJP Alleges Rs 5,000 Crore Scam\n\n\n@dpkbopanna\n shares details with \n@SehgalRahesha",
+        "timestamp": "2025-12-18T13:26:46.061717",
+        "x": 2.801854372024536,
+        "y": -3.612560272216797,
+        "sentiment": "negative",
+        "sentiment_score": -0.387,
+        "emotion": "anger",
+        "emotion_score": 0.605,
+        "cluster": 0,
+        "topics": [
+            "crore scam",
+            "scheme karnataka"
+        ],
+        "primary_topic": "crore scam"
+    },
+    {
+        "handle": "@PTI_News\n·\n7h",
+        "text": "VIDEO | Belagavi: As Karnataka Legislative Assembly passes Hate Speech Bill amid opposition from BJP, Minister Priyank Kharge (\n@PriyankKharge\n) says, “Why is BJP against this bill? The Supreme Court has clearly defined hate speech and called for it to be curbed, and this bill",
+        "timestamp": "2025-12-18T13:26:48.168873",
+        "x": 4.485785484313965,
+        "y": -5.906700134277344,
+        "sentiment": "negative",
+        "sentiment_score": -0.346,
+        "emotion": "anger",
+        "emotion_score": 0.787,
+        "cluster": 0,
+        "topics": [
+            "karnataka legislative",
+            "hate speech"
+        ],
+        "primary_topic": "karnataka legislative"
+    },
+    {
+        "handle": "@LiveLawIndia\n·\nDec 11",
+        "text": "The Karnataka Government on Wednesday, introduced the “ Karnataka Hate Speech And Hate Crimes (Prevention) Bill, 2025\" in the State Assembly.\nRead more: \nhttps://\nzurl.co/GHI8n \n#Karnataka  #HateSpeech  #HateCrimes",
+        "timestamp": "2025-12-18T13:26:48.181335",
+        "x": 2.8253936767578125,
+        "y": -5.905519008636475,
+        "sentiment": "neutral",
+        "sentiment_score": -0.066,
+        "emotion": "anger",
+        "emotion_score": 0.875,
+        "cluster": 1,
+        "topics": [
+            "karnataka hate",
+            "karnataka hatespeech"
+        ],
+        "primary_topic": "karnataka hate"
+    },
+    {
+        "handle": "@farzlicioustahe\n·\nDec 9",
+        "text": "My Prediction for next 10 assembly elections\n\nWest Bengal -  NDA\nAssam - NDA \nUttarakhand - NDA\nGoa - NDA\nTamil Nadu - NDA\nKerala -NDA\nHimachal Pradesh - NDA\nUttar Pradesh - NDA\nPunjab - NDA\nKarnataka - NDA",
+        "timestamp": "2025-12-18T13:26:50.285946",
+        "x": 3.353318214416504,
+        "y": -2.3753883838653564,
+        "sentiment": "neutral",
+        "sentiment_score": 0.06,
+        "emotion": "fear",
+        "emotion_score": 0.35,
+        "cluster": 1,
+        "topics": [
+            "assam nda",
+            "nda assam"
+        ],
+        "primary_topic": "assam nda"
+    },
+    {
+        "handle": "@Madrassan_Pinky\n·\n9h",
+        "text": "Karnataka Assembly passes Hate Speech Bill amid ruckus and strong BJP opposition. BJP alleges the law is being brought in to target political opponents.\n\nThe Bill provides for minimum 1 year jail, extendable up to 7 years and ₹50,000 fine for first-time offenders.\nRepeat",
+        "timestamp": "2025-12-18T13:26:53.080533",
+        "x": 3.2062606811523438,
+        "y": -7.790909290313721,
+        "sentiment": "negative",
+        "sentiment_score": -0.586,
+        "emotion": "anger",
+        "emotion_score": 0.826,
+        "cluster": 0,
+        "topics": [
+            "karnataka assembly",
+            "karnataka"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@18Kishann\n·\nDec 9",
+        "text": "My Prediction for next 10 assembly elections\n\nWest Bengal - AAP\nAssam - AAP\nUttarakhand - AAP\nGoa - AAP\nTamil Nadu - DMK+AAP\nKerala - LDF\nHimachal Pradesh - AAP\nUttar Pradesh - AAP\nPunjab - AAP\nKarnataka - AAP",
+        "timestamp": "2025-12-18T13:26:53.094515",
+        "x": 3.239518165588379,
+        "y": -2.448108673095703,
+        "sentiment": "neutral",
+        "sentiment_score": 0.093,
+        "emotion": "neutral",
+        "emotion_score": 0.426,
+        "cluster": 1,
+        "topics": [
+            "assam aap",
+            "aap assam"
+        ],
+        "primary_topic": "assam aap"
+    },
+    {
+        "handle": "@zoll_cms",
+        "text": "“The HFMS non-invasive patch is one of the breakthroughs for heart failure management.” - Dr. Adam Hafeez\n\nLearn how ZOLL HFMS helps to reduce HF readmissions and see the data from JACC-HF demonstrating a 38% reduction at 90 days  \nhttp://\nzollcms.com/4i074Zi\n?twclid=2-3o4xyfc1jjj7ro0qlx258mvv1",
+        "timestamp": "2025-12-18T13:26:53.107202",
+        "x": 3.9523732662200928,
+        "y": -4.196644306182861,
+        "sentiment": "positive",
+        "sentiment_score": 0.891,
+        "emotion": "neutral",
+        "emotion_score": 0.616,
+        "cluster": 2,
+        "topics": [
+            "hfms helps",
+            "hf readmissions"
+        ],
+        "primary_topic": "hfms helps"
+    },
+    {
+        "handle": "@amitmalviya\n·\nDec 10",
+        "text": "Total embarrassment for Kharge Junior, who suffers from attention deficit and routinely indulge in headline-chasing theatrics,\n\nIn the Karnataka Assembly, Home Minister and senior Congress leader Dr. D. Parameshwara has officially stated on record that the RSS conducted 518",
+        "timestamp": "2025-12-18T13:26:53.119463",
+        "x": 3.953010082244873,
+        "y": -3.75931978225708,
+        "sentiment": "negative",
+        "sentiment_score": -0.724,
+        "emotion": "sadness",
+        "emotion_score": 0.523,
+        "cluster": 0,
+        "topics": [
+            "rss conducted",
+            "embarrassment kharge"
+        ],
+        "primary_topic": "rss conducted"
+    },
+    {
+        "handle": "@MumbaichaDon\n·\nNov 9",
+        "text": "\"Trains 'full of immigrants' reached Bihar\"-Kapil Sibal\n\nAbe Dalle, Railways always run Election Special trains to boost voter turnout.\n\nRun earlier too during 2004 LS, 2009 LS, 2012 UP Assembly, 2013 MP, Karnataka, Rajasthan Assembly Elections when CONgress was in power.",
+        "timestamp": "2025-12-18T13:26:56.167982",
+        "x": 2.8805127143859863,
+        "y": -2.4659574031829834,
+        "sentiment": "neutral",
+        "sentiment_score": 0.031,
+        "emotion": "neutral",
+        "emotion_score": 0.819,
+        "cluster": 1,
+        "topics": [
+            "dalle railways",
+            "railways run"
+        ],
+        "primary_topic": "dalle railways"
+    },
+    {
+        "handle": "@MNVGowda\n·\n2h",
+        "text": "Highlights of Karnataka Assembly passed the Hate Speech and Hate Crimes (Prevention) Bill, 2025\n\nWhat counts as hate speech under the bill?\n\n Any communication (spoken, written, signs, online, etc.) that promotes/propagates/incites enmity, hatred, or ill-will against a",
+        "timestamp": "2025-12-18T13:26:58.569722",
+        "x": 3.03999924659729,
+        "y": -6.148579120635986,
+        "sentiment": "neutral",
+        "sentiment_score": -0.093,
+        "emotion": "anger",
+        "emotion_score": 0.527,
+        "cluster": 1,
+        "topics": [
+            "speech hate",
+            "hate speech"
+        ],
+        "primary_topic": "speech hate"
+    },
+    {
+        "handle": "@HPhobiaWatch\n·\nDec 9",
+        "text": "My Prediction for next 10 assembly elections\n\nWest Bengal - BJP\nAssam - BJP\nUttarakhand - BJP\nGoa - BJP\nTamil Nadu - DMK\nKerala - LDF\nHimachal Pradesh - BJP\nUttar Pradesh - BJP\nPunjab - AAP\nKarnataka - BJP",
+        "timestamp": "2025-12-18T13:26:58.582533",
+        "x": 3.140152931213379,
+        "y": -2.518415689468384,
+        "sentiment": "neutral",
+        "sentiment_score": 0.075,
+        "emotion": "fear",
+        "emotion_score": 0.408,
+        "cluster": 1,
+        "topics": [
+            "bjp assam",
+            "assam bjp"
+        ],
+        "primary_topic": "bjp assam"
+    },
+    {
+        "handle": "@CMEActiveTrader",
+        "text": "Go long or short. Crypto futures give you the tools to express directional views without needing coins or custody.",
+        "timestamp": "2025-12-18T13:26:58.594320",
+        "x": 3.103369951248169,
+        "y": -3.2696378231048584,
+        "sentiment": "positive",
+        "sentiment_score": 0.427,
+        "emotion": "neutral",
+        "emotion_score": 0.971,
+        "cluster": 2,
+        "topics": [
+            "crypto futures",
+            "futures"
+        ],
+        "primary_topic": "crypto futures"
+    },
+    {
+        "handle": "@TOIBengaluru\n·\nDec 12",
+        "text": "#Karnataka state BJP president Vijayendra Yediyurappa spotted playing cricket in Belagavi.\n\nVijayendra, who is the party’s contender for the CM’s post in the next assembly polls, is honing his skills on all fronts  - batting, bowling & fielding!\n\n\n@timesofindia",
+        "timestamp": "2025-12-18T13:27:00.600440",
+        "x": 4.43937349319458,
+        "y": -2.3460302352905273,
+        "sentiment": "positive",
+        "sentiment_score": 0.505,
+        "emotion": "fear",
+        "emotion_score": 0.667,
+        "cluster": 2,
+        "topics": [
+            "cricket belagavi",
+            "belagavi vijayendra"
+        ],
+        "primary_topic": "cricket belagavi"
+    },
+    {
+        "handle": "@businessline\n·\n8h",
+        "text": "The Karnataka Assembly on Thursday passed a Bill against hate speech amid a din.\nThe Hate Speech and Hate Crimes (Prevention) Bill, the first such law in the country, has a provision for a jail term up to seven years and fine up to ₹one lakh.",
+        "timestamp": "2025-12-18T13:27:00.613110",
+        "x": 3.3077259063720703,
+        "y": -8.347214698791504,
+        "sentiment": "neutral",
+        "sentiment_score": -0.039,
+        "emotion": "anger",
+        "emotion_score": 0.526,
+        "cluster": 1,
+        "topics": [
+            "speech hate",
+            "hate speech"
+        ],
+        "primary_topic": "speech hate"
+    },
+    {
+        "handle": "@RAshokaBJP\n·\n14h",
+        "text": "Lies on the floor of the House; apologies after being caught!\n\nKarnataka Congress minister Smt. \n@laxmi_hebbalkar\n has admitted to giving wrong information on the floor of the Assembly. This is definitely not a slip of the tongue - it is a clear attempt to mislead the House and",
+        "timestamp": "2025-12-18T13:27:02.788371",
+        "x": 4.929622650146484,
+        "y": -4.263199329376221,
+        "sentiment": "negative",
+        "sentiment_score": -0.452,
+        "emotion": "sadness",
+        "emotion_score": 0.739,
+        "cluster": 0,
+        "topics": [
+            "karnataka congress",
+            "karnataka"
+        ],
+        "primary_topic": "karnataka congress"
+    },
+    {
+        "handle": "@NEWSDAILY123\n·\n9h",
+        "text": "PM in Oman earlier today: India is about to send its first human space mission through Gaganyaan. The day is not far when India will have its own Space Station.\n\nKarnataka Assembly passes bill on hate speech amid din by BJP MLAs.\n\nPunjab rural polls: AAP wins over 200 zones",
+        "timestamp": "2025-12-18T13:27:04.486405",
+        "x": 4.351930141448975,
+        "y": -4.837855339050293,
+        "sentiment": "positive",
+        "sentiment_score": 0.343,
+        "emotion": "neutral",
+        "emotion_score": 0.28,
+        "cluster": 2,
+        "topics": [
+            "india space",
+            "india send"
+        ],
+        "primary_topic": "india space"
+    },
+    {
+        "handle": "@ani_digital\n·\n8h",
+        "text": "Karnataka Assembly passes Hate Speech and Hate Crimes Prevention Bill, 2025 with amendment\n\nRead \n@ANI\n Story | \nhttp://\naninews.in/news/national/\ngeneral-news/karnataka-assembly-passes-hate-speech-and-hate-crimes-prevention-bill-2025-with-amendment20251218143913/\n…\n\n#KarnatakaAssembly #HateSpeechBill #HateCrimesPreventionBill #amendment #GParameshwara",
+        "timestamp": "2025-12-18T13:27:04.499091",
+        "x": 2.6279404163360596,
+        "y": -5.2023725509643555,
+        "sentiment": "negative",
+        "sentiment_score": -0.105,
+        "emotion": "anger",
+        "emotion_score": 0.918,
+        "cluster": 0,
+        "topics": [
+            "amendment20251218143913 karnatakaassembly",
+            "karnatakaassembly hatespeechbill"
+        ],
+        "primary_topic": "amendment20251218143913 karnatakaassembly"
+    },
+    {
+        "handle": "@freedomcenterlu",
+        "text": "In trading biblical truth for the LGBTQ agenda, Chip and Joanna Gaines think they can be more loving and nicer than Jesus.\n\nThey can’t. No one can.",
+        "timestamp": "2025-12-18T13:27:07.338249",
+        "x": 2.914407253265381,
+        "y": -5.149110317230225,
+        "sentiment": "negative",
+        "sentiment_score": -0.587,
+        "emotion": "neutral",
+        "emotion_score": 0.922,
+        "cluster": 0,
+        "topics": [
+            "truth lgbtq",
+            "joanna gaines"
+        ],
+        "primary_topic": "truth lgbtq"
+    },
+    {
+        "handle": "@DeccanChronicle\n·\n6h",
+        "text": "#Karnataka  Assembly passes hate speech bill amid din; BJP says 'it's emergency in another form'\n#HateSpeechBill",
+        "timestamp": "2025-12-18T13:27:09.305586",
+        "x": 5.798673629760742,
+        "y": -5.25621223449707,
+        "sentiment": "negative",
+        "sentiment_score": -0.773,
+        "emotion": "anger",
+        "emotion_score": 0.974,
+        "cluster": 0,
+        "topics": [
+            "form hatespeechbill",
+            "hatespeechbill"
+        ],
+        "primary_topic": "form hatespeechbill"
+    },
+    {
+        "handle": "@News9Tweets\n·\n10m",
+        "text": "-#Karnataka assembly passed Hate Speech Bill \n-#HateSpeech law cleared amid #BJP charge \n\nWatch 'Unmissable' with \n@nabilajamal_\n only on News9",
+        "timestamp": "2025-12-18T13:27:09.320004",
+        "x": 5.302638053894043,
+        "y": -5.785430431365967,
+        "sentiment": "neutral",
+        "sentiment_score": -0.075,
+        "emotion": "anger",
+        "emotion_score": 0.701,
+        "cluster": 1,
+        "topics": [
+            "hatespeech law",
+            "speech hatespeech"
+        ],
+        "primary_topic": "hatespeech law"
+    },
+    {
+        "handle": "@VarthaBharatiEn\n·\n8h",
+        "text": "*➤➤BREAKING NEWS*\n\nKarnataka Assembly passes hate speech bill amid din\n\nClick\nhttps://\nenglish.varthabharati.in/karnataka/karn\nataka-assembly-passes-hate-speech-bill-amid-din\n…\n\n#Karnataka #assembly #hate #speechbill",
+        "timestamp": "2025-12-18T13:27:09.333725",
+        "x": 5.763112545013428,
+        "y": -4.811675548553467,
+        "sentiment": "negative",
+        "sentiment_score": -0.416,
+        "emotion": "anger",
+        "emotion_score": 0.959,
+        "cluster": 0,
+        "topics": [
+            "din karnataka",
+            "karnataka assembly"
+        ],
+        "primary_topic": "din karnataka"
+    },
+    {
+        "handle": "@sachiinv7\n·\n2h",
+        "text": "Karnataka Assembly Government Passed Hate Speech and Hate Crimes (Prevention) Bill Which Is Now Cognizable And Non-Bailable Offence With Up To 7 Years Of Imprisonment And Fines.\n\nMeanwhile Rahul Gandhi Ji Hate Speech",
+        "timestamp": "2025-12-18T13:27:09.348303",
+        "x": 2.9317679405212402,
+        "y": -7.4454851150512695,
+        "sentiment": "negative",
+        "sentiment_score": -0.553,
+        "emotion": "anger",
+        "emotion_score": 0.379,
+        "cluster": 0,
+        "topics": [
+            "speech hate",
+            "hate speech"
+        ],
+        "primary_topic": "speech hate"
+    },
+    {
+        "handle": "@ANI\n·\nDec 12",
+        "text": "#WATCH | Belagavi, Karnataka | On Congress MLAs breakfast meeting with Dy CM DK Shivakumar, Karnataka Minister B.Z. Zameer Ahmed Khan says, \"This is regular. During the assembly session, it is normal practice to have meals with MLAs.\"",
+        "timestamp": "2025-12-18T13:27:11.315979",
+        "x": 5.177899360656738,
+        "y": -3.879770517349243,
+        "sentiment": "neutral",
+        "sentiment_score": 0.071,
+        "emotion": "neutral",
+        "emotion_score": 0.54,
+        "cluster": 1,
+        "topics": [
+            "meals mlas",
+            "mlas breakfast"
+        ],
+        "primary_topic": "meals mlas"
+    },
+    {
+        "handle": "@ANI\n·\n7h",
+        "text": "#WATCH | On hate speech bill passed in Karnataka Assembly, State Minister Dinesh Gundu Rao says,\" It is in the interest of the society. We need new laws as an impact of social media. No one should get away with making hateful comments. BJP is worried because a lot of people who",
+        "timestamp": "2025-12-18T13:27:13.855452",
+        "x": 4.872650623321533,
+        "y": -5.699031829833984,
+        "sentiment": "negative",
+        "sentiment_score": -0.595,
+        "emotion": "fear",
+        "emotion_score": 0.576,
+        "cluster": 0,
+        "topics": [
+            "comments bjp",
+            "bjp worried"
+        ],
+        "primary_topic": "comments bjp"
+    },
+    {
+        "handle": "@bharathircc\n·\n3h",
+        "text": "“No bail, go to jail” — R Ashoka slams Karnataka Hate Speech Bill\n\nLeader of the Opposition R. Ashoka strongly criticised the Congress government after the Karnataka Assembly passed the Hate Speech and Hate Crime Bill. Calling it a “No bail, go to jail law,” Ashoka alleged that",
+        "timestamp": "2025-12-18T13:27:16.283033",
+        "x": 2.373333215713501,
+        "y": -8.197803497314453,
+        "sentiment": "negative",
+        "sentiment_score": -0.719,
+        "emotion": "anger",
+        "emotion_score": 0.908,
+        "cluster": 0,
+        "topics": [
+            "karnataka hate",
+            "speech hate"
+        ],
+        "primary_topic": "karnataka hate"
+    },
+    {
+        "handle": "@np_nationpress\n·\n5h",
+        "text": "Did the Karnataka Assembly Pass a Hate Speech Law Without Debate? Belagavi, Dec 18 (NationPress) The Karnataka Assembly approved the Karnataka\nHate Speech and Hate Crimes (Prevention and Control) Bill, 2025, amid disorder\nand without any debate from... \nhttps://\nnationpress.com/all/karnataka-\nhate-speech-bill-passed-in-chaos\n…",
+        "timestamp": "2025-12-18T13:27:16.296925",
+        "x": 3.1972157955169678,
+        "y": -5.794104099273682,
+        "sentiment": "negative",
+        "sentiment_score": -0.155,
+        "emotion": "anger",
+        "emotion_score": 0.649,
+        "cluster": 0,
+        "topics": [
+            "karnataka hate",
+            "did karnataka"
+        ],
+        "primary_topic": "karnataka hate"
+    },
+    {
+        "handle": "@invitrogen",
+        "text": "Earn up to $3,500 in savings on a future order in January.",
+        "timestamp": "2025-12-18T13:27:16.307768",
+        "x": 3.1921825408935547,
+        "y": -3.385716438293457,
+        "sentiment": "positive",
+        "sentiment_score": 0.52,
+        "emotion": "joy",
+        "emotion_score": 0.583,
+        "cluster": 2,
+        "topics": [
+            "500 savings",
+            "savings future"
+        ],
+        "primary_topic": "500 savings"
+    },
+    {
+        "handle": "@ANI\n·\nNov 19",
+        "text": "#WATCH | Bengaluru, Karnataka: LoP Karnataka Assembly R Ashoka says, \"'Ambedkar is ours', 'We are the champions', these are the slogans Congress uses everywhere. We are asking the Congress party, who defeated Ambedkar twice in the parliament?  Why did the Congress not give Bharat",
+        "timestamp": "2025-12-18T13:27:19.098577",
+        "x": 4.289732933044434,
+        "y": -2.831275224685669,
+        "sentiment": "negative",
+        "sentiment_score": -0.108,
+        "emotion": "fear",
+        "emotion_score": 0.446,
+        "cluster": 0,
+        "topics": [
+            "congress bharat",
+            "defeated ambedkar"
+        ],
+        "primary_topic": "congress bharat"
+    },
+    {
+        "handle": "@publictvnews\n·\nDec 9",
+        "text": "ಮುಂದಿನ ಸಿಎಂ ಯಾರು? – ವಿಧಾನಸಭೆಯಲ್ಲೂ ಕೂಗು, ವಿಪಕ್ಷ ಸದಸ್ಯರಿಂದ ತಿವಿತ \nhttps://\npublictv.in/who-will-be-th\ne-next-cm-question-in-karnataka-legislative-assembly/\n…\n\n#Belagavi #CM #Congress #LegislativeAssembly #Karnataka #BJP",
+        "timestamp": "2025-12-18T13:27:19.115284",
+        "x": 5.105899333953857,
+        "y": -4.094851016998291,
+        "sentiment": "neutral",
+        "sentiment_score": -0.025,
+        "emotion": "fear",
+        "emotion_score": 0.931,
+        "cluster": 1,
+        "topics": [
+            "karnataka legislative",
+            "legislativeassembly karnataka"
+        ],
+        "primary_topic": "karnataka legislative"
+    },
+    {
+        "handle": "@sanewsKarnataka\n·\nDec 17",
+        "text": "“A father drinking with his son — what message does this send?”\nMLA Sharanu Salgar questions liquor culture in Karnataka Assembly, urges liquor ban in Kalyana & North Karnataka, says people don’t want Gruha Lakshmi if alcohol continues.\n\n#KarnatakaAssembly #LiquorPolicy",
+        "timestamp": "2025-12-18T13:27:21.820861",
+        "x": 4.5297112464904785,
+        "y": -6.394603729248047,
+        "sentiment": "negative",
+        "sentiment_score": -0.505,
+        "emotion": "fear",
+        "emotion_score": 0.746,
+        "cluster": 0,
+        "topics": [
+            "karnatakaassembly liquorpolicy",
+            "liquor ban"
+        ],
+        "primary_topic": "karnatakaassembly liquorpolicy"
+    },
+    {
+        "handle": "@ndtv\n·\n1h",
+        "text": "#TheSouthernView with \n@tmvraghav\n | Hate speech bill passed by Karnataka assembly",
+        "timestamp": "2025-12-18T13:27:21.832834",
+        "x": 5.27528190612793,
+        "y": -5.381150722503662,
+        "sentiment": "negative",
+        "sentiment_score": -0.33,
+        "emotion": "anger",
+        "emotion_score": 0.709,
+        "cluster": 0,
+        "topics": [
+            "karnataka assembly",
+            "passed karnataka"
+        ],
+        "primary_topic": "karnataka assembly"
+    },
+    {
+        "handle": "@TheDeccanAlert\n·\n8h",
+        "text": "Karnataka Assembly Passes Hate Speech Bill Amid BJP Protests \nhttps://\ndeccanalert.com/karnataka-asse\nmbly-passes-hate-speech-bill-amid-bjp-protests/\n…",
+        "timestamp": "2025-12-18T13:27:24.171794",
+        "x": 5.644434452056885,
+        "y": -5.069101333618164,
+        "sentiment": "negative",
+        "sentiment_score": -0.365,
+        "emotion": "fear",
+        "emotion_score": 0.774,
+        "cluster": 0,
+        "topics": [
+            "bjp protests",
+            "karnataka assembly"
+        ],
+        "primary_topic": "bjp protests"
+    },
+    {
+        "handle": "@ravikeerthi22\n·\nDec 12",
+        "text": "As if i did the Analysis !!\nThis was the stat given at Karnataka winter assembly ",
+        "timestamp": "2025-12-18T13:27:26.815191",
+        "x": 4.164369583129883,
+        "y": -3.9308011531829834,
+        "sentiment": "neutral",
+        "sentiment_score": -0.006,
+        "emotion": "neutral",
+        "emotion_score": 0.474,
+        "cluster": 1,
+        "topics": [
+            "karnataka winter",
+            "given karnataka"
+        ],
+        "primary_topic": "karnataka winter"
+    },
+    {
+        "handle": "@MrRANARAGA\n·\nDec 10",
+        "text": "Finally some sone stood for North Karnataka , Avattu Suvarna soudha munde ade suvarna soudha modi avar india 50 states inda fulle pledge assembly agodu pakka .\n#Northkarnataka ge Jai.",
+        "timestamp": "2025-12-18T13:27:26.828217",
+        "x": 4.952408313751221,
+        "y": -3.0262386798858643,
+        "sentiment": "positive",
+        "sentiment_score": 0.233,
+        "emotion": "sadness",
+        "emotion_score": 0.63,
+        "cluster": 2,
+        "topics": [
+            "north karnataka",
+            "pakka northkarnataka"
+        ],
+        "primary_topic": "north karnataka"
+    },
+    {
+        "handle": "@getsunmed",
+        "text": "Over 1 million units sold. For 7 years straight this has been our #1 bestselling topical cream. To celebrate, we’re giving new customers a rare 75% off. Limited quantities available.",
+        "timestamp": "2025-12-18T13:27:26.841085",
+        "x": 3.4798712730407715,
+        "y": -3.680445909500122,
+        "sentiment": "positive",
+        "sentiment_score": 0.968,
+        "emotion": "joy",
+        "emotion_score": 0.387,
+        "cluster": 2,
+        "topics": [
+            "topical cream",
+            "quantities available"
+        ],
+        "primary_topic": "topical cream"
+    },
+    {
+        "handle": "@PTI_News\n·\nDec 17",
+        "text": "STORY | BJP stages walkout in Karnataka assembly over 'non-disbursal' of Gruha Lakshmi payout\n\nThe opposition BJP on Wednesday staged a walkout from the Karnataka assembly protesting the alleged \"non-disbursal\" of two months' installments to 1.26 crore beneficiaries under a",
+        "timestamp": "2025-12-18T13:27:28.667417",
+        "x": 4.543673038482666,
+        "y": -4.693240642547607,
+        "sentiment": "negative",
+        "sentiment_score": -0.293,
+        "emotion": "anger",
+        "emotion_score": 0.837,
+        "cluster": 0,
+        "topics": [
+            "walkout karnataka",
+            "story bjp"
+        ],
+        "primary_topic": "walkout karnataka"
+    },
+    {
+        "handle": "@drshamamohd\n·\nOct 23",
+        "text": "Data center behind voter deletion was operated by 5 men, one of whom has fled to Dubai.\n\nSIT investigation in Karnataka’s Aland assembly seat has revealed that ₹4.8 lakh was paid to delete 6018 voters — meaning BJP valued each voter and our democracy at just ₹80.\n\nWhy is",
+        "timestamp": "2025-12-18T13:27:31.262115",
+        "x": 2.5359137058258057,
+        "y": -3.0227620601654053,
+        "sentiment": "negative",
+        "sentiment_score": -0.384,
+        "emotion": "neutral",
+        "emotion_score": 0.597,
+        "cluster": 0,
+        "topics": [
+            "voter deletion",
+            "bjp valued"
+        ],
+        "primary_topic": "voter deletion"
+    },
+    {
+        "handle": "@ANI\n·\nNov 26",
+        "text": "Tumakuru | On Karnataka CM row, Congress MLA KN Rajanna said, \"Let's dissolve (the Assembly) and face the elections. Then let's work together under the leadership of DK Shivakumar and come with a majority. Then let him serve as the CM for 5 years. Wasn't it the Congress",
+        "timestamp": "2025-12-18T13:27:31.274443",
+        "x": 3.880645513534546,
+        "y": -2.9622509479522705,
+        "sentiment": "neutral",
+        "sentiment_score": 0.056,
+        "emotion": "fear",
+        "emotion_score": 0.28,
+        "cluster": 1,
+        "topics": [
+            "tumakuru karnataka",
+            "tumakuru"
+        ],
+        "primary_topic": "tumakuru karnataka"
+    },
+    {
+        "handle": "@NewsArenaIndia\n·\nDec 7",
+        "text": "BJP MP Sudhanshu Trivedi-\n\n\"Navjot Kaur said in Congress one needs to pay ₹500 crore to become CM.\n\nThis is not new as Margaret Alva, in her book mentioned that during 2008 Karnataka Assembly Elections, most Congress seats were up for sale or bidding.\"",
+        "timestamp": "2025-12-18T13:27:33.811338",
+        "x": 3.5033209323883057,
+        "y": -3.093998670578003,
+        "sentiment": "neutral",
+        "sentiment_score": -0.025,
+        "emotion": "neutral",
+        "emotion_score": 0.812,
+        "cluster": 1,
+        "topics": [
+            "crore cm",
+            "bjp mp"
+        ],
+        "primary_topic": "crore cm"
+    },
+    {
+        "handle": "@Girishvhp\n·\nDec 9",
+        "text": "Many people have tagged me regarding the Karnataka Cabinet’s approval of a proposed bill on regulating hate speech. Since the draft has not yet been released to the public and the bill has not been introduced in the Assembly, it is premature to draw conclusions or comment on it.",
+        "timestamp": "2025-12-18T13:27:33.826107",
+        "x": 3.0562350749969482,
+        "y": -5.64083194732666,
+        "sentiment": "negative",
+        "sentiment_score": -0.431,
+        "emotion": "neutral",
+        "emotion_score": 0.793,
+        "cluster": 0,
+        "topics": [
+            "regulating hate",
+            "speech draft"
+        ],
+        "primary_topic": "regulating hate"
+    },
+    {
+        "handle": "@ParaflowAI",
+        "text": "Paraflow = PM logic × Designer taste → dev-ready code\n\nTry Free Now ",
+        "timestamp": "2025-12-18T13:27:33.839747",
+        "x": 5.105982780456543,
+        "y": -4.530270099639893,
+        "sentiment": "positive",
+        "sentiment_score": 0.199,
+        "emotion": "neutral",
+        "emotion_score": 0.806,
+        "cluster": 2,
+        "topics": [
+            "paraflow pm",
+            "paraflow"
+        ],
+        "primary_topic": "paraflow pm"
+    },
+    {
+        "handle": "@ANI\n·\nNov 28",
+        "text": "#WATCH | Bengaluru, Karnataka: On Karnataka Leadership Row, LoP in Karnataka Assembly & BJP MLA, R Ashoka says, \"This is a very, very crucial stage in Karnataka politics. The fight between Siddaramaiah and DK Shivakumar has turned into a street fight. The Congress High Command is",
+        "timestamp": "2025-12-18T13:27:35.551229",
+        "x": 4.0560150146484375,
+        "y": -3.143784523010254,
+        "sentiment": "neutral",
+        "sentiment_score": 0.028,
+        "emotion": "fear",
+        "emotion_score": 0.755,
+        "cluster": 1,
+        "topics": [
+            "karnataka leadership",
+            "karnataka politics"
+        ],
+        "primary_topic": "karnataka leadership"
+    },
+    {
+        "handle": "@ANI\n·\nDec 2",
+        "text": "#WATCH | Bengaluru | Karnataka CM Siddaramaiah says, \"Today, DK Shivakumar invited me for breakfast. I agreed to come. Today, both of us had breakfast, and DK Suresh was also present... After breakfast, we discussed the assembly session... It was decided that we should call a",
+        "timestamp": "2025-12-18T13:27:35.564900",
+        "x": 4.9385881423950195,
+        "y": -3.6847026348114014,
+        "sentiment": "positive",
+        "sentiment_score": 0.172,
+        "emotion": "neutral",
+        "emotion_score": 0.462,
+        "cluster": 2,
+        "topics": [
+            "dk shivakumar",
+            "breakfast dk"
+        ],
+        "primary_topic": "dk shivakumar"
+    },
+    {
+        "handle": "@KannadaRepublic\n·\n7h",
+        "text": "Karnataka Assembly Passes Hate Speech Bill: ದ್ವೇಷ ಭಾಷಣ ಬಿಲ್​ ಹರಿದುರೊಚ್ಚಿಗೆದ್ದ ಅಶೋಕ್​..!\n.\n.\n.\nWATCH #RepublicKannada LIVE: \nhttps://\nyoutube.com/watch?v=Ciehbj\nVwMAs\n…\n.\n.\n.\n#belagaviwintersession #hatespeechbill #dkshivakumar #wintersession2025 #BelagaviWinterSession2025 #cmsiddaramaiah #rashoka",
+        "timestamp": "2025-12-18T13:27:37.619009",
+        "x": 5.297500133514404,
+        "y": -4.711678504943848,
+        "sentiment": "negative",
+        "sentiment_score": -0.198,
+        "emotion": "anger",
+        "emotion_score": 0.575,
+        "cluster": 0,
+        "topics": [
+            "hatespeechbill dkshivakumar",
+            "belagaviwintersession hatespeechbill"
+        ],
+        "primary_topic": "hatespeechbill dkshivakumar"
+    },
+    {
+        "handle": "@Nishkama_Karma1\n·\nDec 11",
+        "text": "Karnataka has nearly 2.81 lakh govt vacancies.\n\nResponding to MLA Hanumanth Nirani in the Assembly, CM admitted that no new recruitment completed in 2025.\n\nIn 2.5 years, Congres govt has filled only 8,157 posts, nowhere close to the promise of 2.5 lakh jobs in a single year.",
+        "timestamp": "2025-12-18T13:27:37.631201",
+        "x": 3.6984500885009766,
+        "y": -3.391298294067383,
+        "sentiment": "negative",
+        "sentiment_score": -0.28,
+        "emotion": "neutral",
+        "emotion_score": 0.532,
+        "cluster": 0,
+        "topics": [
+            "karnataka nearly",
+            "karnataka"
+        ],
+        "primary_topic": "karnataka nearly"
+    },
+    {
+        "handle": "@NewsArenaIndia\n·\nNov 19",
+        "text": "Karnataka News-\n\nExpelled BJP MLA Basanagouda Patil Yatnal says if he becomes Karnataka CM, he will launch bulldozer action against those who hurt Hindu sentiments and practise love jihad.\n\nWill he win next Assembly Elections?",
+        "timestamp": "2025-12-18T13:27:39.584039",
+        "x": 3.956418037414551,
+        "y": -2.0227882862091064,
+        "sentiment": "negative",
+        "sentiment_score": -0.397,
+        "emotion": "fear",
+        "emotion_score": 0.385,
+        "cluster": 0,
+        "topics": [
+            "karnataka cm",
+            "karnataka news"
+        ],
+        "primary_topic": "karnataka cm"
+    },
+    {
+        "handle": "@NewsArenaIndia\n·\n13h",
+        "text": "Karnataka BJP Chief BY Vijayendra-\n\n\"I met our new Working President Nitin Nabin and I assured him that we will strengthen party in Karnataka and under his guidance win next Assembly Elections.\"",
+        "timestamp": "2025-12-18T13:27:42.315709",
+        "x": 4.700008869171143,
+        "y": -2.636690855026245,
+        "sentiment": "positive",
+        "sentiment_score": 0.686,
+        "emotion": "joy",
+        "emotion_score": 0.683,
+        "cluster": 2,
+        "topics": [
+            "nitin nabin",
+            "nabin"
+        ],
+        "primary_topic": "nitin nabin"
+    }
+]

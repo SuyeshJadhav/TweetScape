@@ -1,0 +1,57 @@
+[
+    {
+        "handle": "@theobharvey\n·\n26m",
+        "text": "I had an idea and decided to build it myself. \n\nCustom Mac OS creative suite app with a local Gemma 4b model i fine tuned myself and an auto switched API call to Gemini 3 pro for complex stuff. \nBuilt in my QFT Visualizer, nano banana pro & veo 3.1, creations gallery and a",
+        "timestamp": "2025-12-18T09:50:30.737455"
+    },
+    {
+        "handle": "@Starlink",
+        "text": "With more than 8,500 satellites in orbit, Starlink provides connectivity through harsh weather conditions, network disruptions, and natural disasters.\n\nOrder online in under 2 minutes.",
+        "timestamp": "2025-12-18T09:50:30.772841"
+    },
+    {
+        "handle": "@googleaidevs\n·\nMay 20",
+        "text": " Introducing Gemma 3n, available in early preview today. \n\nThe model uses a cutting-edge architecture optimized for mobile on-device usage. It brings multimodality, super fast inference, and more.",
+        "timestamp": "2025-12-18T09:50:30.796188"
+    },
+    {
+        "handle": "@osanseviero\n·\nAug 14",
+        "text": "Introducing Gemma 3 270M \n\nA tiny model! Just 270 million parameters\n Very strong instruction following\n Fine-tune in just a few minutes, with a large vocabulary to serve as a high-quality foundation\n\n\nhttps://\ndevelopers.googleblog.com/en/introducing\n-gemma-3-270m\n…",
+        "timestamp": "2025-12-18T09:50:30.847996"
+    },
+    {
+        "handle": "@sundarpichai·Mar 12",
+        "text": "Gemma 3 is here! Our new open models are incredibly efficient - the largest 27B model runs on just one H100 GPU. You'd need at least 10x the compute to get similar performance from other models ",
+        "timestamp": "2025-12-18T09:50:30.873891"
+    },
+    {
+        "handle": "@agneymenon\n·\nDec 17",
+        "text": "Three releases today. One of them open source. \n\nGemini 3.0 Flash\nNano Banana Flash\nNew Gemma model?",
+        "timestamp": "2025-12-18T09:50:33.859345"
+    },
+    {
+        "handle": "@premium",
+        "text": "Why guess when you can know?",
+        "timestamp": "2025-12-18T09:50:35.769227"
+    },
+    {
+        "handle": "@ai_for_success\n·\nMay 24",
+        "text": "WHY IS NO ONE TALKING ABOUT THIS??\n\nGemma 3n model was one of the best surprises for me.\nThe fact that you can run it on edge devices even with just 2GB of RAM is impressive.\n\nA few weeks back, I was on holiday and used the Gemini Live feature a lot. But I kept running into",
+        "timestamp": "2025-12-18T09:50:35.788060"
+    },
+    {
+        "handle": "@ivanfioravanti\n·\nAug 15",
+        "text": "Few seconds and <4GB to full fine tune Gemma 3 270M for classification tasks! Here on M3 Ultra!\nI'll keep experimenting and checking final result!\n\nbase model, batch size 4, adaw (testing with adafactor too!), rank 128.\n\nVideo at normal speed here! ",
+        "timestamp": "2025-12-18T09:50:37.612693"
+    },
+    {
+        "handle": "@steren\n·\nMar 21",
+        "text": "With \n@ollama\n 0.6.2, Gemma 3 27B now runs on 1 Cloud Run GPU.\n\nThat's 27 billion parameters. The biggest Gemma 3 variant. The most capable open model you can run on a single GPU.",
+        "timestamp": "2025-12-18T09:50:39.369194"
+    },
+    {
+        "handle": "@ericciarla\n·\nApr 21",
+        "text": " We fine-tuned Gemma 3 using \n@UnslothAI\n on a custom instruction dataset scraped and built with \n@firecrawl_dev\n.\n\nThe model is now able to answer questions about \n@OpenAI\n Agents SDK documentation.\n\nCheck out the demo below",
+        "timestamp": "2025-12-18T09:50:39.388203"
+    }
+]

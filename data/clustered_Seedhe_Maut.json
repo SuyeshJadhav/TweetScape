@@ -1,0 +1,189 @@
+[
+    {
+        "handle": "@Billahubhaisaab\n·\nJul 10, 2023",
+        "text": "Update On Seedhe Maut's mixtape \"LUNCH BREAK\" ",
+        "timestamp": "2025-12-18T13:06:31.024697",
+        "x": -1.7857242822647095,
+        "y": 3.9030556678771973,
+        "sentiment": "neutral",
+        "sentiment_score": 0.06,
+        "emotion": "neutral",
+        "emotion_score": 0.808,
+        "cluster": 1,
+        "topics": [
+            "maut mixtape",
+            "mixtape lunch"
+        ],
+        "primary_topic": "maut mixtape"
+    },
+    {
+        "handle": "@Billahubhaisaab\n·\nAug 3, 2023",
+        "text": "Seedhe maut announced LUNCH BREAK track list ",
+        "timestamp": "2025-12-18T13:06:31.042128",
+        "x": -1.37692129611969,
+        "y": 3.466083526611328,
+        "sentiment": "neutral",
+        "sentiment_score": 0.053,
+        "emotion": "neutral",
+        "emotion_score": 0.589,
+        "cluster": 1,
+        "topics": [
+            "lunch break",
+            "maut announced"
+        ],
+        "primary_topic": "lunch break"
+    },
+    {
+        "handle": "@BetTrader429\n·\nDec 17",
+        "text": " Tera bhaiii Seedhe Maut \n\n#MoodIndigo",
+        "timestamp": "2025-12-18T13:06:31.061234",
+        "x": -2.040660858154297,
+        "y": 1.6918781995773315,
+        "sentiment": "positive",
+        "sentiment_score": 0.12,
+        "emotion": "fear",
+        "emotion_score": 0.59,
+        "cluster": 2,
+        "topics": [
+            "maut moodindigo",
+            "bhaiii seedhe"
+        ],
+        "primary_topic": "maut moodindigo"
+    },
+    {
+        "handle": "@pushh_shh\n·\nJun 25, 2024",
+        "text": "Seedhe Maut's biography movie was just announced!!\n\nFirst look at the poster",
+        "timestamp": "2025-12-18T13:06:31.077373",
+        "x": -2.4918763637542725,
+        "y": 3.6810832023620605,
+        "sentiment": "positive",
+        "sentiment_score": 0.632,
+        "emotion": "joy",
+        "emotion_score": 0.443,
+        "cluster": 2,
+        "topics": [
+            "maut biography",
+            "seedhe maut"
+        ],
+        "primary_topic": "maut biography"
+    },
+    {
+        "handle": "@Stanking4lyf\n·\nJan 16",
+        "text": "SEEDHE MAUT DESKTOP WALLPAPER FROM SOYI NHI MV\nA THREAD ",
+        "timestamp": "2025-12-18T13:06:33.630566",
+        "x": -2.2667908668518066,
+        "y": 2.439436435699463,
+        "sentiment": "neutral",
+        "sentiment_score": 0.046,
+        "emotion": "fear",
+        "emotion_score": 0.297,
+        "cluster": 1,
+        "topics": [
+            "wallpaper soyi",
+            "desktop wallpaper"
+        ],
+        "primary_topic": "wallpaper soyi"
+    },
+    {
+        "handle": "@Billahubhaisaab\n·\nJul 22, 2023",
+        "text": "KRSNA X SEEDHE MAUT in Lunch Break ",
+        "timestamp": "2025-12-18T13:06:33.648020",
+        "x": -0.8375735282897949,
+        "y": 2.887070417404175,
+        "sentiment": "positive",
+        "sentiment_score": 0.104,
+        "emotion": "neutral",
+        "emotion_score": 0.597,
+        "cluster": 2,
+        "topics": [
+            "krsna seedhe",
+            "maut lunch"
+        ],
+        "primary_topic": "krsna seedhe"
+    },
+    {
+        "handle": "@tanishaitaan\n·\nDec 16",
+        "text": "seedhe maut",
+        "timestamp": "2025-12-18T13:06:35.360025",
+        "x": -2.1359331607818604,
+        "y": 2.9683992862701416,
+        "sentiment": "neutral",
+        "sentiment_score": 0.099,
+        "emotion": "neutral",
+        "emotion_score": 0.868,
+        "cluster": 1,
+        "topics": [
+            "seedhe maut",
+            "seedhe"
+        ],
+        "primary_topic": "seedhe maut"
+    },
+    {
+        "handle": "@akkiee01\n·\nOct 29",
+        "text": "Ek kadam seedhe Maut k naam",
+        "timestamp": "2025-12-18T13:06:35.373684",
+        "x": -1.492596983909607,
+        "y": 2.3523404598236084,
+        "sentiment": "neutral",
+        "sentiment_score": -0.014,
+        "emotion": "disgust",
+        "emotion_score": 0.334,
+        "cluster": 1,
+        "topics": [
+            "kadam seedhe",
+            "ek kadam"
+        ],
+        "primary_topic": "kadam seedhe"
+    },
+    {
+        "handle": "@shreyavrmz\n·\nNov 23",
+        "text": "Men say they have good music taste and then listen to seedhe maut",
+        "timestamp": "2025-12-18T13:06:38.483744",
+        "x": -3.043844223022461,
+        "y": 2.218378782272339,
+        "sentiment": "negative",
+        "sentiment_score": -0.222,
+        "emotion": "neutral",
+        "emotion_score": 0.959,
+        "cluster": 0,
+        "topics": [
+            "music taste",
+            "listen seedhe"
+        ],
+        "primary_topic": "music taste"
+    },
+    {
+        "handle": "@s7marth\n·\nJun 27, 2024",
+        "text": "Seedhe Maut: Disrespecting Fans and Failing to Handle Criticism!\nA thread ",
+        "timestamp": "2025-12-18T13:06:38.502109",
+        "x": -3.012988805770874,
+        "y": 3.0659255981445312,
+        "sentiment": "negative",
+        "sentiment_score": -0.783,
+        "emotion": "anger",
+        "emotion_score": 0.486,
+        "cluster": 0,
+        "topics": [
+            "disrespecting fans",
+            "maut disrespecting"
+        ],
+        "primary_topic": "disrespecting fans"
+    },
+    {
+        "handle": "@wavedant_\n·\nDec 1",
+        "text": "What is life without a direct death?",
+        "timestamp": "2025-12-18T13:06:38.516664",
+        "x": -1.1559950113296509,
+        "y": 1.799831509590149,
+        "sentiment": "negative",
+        "sentiment_score": -0.423,
+        "emotion": "neutral",
+        "emotion_score": 0.503,
+        "cluster": 0,
+        "topics": [
+            "direct death",
+            "life direct"
+        ],
+        "primary_topic": "direct death"
+    }
+]

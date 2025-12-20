@@ -13,3 +13,5 @@ uuid
 pydantic
 transformers
 torch
+umap-learn
+keybert

@@ -1,0 +1,2987 @@
+[
+    {
+        "handle": "@ElonMusk_LordX\n·\nDec 18",
+        "text": "The most difficult eye test on the internet \nWhat number can you see?",
+        "timestamp": "2025-12-19T14:32:21.911878",
+        "x": 0.2226923406124115,
+        "y": 10.691264152526855,
+        "sentiment": "negative",
+        "sentiment_score": -0.347,
+        "emotion": "fear",
+        "emotion_score": 0.349,
+        "cluster": 0,
+        "topics": [
+            "eye test",
+            "difficult eye"
+        ],
+        "primary_topic": "eye test"
+    },
+    {
+        "handle": "@premium",
+        "text": "Enjoy the best experience on X.",
+        "timestamp": "2025-12-19T14:32:21.928108",
+        "x": 0.8356457352638245,
+        "y": 11.503528594970703,
+        "sentiment": "positive",
+        "sentiment_score": 0.976,
+        "emotion": "joy",
+        "emotion_score": 0.605,
+        "cluster": 2,
+        "topics": [
+            "best experience",
+            "enjoy best"
+        ],
+        "primary_topic": "best experience"
+    },
+    {
+        "handle": "@Parodyelonnews\n·\nDec 13",
+        "text": "Would you accept $1,000,000 but never eat your favorite food again?\n\nYes or No",
+        "timestamp": "2025-12-19T14:32:21.943604",
+        "x": 1.7810094356536865,
+        "y": 10.795634269714355,
+        "sentiment": "negative",
+        "sentiment_score": -0.181,
+        "emotion": "neutral",
+        "emotion_score": 0.61,
+        "cluster": 0,
+        "topics": [
+            "000 eat",
+            "food yes"
+        ],
+        "primary_topic": "000 eat"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 18",
+        "text": "Almost half of Americans don’t like RFK Jr. , if you like him leave a red heart",
+        "timestamp": "2025-12-19T14:32:21.958921",
+        "x": -0.9779488444328308,
+        "y": 12.520718574523926,
+        "sentiment": "negative",
+        "sentiment_score": -0.791,
+        "emotion": "neutral",
+        "emotion_score": 0.804,
+        "cluster": 0,
+        "topics": [
+            "rfk jr",
+            "like rfk"
+        ],
+        "primary_topic": "rfk jr"
+    },
+    {
+        "handle": "@MAGANEWSShapiro\n·\nDec 13",
+        "text": "If this photo reaches your timeline, everything will be okay ",
+        "timestamp": "2025-12-19T14:32:23.691753",
+        "x": -0.28310269117355347,
+        "y": 10.987242698669434,
+        "sentiment": "positive",
+        "sentiment_score": 0.601,
+        "emotion": "neutral",
+        "emotion_score": 0.889,
+        "cluster": 2,
+        "topics": [
+            "timeline okay",
+            "reaches timeline"
+        ],
+        "primary_topic": "timeline okay"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 18",
+        "text": "Raise your hand if you think President Trump is the BEST President America has ever had",
+        "timestamp": "2025-12-19T14:32:25.405826",
+        "x": -1.134331226348877,
+        "y": 12.548466682434082,
+        "sentiment": "positive",
+        "sentiment_score": 0.938,
+        "emotion": "neutral",
+        "emotion_score": 0.681,
+        "cluster": 2,
+        "topics": [
+            "trump best",
+            "best president"
+        ],
+        "primary_topic": "trump best"
+    },
+    {
+        "handle": "@ElonMuskGrek\n·\n11h",
+        "text": "Be Honest \n\nIf you suddenly become a billionaire,would you still worship God?? \n\nYes or No?",
+        "timestamp": "2025-12-19T14:32:25.422428",
+        "x": 1.9561716318130493,
+        "y": 10.851284980773926,
+        "sentiment": "neutral",
+        "sentiment_score": 0.046,
+        "emotion": "fear",
+        "emotion_score": 0.433,
+        "cluster": 1,
+        "topics": [
+            "billionaire worship",
+            "suddenly billionaire"
+        ],
+        "primary_topic": "billionaire worship"
+    },
+    {
+        "handle": "@HalcyonTrader1",
+        "text": "Stop stressing over complex rulebooks. \n\nSwitch to Halcyon for clarity and confidence. \n\n- 90/10 Profit Splits \n- No Consistency Requirements\n- Instant Funding\n\nGet your account today for just $43!",
+        "timestamp": "2025-12-19T14:32:27.865371",
+        "x": 1.266756534576416,
+        "y": 11.26456069946289,
+        "sentiment": "positive",
+        "sentiment_score": 0.124,
+        "emotion": "neutral",
+        "emotion_score": 0.544,
+        "cluster": 2,
+        "topics": [
+            "10 profit",
+            "profit splits"
+        ],
+        "primary_topic": "10 profit"
+    },
+    {
+        "handle": "@RightPulseNewss\n·\nDec 17",
+        "text": "Almost half of Americans don’t like Elon Musk, if you like him leave a red heart  or give him thumbs up ",
+        "timestamp": "2025-12-19T14:32:29.729826",
+        "x": -0.7030858993530273,
+        "y": 12.75140380859375,
+        "sentiment": "negative",
+        "sentiment_score": -0.831,
+        "emotion": "anger",
+        "emotion_score": 0.5,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk like"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@Parodyelonnews\n·\nDec 15",
+        "text": "Would you isolate in a cabin for 6 months for $100,000,000? \n\nNo tech, just nature and books.\n\nCould you handle it?",
+        "timestamp": "2025-12-19T14:32:29.746243",
+        "x": 1.6019831895828247,
+        "y": 11.069531440734863,
+        "sentiment": "negative",
+        "sentiment_score": -0.106,
+        "emotion": "neutral",
+        "emotion_score": 0.617,
+        "cluster": 0,
+        "topics": [
+            "isolate cabin",
+            "isolate"
+        ],
+        "primary_topic": "isolate cabin"
+    },
+    {
+        "handle": "@remarks\n·\n4h",
+        "text": "JUST IN:  Elon Musk says it's \"time to undo the great wrong that has been committed against the people of Europe.\"",
+        "timestamp": "2025-12-19T14:32:32.045340",
+        "x": 2.9511797428131104,
+        "y": 14.025731086730957,
+        "sentiment": "neutral",
+        "sentiment_score": 0.047,
+        "emotion": "neutral",
+        "emotion_score": 0.703,
+        "cluster": 1,
+        "topics": [
+            "musk says",
+            "elon musk"
+        ],
+        "primary_topic": "musk says"
+    },
+    {
+        "handle": "@MAGANEWSShapiro\n·\nDec 15",
+        "text": "Do you like my personality?\n\nYes or No",
+        "timestamp": "2025-12-19T14:32:32.059963",
+        "x": 1.6728230714797974,
+        "y": 10.387176513671875,
+        "sentiment": "positive",
+        "sentiment_score": 0.159,
+        "emotion": "neutral",
+        "emotion_score": 0.636,
+        "cluster": 2,
+        "topics": [
+            "personality yes",
+            "personality"
+        ],
+        "primary_topic": "personality yes"
+    },
+    {
+        "handle": "@Parodyelonnews\n·\n11h",
+        "text": "Musk's vision benefits mankind.\n\nDo you agree? \n\nYes or No",
+        "timestamp": "2025-12-19T14:32:34.524395",
+        "x": 1.9391616582870483,
+        "y": 12.011723518371582,
+        "sentiment": "positive",
+        "sentiment_score": 0.805,
+        "emotion": "neutral",
+        "emotion_score": 0.731,
+        "cluster": 2,
+        "topics": [
+            "musk vision",
+            "musk"
+        ],
+        "primary_topic": "musk vision"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 18",
+        "text": "Describe this man in ONE word",
+        "timestamp": "2025-12-19T14:32:37.087698",
+        "x": 0.27145469188690186,
+        "y": 11.330699920654297,
+        "sentiment": "negative",
+        "sentiment_score": -0.583,
+        "emotion": "neutral",
+        "emotion_score": 0.896,
+        "cluster": 0,
+        "topics": [
+            "man word",
+            "word"
+        ],
+        "primary_topic": "man word"
+    },
+    {
+        "handle": "@SocDoneLeft\n·\n3h",
+        "text": "Elon Musk: \"I'm just a liberal from 2010, the left left me :(\"\n\nMitt Romney:",
+        "timestamp": "2025-12-19T14:32:37.103189",
+        "x": 2.0142288208007812,
+        "y": 13.238471031188965,
+        "sentiment": "negative",
+        "sentiment_score": -0.546,
+        "emotion": "neutral",
+        "emotion_score": 0.844,
+        "cluster": 0,
+        "topics": [
+            "liberal 2010",
+            "elon musk"
+        ],
+        "primary_topic": "liberal 2010"
+    },
+    {
+        "handle": "@aldamu_jo\n·\nDec 17",
+        "text": "Elon Musk says Italians should stay in Italy and the Japanese in Japan.  \n\nHe is South African living  in North America.",
+        "timestamp": "2025-12-19T14:32:39.949936",
+        "x": 3.490487813949585,
+        "y": 13.417800903320312,
+        "sentiment": "neutral",
+        "sentiment_score": -0.033,
+        "emotion": "fear",
+        "emotion_score": 0.458,
+        "cluster": 1,
+        "topics": [
+            "italy japanese",
+            "italians stay"
+        ],
+        "primary_topic": "italy japanese"
+    },
+    {
+        "handle": "@the_smallie\n·\n8h",
+        "text": "Like I said before, there’s plenty freedom of speech on this app but you see freedom after speech? Even Elon Musk can’t guarantee you that.",
+        "timestamp": "2025-12-19T14:32:42.526265",
+        "x": 1.3496239185333252,
+        "y": 12.904468536376953,
+        "sentiment": "negative",
+        "sentiment_score": -0.568,
+        "emotion": "neutral",
+        "emotion_score": 0.893,
+        "cluster": 0,
+        "topics": [
+            "app freedom",
+            "freedom speech"
+        ],
+        "primary_topic": "app freedom"
+    },
+    {
+        "handle": "@elonmusksupatin\n·\nDec 18",
+        "text": "When no one believes in you. \n\nDo you give up or keep going ?",
+        "timestamp": "2025-12-19T14:32:42.545540",
+        "x": 2.1689863204956055,
+        "y": 10.654033660888672,
+        "sentiment": "negative",
+        "sentiment_score": -0.536,
+        "emotion": "anger",
+        "emotion_score": 0.788,
+        "cluster": 0,
+        "topics": [
+            "believes going",
+            "believes"
+        ],
+        "primary_topic": "believes going"
+    },
+    {
+        "handle": "@Palworld_EN",
+        "text": "Palworld: Home Sweet Home is OUT NOW!\n25% off on Steam right now!\n\n･ULTRAKILL Collab\n･Building Improvements\n･Base Painting\n･New Raid\n･Raid Battlefield\n･Melee Combat Improvements\n･Experimental PvP\n･Steam Workshop\n …and more!",
+        "timestamp": "2025-12-19T14:32:42.562632",
+        "x": 1.3220242261886597,
+        "y": 12.034273147583008,
+        "sentiment": "positive",
+        "sentiment_score": 0.824,
+        "emotion": "neutral",
+        "emotion_score": 0.426,
+        "cluster": 2,
+        "topics": [
+            "palworld home",
+            "sweet home"
+        ],
+        "primary_topic": "palworld home"
+    },
+    {
+        "handle": "@EricLDaugh\n·\n5h",
+        "text": " JUST IN: Elon Musk calls for JAILING public officials in Minnesota for allowing $9 BILLION dollars or more in Medicaid fraud.\n\nThis is absolutely jaw-dropping. Every week the number goes up.\n\nMINNESOTA NEEDS TO CLEAN HOUSE.",
+        "timestamp": "2025-12-19T14:32:44.620658",
+        "x": 0.8628895282745361,
+        "y": 14.975255966186523,
+        "sentiment": "negative",
+        "sentiment_score": -0.76,
+        "emotion": "surprise",
+        "emotion_score": 0.751,
+        "cluster": 0,
+        "topics": [
+            "medicaid fraud",
+            "dollars medicaid"
+        ],
+        "primary_topic": "medicaid fraud"
+    },
+    {
+        "handle": "@elonmusk\n·\n26m",
+        "text": "Excuse me, I have a question. \n\nWhy are the EU Commisars so gae?",
+        "timestamp": "2025-12-19T14:32:44.637747",
+        "x": 3.0785114765167236,
+        "y": 14.463666915893555,
+        "sentiment": "negative",
+        "sentiment_score": -0.365,
+        "emotion": "neutral",
+        "emotion_score": 0.469,
+        "cluster": 0,
+        "topics": [
+            "eu commisars",
+            "commisars gae"
+        ],
+        "primary_topic": "eu commisars"
+    },
+    {
+        "handle": "@bpthaber\n·\n13h",
+        "text": "Elon Musk: \"Mars will one day be covered in green with life.\"",
+        "timestamp": "2025-12-19T14:32:47.474437",
+        "x": 1.6028085947036743,
+        "y": 12.534028053283691,
+        "sentiment": "positive",
+        "sentiment_score": 0.835,
+        "emotion": "neutral",
+        "emotion_score": 0.893,
+        "cluster": 2,
+        "topics": [
+            "musk mars",
+            "elon musk"
+        ],
+        "primary_topic": "musk mars"
+    },
+    {
+        "handle": "@CreasonJana\n·\n7h",
+        "text": "AOC stuck her foot into her mouth, AGAIN!\n\nDuring an interview, AOC made the following statement:  “Elon Musk is one of the most unintelligent billionaires I’ve ever met or seen. The wealth doesn’t match the wisdom.” \n\nElon Musk didn’t stay quiet, probably because this was",
+        "timestamp": "2025-12-19T14:32:47.489507",
+        "x": 0.15788598358631134,
+        "y": 13.253687858581543,
+        "sentiment": "negative",
+        "sentiment_score": -0.808,
+        "emotion": "neutral",
+        "emotion_score": 0.503,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk unintelligent"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@FotricThermal",
+        "text": "See sound with your smartphone — free.\nLearn more and try the FOTRIC Genie App now.\nEven No TD2 Geek device required.",
+        "timestamp": "2025-12-19T14:32:49.484023",
+        "x": 1.1680752038955688,
+        "y": 12.225603103637695,
+        "sentiment": "positive",
+        "sentiment_score": 0.567,
+        "emotion": "neutral",
+        "emotion_score": 0.961,
+        "cluster": 2,
+        "topics": [
+            "sound smartphone",
+            "app td2"
+        ],
+        "primary_topic": "sound smartphone"
+    },
+    {
+        "handle": "@iam_smx\n·\n3h",
+        "text": "Elon Musk wants to be fit and athletic like Cristiano Ronaldo. Go for it, Elon—we’re rooting for you.",
+        "timestamp": "2025-12-19T14:32:51.664501",
+        "x": -0.4574572443962097,
+        "y": 12.351485252380371,
+        "sentiment": "positive",
+        "sentiment_score": 0.9,
+        "emotion": "neutral",
+        "emotion_score": 0.727,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "ronaldo elon"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 17",
+        "text": "Raise your hand if you think Rep Ilhan Omar should have her citizenship revoked and DEPORTED",
+        "timestamp": "2025-12-19T14:32:51.681358",
+        "x": 2.8682191371917725,
+        "y": 13.245187759399414,
+        "sentiment": "negative",
+        "sentiment_score": -0.8,
+        "emotion": "anger",
+        "emotion_score": 0.732,
+        "cluster": 0,
+        "topics": [
+            "omar citizenship",
+            "ilhan omar"
+        ],
+        "primary_topic": "omar citizenship"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 17",
+        "text": "This is the leader we need right now. Drop a if you agree!!",
+        "timestamp": "2025-12-19T14:32:54.164134",
+        "x": -0.9666429758071899,
+        "y": 13.320916175842285,
+        "sentiment": "positive",
+        "sentiment_score": 0.896,
+        "emotion": "neutral",
+        "emotion_score": 0.632,
+        "cluster": 2,
+        "topics": [
+            "leader need",
+            "leader"
+        ],
+        "primary_topic": "leader need"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 15",
+        "text": "BREAKING: The White House has just released a new photo of President Trump at the Resolute Desk in the Oval Office, flanked by his entire Cabinet. The greatest Cabinet in modern history, and it's not even close.\n\nDo you support this?\n\nYES or NO?",
+        "timestamp": "2025-12-19T14:32:54.179693",
+        "x": -0.8999570608139038,
+        "y": 11.467422485351562,
+        "sentiment": "positive",
+        "sentiment_score": 0.858,
+        "emotion": "surprise",
+        "emotion_score": 0.543,
+        "cluster": 2,
+        "topics": [
+            "greatest cabinet",
+            "cabinet greatest"
+        ],
+        "primary_topic": "greatest cabinet"
+    },
+    {
+        "handle": "@santalostwallet",
+        "text": "60 timeless quotes from Marcus Aurelius, Seneca, Epictetus & more.\nEach card: a powerful reminder on front + inspiring real-life story on back.\nPremium design + wooden display stand for your desk.",
+        "timestamp": "2025-12-19T14:32:56.196980",
+        "x": 1.953711986541748,
+        "y": 12.53232479095459,
+        "sentiment": "positive",
+        "sentiment_score": 0.657,
+        "emotion": "neutral",
+        "emotion_score": 0.703,
+        "cluster": 2,
+        "topics": [
+            "seneca epictetus",
+            "aurelius seneca"
+        ],
+        "primary_topic": "seneca epictetus"
+    },
+    {
+        "handle": "@ElonMusk_LordX\n·\n21h",
+        "text": "What is the Answer ",
+        "timestamp": "2025-12-19T14:32:58.049402",
+        "x": 0.37313270568847656,
+        "y": 10.411422729492188,
+        "sentiment": "neutral",
+        "sentiment_score": 0.003,
+        "emotion": "fear",
+        "emotion_score": 0.434,
+        "cluster": 1,
+        "topics": [
+            "answer"
+        ],
+        "primary_topic": "answer"
+    },
+    {
+        "handle": "@elonmusk\n·\n2h",
+        "text": "Thank God for the Second Amendment\n",
+        "timestamp": "2025-12-19T14:32:58.067345",
+        "x": 1.9289273023605347,
+        "y": 14.163859367370605,
+        "sentiment": "positive",
+        "sentiment_score": 0.899,
+        "emotion": "joy",
+        "emotion_score": 0.657,
+        "cluster": 2,
+        "topics": [
+            "second amendment",
+            "amendment"
+        ],
+        "primary_topic": "second amendment"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 14",
+        "text": " James Woods said, \"Donald Trump has been abused, degraded, lied about, and undermined from the moment he took office. He stands for this country, he stands for every American, and has stood like a lion against a pack of jackals for four years. God bless Trump.\"\n\nDo you agree?",
+        "timestamp": "2025-12-19T14:33:00.778065",
+        "x": -1.1903343200683594,
+        "y": 12.317792892456055,
+        "sentiment": "positive",
+        "sentiment_score": 0.118,
+        "emotion": "disgust",
+        "emotion_score": 0.656,
+        "cluster": 2,
+        "topics": [
+            "trump agree",
+            "trump abused"
+        ],
+        "primary_topic": "trump agree"
+    },
+    {
+        "handle": "@Kalshi\n·\n1h",
+        "text": "JUST IN: Elon Musk says SpaceX could be the first $100 trillion company",
+        "timestamp": "2025-12-19T14:33:00.795468",
+        "x": 0.7497871518135071,
+        "y": 13.422033309936523,
+        "sentiment": "positive",
+        "sentiment_score": 0.663,
+        "emotion": "neutral",
+        "emotion_score": 0.502,
+        "cluster": 2,
+        "topics": [
+            "trillion company",
+            "says spacex"
+        ],
+        "primary_topic": "trillion company"
+    },
+    {
+        "handle": "@ElonMuskPDA\n·\nDec 18",
+        "text": "Looking for the next 1000x.\n\nDrop the CA if you’ve got one.",
+        "timestamp": "2025-12-19T14:33:03.131573",
+        "x": 1.1675162315368652,
+        "y": 11.132439613342285,
+        "sentiment": "positive",
+        "sentiment_score": 0.17,
+        "emotion": "neutral",
+        "emotion_score": 0.946,
+        "cluster": 2,
+        "topics": [
+            "looking 1000x",
+            "drop ca"
+        ],
+        "primary_topic": "looking 1000x"
+    },
+    {
+        "handle": "@HBrandstaetter\n·\n2h",
+        "text": "Elon Musk’s algorithms on X are fueling hate. That’s what his business is running on. We cannot let billionaires buy our democracy. Europe needs strong rules to protect democracy.",
+        "timestamp": "2025-12-19T14:33:03.148921",
+        "x": 3.2607533931732178,
+        "y": 14.10477066040039,
+        "sentiment": "negative",
+        "sentiment_score": -0.848,
+        "emotion": "anger",
+        "emotion_score": 0.569,
+        "cluster": 0,
+        "topics": [
+            "democracy europe",
+            "buy democracy"
+        ],
+        "primary_topic": "democracy europe"
+    },
+    {
+        "handle": "@piyushmittal\n·\n10h",
+        "text": "She ended up with him because Elon Musk wouldn’t have her. He ended up with her because no other woman would have him.",
+        "timestamp": "2025-12-19T14:33:05.201858",
+        "x": -0.1761995106935501,
+        "y": 12.913131713867188,
+        "sentiment": "negative",
+        "sentiment_score": -0.266,
+        "emotion": "neutral",
+        "emotion_score": 0.842,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk wouldn"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@jackunheard\n·\n5h",
+        "text": "BREAKING: Elon Musk says Minnesota officials should face JAIL TIME over $9+ BILLION in Medicaid fraud.",
+        "timestamp": "2025-12-19T14:33:12.172085",
+        "x": 1.177272915840149,
+        "y": 14.91291618347168,
+        "sentiment": "negative",
+        "sentiment_score": -0.808,
+        "emotion": "sadness",
+        "emotion_score": 0.257,
+        "cluster": 0,
+        "topics": [
+            "medicaid fraud",
+            "billion medicaid"
+        ],
+        "primary_topic": "medicaid fraud"
+    },
+    {
+        "handle": "@Kalshi\n·\n2h",
+        "text": "JUST IN: Elon Musk says he needs to workout",
+        "timestamp": "2025-12-19T14:33:12.190037",
+        "x": -0.20352402329444885,
+        "y": 12.301051139831543,
+        "sentiment": "neutral",
+        "sentiment_score": 0.039,
+        "emotion": "neutral",
+        "emotion_score": 0.754,
+        "cluster": 1,
+        "topics": [
+            "elon musk",
+            "needs workout"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@TheNassrZone\n·\n1h",
+        "text": "Elon Musk reacts to Cristiano’s post.",
+        "timestamp": "2025-12-19T14:33:12.205002",
+        "x": -0.394126296043396,
+        "y": 12.299843788146973,
+        "sentiment": "neutral",
+        "sentiment_score": 0.079,
+        "emotion": "neutral",
+        "emotion_score": 0.809,
+        "cluster": 1,
+        "topics": [
+            "reacts cristiano",
+            "elon musk"
+        ],
+        "primary_topic": "reacts cristiano"
+    },
+    {
+        "handle": "@hoodg3nius\n·\nDec 15",
+        "text": "I’m getting called slurs because I said I hate Elon musk",
+        "timestamp": "2025-12-19T14:33:12.222152",
+        "x": -0.401197224855423,
+        "y": 12.733176231384277,
+        "sentiment": "negative",
+        "sentiment_score": -0.877,
+        "emotion": "anger",
+        "emotion_score": 0.751,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "hate elon"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@elonmusk\n·\n3h",
+        "text": "Guess I need to work out",
+        "timestamp": "2025-12-19T14:33:12.236751",
+        "x": 0.43597903847694397,
+        "y": 10.327011108398438,
+        "sentiment": "positive",
+        "sentiment_score": 0.216,
+        "emotion": "neutral",
+        "emotion_score": 0.607,
+        "cluster": 2,
+        "topics": [
+            "guess need",
+            "guess"
+        ],
+        "primary_topic": "guess need"
+    },
+    {
+        "handle": "@TV_Network_\n·\n7h",
+        "text": " BREAKING: Italian PM Giorgia Meloni says, “Elon Musk is NOT a danger to democracy, George Soros is”\nElon Musk is LOVED by millions worldwide.\n\nDo you agree with her?\n\nA. YES\nB. NO",
+        "timestamp": "2025-12-19T14:33:12.251923",
+        "x": 3.119764566421509,
+        "y": 13.069539070129395,
+        "sentiment": "positive",
+        "sentiment_score": 0.344,
+        "emotion": "neutral",
+        "emotion_score": 0.477,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "musk loved"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@elonmusksupatin\n·\nDec 18",
+        "text": "Is believing in God necessary for a meaningful life ?\n\nA. Yes \nB. No",
+        "timestamp": "2025-12-19T14:33:14.583501",
+        "x": 2.141632556915283,
+        "y": 10.71300983428955,
+        "sentiment": "positive",
+        "sentiment_score": 0.346,
+        "emotion": "fear",
+        "emotion_score": 0.672,
+        "cluster": 2,
+        "topics": [
+            "god necessary",
+            "meaningful life"
+        ],
+        "primary_topic": "god necessary"
+    },
+    {
+        "handle": "@SeeRacists\n·\n21h",
+        "text": "BREAKING: Elon Musk finally admits white people are their worst enemy!",
+        "timestamp": "2025-12-19T14:33:14.599820",
+        "x": 2.1676626205444336,
+        "y": 13.343653678894043,
+        "sentiment": "negative",
+        "sentiment_score": -0.331,
+        "emotion": "disgust",
+        "emotion_score": 0.686,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk finally"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@cb_doge\n·\n3m",
+        "text": "Elon Musk has a question for EU Commissars:",
+        "timestamp": "2025-12-19T14:33:16.545370",
+        "x": 3.264284372329712,
+        "y": 14.447453498840332,
+        "sentiment": "neutral",
+        "sentiment_score": 0.049,
+        "emotion": "neutral",
+        "emotion_score": 0.889,
+        "cluster": 1,
+        "topics": [
+            "eu commissars",
+            "commissars"
+        ],
+        "primary_topic": "eu commissars"
+    },
+    {
+        "handle": "@elonmusk\n·\n2h",
+        "text": "Energy is the true currency",
+        "timestamp": "2025-12-19T14:33:16.562660",
+        "x": 1.518513560295105,
+        "y": 10.663516998291016,
+        "sentiment": "positive",
+        "sentiment_score": 0.353,
+        "emotion": "neutral",
+        "emotion_score": 0.939,
+        "cluster": 2,
+        "topics": [
+            "true currency",
+            "energy true"
+        ],
+        "primary_topic": "true currency"
+    },
+    {
+        "handle": "@BarronTNews_\n·\n3h",
+        "text": " JUST IN: Elon Musk is calling for JAIL TIME for public officials in Minnesota over more than $9 BILLION in Medicaid fraud.\n\nLet that number sink in.\nAnd it keeps going up every week.\n\nThis isn’t incompetence.\nIt’s rot.\n\nMinnesota doesn’t need another task force.\nIt needs to",
+        "timestamp": "2025-12-19T14:33:16.578858",
+        "x": 0.7754032015800476,
+        "y": 15.01560115814209,
+        "sentiment": "negative",
+        "sentiment_score": -0.874,
+        "emotion": "neutral",
+        "emotion_score": 0.527,
+        "cluster": 0,
+        "topics": [
+            "medicaid fraud",
+            "billion medicaid"
+        ],
+        "primary_topic": "medicaid fraud"
+    },
+    {
+        "handle": "@MAGAVoice\n·\n21h",
+        "text": "BREAKING  A Farmer in France is protesting the EU by burning the European Union flag. Elon Musk was absolutely right\n\nTIME TO ABOLISH THE EU",
+        "timestamp": "2025-12-19T14:33:19.601655",
+        "x": 3.0926949977874756,
+        "y": 14.181753158569336,
+        "sentiment": "negative",
+        "sentiment_score": -0.652,
+        "emotion": "anger",
+        "emotion_score": 0.936,
+        "cluster": 0,
+        "topics": [
+            "protesting eu",
+            "abolish eu"
+        ],
+        "primary_topic": "protesting eu"
+    },
+    {
+        "handle": "@Chicago1Ray\n·\nDec 18",
+        "text": "Mark Kelly says Elon Musk called him a traitor..... gimme a thumbs  up if you agree with Elon",
+        "timestamp": "2025-12-19T14:33:21.876654",
+        "x": -0.6311702728271484,
+        "y": 12.995842933654785,
+        "sentiment": "negative",
+        "sentiment_score": -0.361,
+        "emotion": "anger",
+        "emotion_score": 0.601,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk called"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@elonmusk\n·\n13h",
+        "text": "Mars will be green with life one day",
+        "timestamp": "2025-12-19T14:33:21.894457",
+        "x": 1.6992026567459106,
+        "y": 12.256643295288086,
+        "sentiment": "positive",
+        "sentiment_score": 0.831,
+        "emotion": "neutral",
+        "emotion_score": 0.867,
+        "cluster": 2,
+        "topics": [
+            "mars green",
+            "green life"
+        ],
+        "primary_topic": "mars green"
+    },
+    {
+        "handle": "@HansenElke97294\n·\nAug 26",
+        "text": "Musk is a light in today's world, a visionary and pioneer and fortunately contrary to our aligned media. Unfortunately he has to take a lot of criticism, but people with backbone are rare these days. He stands firm in his views, unlike many politicians who sell their",
+        "timestamp": "2025-12-19T14:33:23.967397",
+        "x": 0.03892252966761589,
+        "y": 13.002705574035645,
+        "sentiment": "positive",
+        "sentiment_score": 0.381,
+        "emotion": "neutral",
+        "emotion_score": 0.89,
+        "cluster": 2,
+        "topics": [
+            "musk",
+            "musk light"
+        ],
+        "primary_topic": "musk"
+    },
+    {
+        "handle": "@john322226\n·\n12h",
+        "text": "My secondary school teacher been dey flog me for being a talkative, but today again Elon musk go pay me again for being a talkative.",
+        "timestamp": "2025-12-19T14:33:23.982226",
+        "x": 0.9978939890861511,
+        "y": 13.171058654785156,
+        "sentiment": "negative",
+        "sentiment_score": -0.108,
+        "emotion": "sadness",
+        "emotion_score": 0.631,
+        "cluster": 0,
+        "topics": [
+            "pay talkative",
+            "musk pay"
+        ],
+        "primary_topic": "pay talkative"
+    },
+    {
+        "handle": "@elonmusk\n·\n23h",
+        "text": "The future is going to be AMAZING with AI and robots enabling sustainable ABUNDANCE for all!",
+        "timestamp": "2025-12-19T14:33:25.699699",
+        "x": 1.5734320878982544,
+        "y": 12.051283836364746,
+        "sentiment": "positive",
+        "sentiment_score": 0.98,
+        "emotion": "joy",
+        "emotion_score": 0.371,
+        "cluster": 2,
+        "topics": [
+            "sustainable abundance",
+            "ai robots"
+        ],
+        "primary_topic": "sustainable abundance"
+    },
+    {
+        "handle": "@AutoTrader_com",
+        "text": "This month’s best car deals have a little something for everyone, from electric vehicles (EVs) to plug-in hybrids (PHEVs) to hard-working trucks and SUVs.",
+        "timestamp": "2025-12-19T14:33:25.715288",
+        "x": 0.6493573188781738,
+        "y": 12.412360191345215,
+        "sentiment": "positive",
+        "sentiment_score": 0.907,
+        "emotion": "neutral",
+        "emotion_score": 0.864,
+        "cluster": 2,
+        "topics": [
+            "vehicles evs",
+            "car deals"
+        ],
+        "primary_topic": "vehicles evs"
+    },
+    {
+        "handle": "@ElonMuskPDA\n·\n7h",
+        "text": "MEMECOIN SUPERCYCLE IS COMING ",
+        "timestamp": "2025-12-19T14:33:25.732779",
+        "x": 0.021626340225338936,
+        "y": 14.020276069641113,
+        "sentiment": "positive",
+        "sentiment_score": 0.736,
+        "emotion": "neutral",
+        "emotion_score": 0.65,
+        "cluster": 2,
+        "topics": [
+            "memecoin supercycle",
+            "supercycle coming"
+        ],
+        "primary_topic": "memecoin supercycle"
+    },
+    {
+        "handle": "@elonmuskelry\n·\n4h",
+        "text": "Lil X wishing everyone an early Christmas. \nPlease wish him back",
+        "timestamp": "2025-12-19T14:33:27.883738",
+        "x": -0.7092036604881287,
+        "y": 11.991884231567383,
+        "sentiment": "positive",
+        "sentiment_score": 0.839,
+        "emotion": "joy",
+        "emotion_score": 0.401,
+        "cluster": 2,
+        "topics": [
+            "lil wishing",
+            "christmas wish"
+        ],
+        "primary_topic": "lil wishing"
+    },
+    {
+        "handle": "@MuskElon3312\n·\nDec 18",
+        "text": "One Word for my Mom (Maye Musk)\n\nPlease be Nice ",
+        "timestamp": "2025-12-19T14:33:29.858667",
+        "x": -0.003262323560193181,
+        "y": 11.772697448730469,
+        "sentiment": "positive",
+        "sentiment_score": 0.43,
+        "emotion": "neutral",
+        "emotion_score": 0.544,
+        "cluster": 2,
+        "topics": [
+            "maye musk",
+            "musk"
+        ],
+        "primary_topic": "maye musk"
+    },
+    {
+        "handle": "@bennyjohnson\n·\nDec 9",
+        "text": "Why do Democrats hate DOGE so much? It’s simple:\n\nIt shut down billions in taxpayer dollars being funneled to fuel their sick agendas and line their own pockets.\n\nElon Musk says the department wiped out $200 BILLION in “zombie payments” and reveals that 3% of all government",
+        "timestamp": "2025-12-19T14:33:29.874516",
+        "x": 0.23625795543193817,
+        "y": 14.684311866760254,
+        "sentiment": "negative",
+        "sentiment_score": -0.85,
+        "emotion": "anger",
+        "emotion_score": 0.427,
+        "cluster": 0,
+        "topics": [
+            "hate doge",
+            "democrats hate"
+        ],
+        "primary_topic": "hate doge"
+    },
+    {
+        "handle": "@amuse·Dec 10",
+        "text": "DRIVE-BY MEDIA: There is a drumbeat of fake news that Elon Musk is a parasite that doesn’t pay taxes. Why? The proof of his tax payments and contribution to humanity is overwhelming. Why do they repeat obvious lies?",
+        "timestamp": "2025-12-19T14:33:29.891237",
+        "x": 0.411938339471817,
+        "y": 13.793102264404297,
+        "sentiment": "negative",
+        "sentiment_score": -0.857,
+        "emotion": "surprise",
+        "emotion_score": 0.55,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@ElonMusk_LordX·Dec 18",
+        "text": "If Jesus is your Lord and Savior, type Amen.",
+        "timestamp": "2025-12-19T14:33:29.906151",
+        "x": 2.2679708003997803,
+        "y": 11.216442108154297,
+        "sentiment": "positive",
+        "sentiment_score": 0.618,
+        "emotion": "neutral",
+        "emotion_score": 0.966,
+        "cluster": 2,
+        "topics": [
+            "type amen",
+            "amen"
+        ],
+        "primary_topic": "type amen"
+    },
+    {
+        "handle": "@bennyjohnson·Dec 16",
+        "text": "Future Gov. of Alabama Says Elon Musk Put The U.S. Back In The Space Race, 'We're Now Within Reach' \n\nTUBERVILLE: \"If it weren't for Elon Musk, we would be so far behind in space.\" \n\n\"We've spent all of our money on these dang wars in the Middle East and Ukraine. We need to be",
+        "timestamp": "2025-12-19T14:33:29.924873",
+        "x": 0.9166808128356934,
+        "y": 13.658452987670898,
+        "sentiment": "positive",
+        "sentiment_score": 0.245,
+        "emotion": "neutral",
+        "emotion_score": 0.487,
+        "cluster": 2,
+        "topics": [
+            "musk space",
+            "elon musk"
+        ],
+        "primary_topic": "musk space"
+    },
+    {
+        "handle": "@ElonMusk_LordX\n·\nDec 18",
+        "text": "I'm tired of pretending: what is the use of this thing on top of cars?",
+        "timestamp": "2025-12-19T14:33:33.762113",
+        "x": 0.5892277359962463,
+        "y": 12.56247329711914,
+        "sentiment": "negative",
+        "sentiment_score": -0.828,
+        "emotion": "neutral",
+        "emotion_score": 0.371,
+        "cluster": 0,
+        "topics": [
+            "thing cars",
+            "cars"
+        ],
+        "primary_topic": "thing cars"
+    },
+    {
+        "handle": "@EricLDaugh\n·\nDec 9",
+        "text": " LMFAO! Elon Musk gives the most ELON answer to \"what would you do if you started over with $1,000?\"\n\n\"It's somewhat of an impossible dichotomy, because civilization would have had to have been destroyed or something, in which case $1,000 is not going to solve your problems.\"",
+        "timestamp": "2025-12-19T14:33:36.911763",
+        "x": 1.539678692817688,
+        "y": 11.139005661010742,
+        "sentiment": "negative",
+        "sentiment_score": -0.382,
+        "emotion": "neutral",
+        "emotion_score": 0.407,
+        "cluster": 0,
+        "topics": [
+            "started 000",
+            "000 going"
+        ],
+        "primary_topic": "started 000"
+    },
+    {
+        "handle": "@ResisttheMS\n·\nDec 9",
+        "text": "WATCH: Jennifer Welch erupts at Elon Musk.\n\n\"l just think it's really important to remind everybody all the time that Elon Musk is a f*cking immigrant that doesn't pay taxes who is a parasite off the American taxpayer.\"",
+        "timestamp": "2025-12-19T14:33:36.929145",
+        "x": 0.7906969785690308,
+        "y": 13.636903762817383,
+        "sentiment": "negative",
+        "sentiment_score": -0.641,
+        "emotion": "anger",
+        "emotion_score": 0.822,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@bennyjohnson\n·\nDec 10",
+        "text": "Most Accurate Pollster in America Reveals Trump’s Approval PEAKED With DOGE, Showing Fighting Corruption Wins Votes and Midterms.\n\n\"They kicked DOGE out. You have Elon Musk out there saying, 'Well, we were only moderately or somewhat successful.' It was the most successful",
+        "timestamp": "2025-12-19T14:33:39.998817",
+        "x": -0.38787180185317993,
+        "y": 14.482056617736816,
+        "sentiment": "positive",
+        "sentiment_score": 0.621,
+        "emotion": "neutral",
+        "emotion_score": 0.828,
+        "cluster": 2,
+        "topics": [
+            "peaked doge",
+            "accurate pollster"
+        ],
+        "primary_topic": "peaked doge"
+    },
+    {
+        "handle": "@newstart_2024\n·\nDec 8",
+        "text": "Elon Musk just put into words what millions in Europe feel but rarely hear said out loud:\n“When’s the last time you talked to someone living in Europe who’s genuinely optimistic about the future? Decades. Like… even one?”\n\nHe’s not attacking Europe—he’s sounding the alarm for",
+        "timestamp": "2025-12-19T14:33:40.014211",
+        "x": 3.369812250137329,
+        "y": 13.893790245056152,
+        "sentiment": "neutral",
+        "sentiment_score": 0.015,
+        "emotion": "fear",
+        "emotion_score": 0.765,
+        "cluster": 1,
+        "topics": [
+            "elon musk",
+            "europe feel"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@ianmiles\n·\n20h",
+        "text": "Elon Musk: My son Saxon said at one point, “Why does everything look like it’s 2015?” And I was like, “Damn, things do—everything does look like it’s 2015.” It’s like if you took a picture from 2015 and it’s in 2025, it looks exactly the same. We have not moved the needle in a",
+        "timestamp": "2025-12-19T14:33:42.463292",
+        "x": -0.2850951850414276,
+        "y": 10.93031120300293,
+        "sentiment": "negative",
+        "sentiment_score": -0.482,
+        "emotion": "surprise",
+        "emotion_score": 0.59,
+        "cluster": 0,
+        "topics": [
+            "2025 looks",
+            "2015 like"
+        ],
+        "primary_topic": "2025 looks"
+    },
+    {
+        "handle": "@WallStreetApes\n·\nDec 15",
+        "text": "Elon Musk says the Democrat Party weaponizes empathy to create “slush funds” and to create financial incentives for illegals\n\nElon Musk reveals “The Democrats memtion the medical care because they're trying to prey on people's empathy as much as possible”\n\n But that’s not what",
+        "timestamp": "2025-12-19T14:33:42.480527",
+        "x": 0.5831837058067322,
+        "y": 14.89930534362793,
+        "sentiment": "negative",
+        "sentiment_score": -0.641,
+        "emotion": "disgust",
+        "emotion_score": 0.42,
+        "cluster": 0,
+        "topics": [
+            "empathy create",
+            "empathy"
+        ],
+        "primary_topic": "empathy create"
+    },
+    {
+        "handle": "@tedcruz\n·\nDec 10",
+        "text": "The EU has fined X and Elon Musk $140 million because X is a platform for free speech.\n\nTucker Carlson went to Qatar, embraced the Prime Minister, and asked no skeptical questions.\n\nWe break it all down on Verdict: \nhttps://\npodcasts.apple.com/us/podcast/eur\nope-fines-elon-musk-trying-to-enforce-censorship/id1495601614?i=1000740603181\n…",
+        "timestamp": "2025-12-19T14:33:45.428844",
+        "x": 2.85335111618042,
+        "y": 14.594032287597656,
+        "sentiment": "negative",
+        "sentiment_score": -0.559,
+        "emotion": "anger",
+        "emotion_score": 0.526,
+        "cluster": 0,
+        "topics": [
+            "eu fined",
+            "fined elon"
+        ],
+        "primary_topic": "eu fined"
+    },
+    {
+        "handle": "@IngrahamAngle\n·\nDec 11",
+        "text": "For Democrats, it’s all old guard and no new talent.\n\n“Once Trump let voters talk about the wars, free trade not working for them, and DC ignoring their needs, there was no putting it back… The talent gathering around him — Rubio, JD Vance, even Elon Musk — is the future of the",
+        "timestamp": "2025-12-19T14:33:47.594674",
+        "x": -0.6397839784622192,
+        "y": 13.938770294189453,
+        "sentiment": "negative",
+        "sentiment_score": -0.461,
+        "emotion": "neutral",
+        "emotion_score": 0.843,
+        "cluster": 0,
+        "topics": [
+            "democrats old",
+            "talent trump"
+        ],
+        "primary_topic": "democrats old"
+    },
+    {
+        "handle": "@WHLeavitt\n·\nDec 14",
+        "text": "Elon Musk: “In 2008, I poured my last cash into Tesla—had no house or assets left.”\n\nHe risked everything and won big. \n\nMeanwhile, Warren, AOC, and Sanders scream he doesn’t pay enough taxes.\n\nDo you stand with Elon?\n\nA. Big yes\nB. No",
+        "timestamp": "2025-12-19T14:33:49.826533",
+        "x": -0.28338631987571716,
+        "y": 13.671767234802246,
+        "sentiment": "positive",
+        "sentiment_score": 0.371,
+        "emotion": "anger",
+        "emotion_score": 0.51,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "cash tesla"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@ianmiles\n·\nDec 17",
+        "text": "Elon Musk argues that it is easy to donate money just to look like a good person, but it is extremely hard to use that money to actually make a real difference in the world. He’s absolutely right.",
+        "timestamp": "2025-12-19T14:33:49.845425",
+        "x": 0.075959712266922,
+        "y": 13.596839904785156,
+        "sentiment": "positive",
+        "sentiment_score": 0.315,
+        "emotion": "neutral",
+        "emotion_score": 0.761,
+        "cluster": 2,
+        "topics": [
+            "easy donate",
+            "donate money"
+        ],
+        "primary_topic": "easy donate"
+    },
+    {
+        "handle": "@pbzero_official",
+        "text": "Phantom Blade Zero launches worldwide on September 9, 2026 on Steam, PlayStation, and the Epic Games Store.\n\nJoin the journey and wishlist today to stay connected!",
+        "timestamp": "2025-12-19T14:33:49.865663",
+        "x": 1.3456405401229858,
+        "y": 11.952677726745605,
+        "sentiment": "positive",
+        "sentiment_score": 0.63,
+        "emotion": "neutral",
+        "emotion_score": 0.885,
+        "cluster": 2,
+        "topics": [
+            "blade zero",
+            "phantom blade"
+        ],
+        "primary_topic": "blade zero"
+    },
+    {
+        "handle": "@ElonMusk_LordX\n·\n23h",
+        "text": "A man’s worth is measured with material things \n\nDo you agree?\n\nA. YES\n\nB. NO",
+        "timestamp": "2025-12-19T14:33:52.978202",
+        "x": 1.6707322597503662,
+        "y": 10.470040321350098,
+        "sentiment": "neutral",
+        "sentiment_score": -0.01,
+        "emotion": "neutral",
+        "emotion_score": 0.788,
+        "cluster": 1,
+        "topics": [
+            "worth measured",
+            "measured material"
+        ],
+        "primary_topic": "worth measured"
+    },
+    {
+        "handle": "@ThomasSowell\n·\nDec 11",
+        "text": "Elon Musk: \"A lot of people dying for basically almost no changes in land, young boys who don't know each other, killing each other on behalf of old men who do know each other.\"",
+        "timestamp": "2025-12-19T14:33:55.826936",
+        "x": 2.0586557388305664,
+        "y": 12.914913177490234,
+        "sentiment": "negative",
+        "sentiment_score": -0.881,
+        "emotion": "disgust",
+        "emotion_score": 0.516,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "people dying"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@DefiantLs\n·\nDec 13",
+        "text": "Elon Musk: “When you have a decline in religion and increase in secular nature of society, for most people they need something to fill that void, and they adopt woke, that takes place of religion”\n\nExactly.",
+        "timestamp": "2025-12-19T14:33:55.843175",
+        "x": 2.423985481262207,
+        "y": 11.843496322631836,
+        "sentiment": "neutral",
+        "sentiment_score": 0.022,
+        "emotion": "neutral",
+        "emotion_score": 0.929,
+        "cluster": 1,
+        "topics": [
+            "decline religion",
+            "religion increase"
+        ],
+        "primary_topic": "decline religion"
+    },
+    {
+        "handle": "@iam_smx\n·\n1h",
+        "text": "\"America is a nation of builders. Let the builders build.\"\n\n-Elon Musk",
+        "timestamp": "2025-12-19T14:33:58.190518",
+        "x": 1.470377802848816,
+        "y": 13.225613594055176,
+        "sentiment": "positive",
+        "sentiment_score": 0.632,
+        "emotion": "neutral",
+        "emotion_score": 0.943,
+        "cluster": 2,
+        "topics": [
+            "nation builders",
+            "builders build"
+        ],
+        "primary_topic": "nation builders"
+    },
+    {
+        "handle": "@cb_doge\n·\n4h",
+        "text": "ELON MUSK: \"If the federal government was a public company, it would be de listed immediately. It would fail it's audit and the officers of the company would be imprisoned.\"",
+        "timestamp": "2025-12-19T14:33:58.222453",
+        "x": 1.4458322525024414,
+        "y": 14.581503868103027,
+        "sentiment": "negative",
+        "sentiment_score": -0.864,
+        "emotion": "anger",
+        "emotion_score": 0.455,
+        "cluster": 0,
+        "topics": [
+            "musk federal",
+            "public company"
+        ],
+        "primary_topic": "musk federal"
+    },
+    {
+        "handle": "@churchandfam",
+        "text": "Register Today: Manhood & Womanhood National Conference 2026\nMay 7–9, 2026 | Ridgecrest, NC",
+        "timestamp": "2025-12-19T14:33:58.286512",
+        "x": 2.78708815574646,
+        "y": 12.09658145904541,
+        "sentiment": "neutral",
+        "sentiment_score": 0.089,
+        "emotion": "neutral",
+        "emotion_score": 0.919,
+        "cluster": 1,
+        "topics": [
+            "womanhood national",
+            "manhood womanhood"
+        ],
+        "primary_topic": "womanhood national"
+    },
+    {
+        "handle": "@StandUpForElonn·Dec 16",
+        "text": "YES OR NO ?",
+        "timestamp": "2025-12-19T14:33:58.313344",
+        "x": 1.3439147472381592,
+        "y": 10.372933387756348,
+        "sentiment": "neutral",
+        "sentiment_score": -0.005,
+        "emotion": "neutral",
+        "emotion_score": 0.789,
+        "cluster": 1,
+        "topics": [
+            "yes"
+        ],
+        "primary_topic": "yes"
+    },
+    {
+        "handle": "@MatthewStadlen·Dec 18",
+        "text": "Elon Musk destroyed Twitter.",
+        "timestamp": "2025-12-19T14:33:58.337372",
+        "x": 0.2580946087837219,
+        "y": 11.993471145629883,
+        "sentiment": "negative",
+        "sentiment_score": -0.64,
+        "emotion": "neutral",
+        "emotion_score": 0.558,
+        "cluster": 0,
+        "topics": [
+            "musk destroyed",
+            "destroyed twitter"
+        ],
+        "primary_topic": "musk destroyed"
+    },
+    {
+        "handle": "@remarks\n·\nDec 17",
+        "text": "JUST IN:  Elon Musk says the United Kingdom has \"become a prison island.\"",
+        "timestamp": "2025-12-19T14:34:00.710788",
+        "x": 2.5450093746185303,
+        "y": 14.125673294067383,
+        "sentiment": "negative",
+        "sentiment_score": -0.384,
+        "emotion": "neutral",
+        "emotion_score": 0.586,
+        "cluster": 0,
+        "topics": [
+            "prison island",
+            "kingdom prison"
+        ],
+        "primary_topic": "prison island"
+    },
+    {
+        "handle": "@EvaFox\n·\n12h",
+        "text": "Elon Musk: Never trust a cynic, because most people are kind of medium good \n\n“Never trust a cynic. The reason is, that cynics excuse their own bad behavior by saying everyone does it, because they're cynical. So I always be, it's a red flag if someone's a cynic, a true cynic.",
+        "timestamp": "2025-12-19T14:34:03.475699",
+        "x": 2.077082633972168,
+        "y": 12.33337688446045,
+        "sentiment": "negative",
+        "sentiment_score": -0.368,
+        "emotion": "neutral",
+        "emotion_score": 0.435,
+        "cluster": 0,
+        "topics": [
+            "trust cynic",
+            "cynic true"
+        ],
+        "primary_topic": "trust cynic"
+    },
+    {
+        "handle": "@Real_RobN\n·\n20h",
+        "text": "Here it is:\n\nOne that will go down as one of the greatest quotes in human history.\n\nElon Musk: “Doesn’t it seem weird that the legacy media all say the same thing at the same time, using the same phrases?”\n\n“They don’t even bother picking up a thesaurus.”\n\nPrecisely why they are",
+        "timestamp": "2025-12-19T14:34:05.539662",
+        "x": 1.9502077102661133,
+        "y": 12.636595726013184,
+        "sentiment": "positive",
+        "sentiment_score": 0.203,
+        "emotion": "neutral",
+        "emotion_score": 0.535,
+        "cluster": 2,
+        "topics": [
+            "picking thesaurus",
+            "thesaurus precisely"
+        ],
+        "primary_topic": "picking thesaurus"
+    },
+    {
+        "handle": "@MAGAVoice\n·\n12h",
+        "text": "Elon Musk’s reply to Trump’s grandpa pictures just made my week ",
+        "timestamp": "2025-12-19T14:34:05.557376",
+        "x": -0.6066628098487854,
+        "y": 11.575240135192871,
+        "sentiment": "positive",
+        "sentiment_score": 0.809,
+        "emotion": "neutral",
+        "emotion_score": 0.536,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "musk reply"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@WakeUpPatriott\n·\nDec 17",
+        "text": "BREAKING: If Donald Trump and Elon Musk buy CNN and turn it into a truth-focused news channel with Tucker Carlson as the main host,\n\nWOULD YOU WATCH THE NEW CNN?\n\nYES or NO?",
+        "timestamp": "2025-12-19T14:34:08.265280",
+        "x": 1.3358138799667358,
+        "y": 13.660208702087402,
+        "sentiment": "neutral",
+        "sentiment_score": -0.014,
+        "emotion": "neutral",
+        "emotion_score": 0.581,
+        "cluster": 1,
+        "topics": [
+            "buy cnn",
+            "cnn yes"
+        ],
+        "primary_topic": "buy cnn"
+    },
+    {
+        "handle": "@ElonMusk_LordX\n·\n9h",
+        "text": "What’s the first word that comes to mind",
+        "timestamp": "2025-12-19T14:34:08.280766",
+        "x": 0.17488951981067657,
+        "y": 11.360916137695312,
+        "sentiment": "neutral",
+        "sentiment_score": 0.041,
+        "emotion": "neutral",
+        "emotion_score": 0.537,
+        "cluster": 1,
+        "topics": [
+            "comes mind",
+            "word comes"
+        ],
+        "primary_topic": "comes mind"
+    },
+    {
+        "handle": "@elonmusk\n·\n14h",
+        "text": "The matrix was reprogrammed",
+        "timestamp": "2025-12-19T14:34:10.163065",
+        "x": 0.8278605937957764,
+        "y": 12.4747896194458,
+        "sentiment": "neutral",
+        "sentiment_score": 0.087,
+        "emotion": "neutral",
+        "emotion_score": 0.804,
+        "cluster": 1,
+        "topics": [
+            "matrix reprogrammed",
+            "reprogrammed"
+        ],
+        "primary_topic": "matrix reprogrammed"
+    },
+    {
+        "handle": "@MAVERIC68078049\n·\nJan 14",
+        "text": "Elon Musk is a government agent working on their agenda. He is a fake billionaire. He has never invented anything, was born into a wealthy family, and has lied about it. He exploits child labor for the production of lithium batteries used in his electric cars. His mother is a",
+        "timestamp": "2025-12-19T14:34:10.177417",
+        "x": 0.34286704659461975,
+        "y": 13.377251625061035,
+        "sentiment": "negative",
+        "sentiment_score": -0.806,
+        "emotion": "disgust",
+        "emotion_score": 0.396,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@RAVENSCOON\n·\nJan 10, 2021",
+        "text": "just because elon musk posts memes and smokes weed doesn’t mean that he’s not an egomaniacal billionaire that has stolen his wealth off the backs of his employees \n\nnot to mention his inherited wealth from emerald mines in africa",
+        "timestamp": "2025-12-19T14:34:12.646605",
+        "x": -0.011091218329966068,
+        "y": 13.655048370361328,
+        "sentiment": "negative",
+        "sentiment_score": -0.734,
+        "emotion": "neutral",
+        "emotion_score": 0.616,
+        "cluster": 0,
+        "topics": [
+            "egomaniacal billionaire",
+            "elon musk"
+        ],
+        "primary_topic": "egomaniacal billionaire"
+    },
+    {
+        "handle": "@P_Kallioniemi\n·\nJun 29, 2023",
+        "text": "In today's #vatniksoup, I'll introduce a South African-American(!) businessman and social media figure, Elon Musk (\n@elonmusk\n). He's best-known for being the wealthiest man in the world, running Tesla Inc., SpaceX & Twitter, and for parroting Kremlin's propaganda narratives.\n\n1/24",
+        "timestamp": "2025-12-19T14:34:12.662397",
+        "x": 0.37865835428237915,
+        "y": 13.194140434265137,
+        "sentiment": "positive",
+        "sentiment_score": 0.573,
+        "emotion": "joy",
+        "emotion_score": 0.484,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "known wealthiest"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@elonmuskelry\n·\n2h",
+        "text": "Do you believe in happy endings?\n\nYes or No?",
+        "timestamp": "2025-12-19T14:34:14.644268",
+        "x": 2.097557783126831,
+        "y": 10.424802780151367,
+        "sentiment": "positive",
+        "sentiment_score": 0.332,
+        "emotion": "neutral",
+        "emotion_score": 0.657,
+        "cluster": 2,
+        "topics": [
+            "endings yes",
+            "happy endings"
+        ],
+        "primary_topic": "endings yes"
+    },
+    {
+        "handle": "@joeroganhq\n·\n5h",
+        "text": "Elon Musk: \"Back in the day, the media was racist against black people and sexist against women.  Now it’s racist against white people and Asians and sexist against men, like they just changed the target.\"",
+        "timestamp": "2025-12-19T14:34:14.660873",
+        "x": 2.4236557483673096,
+        "y": 13.139819145202637,
+        "sentiment": "negative",
+        "sentiment_score": -0.532,
+        "emotion": "disgust",
+        "emotion_score": 0.639,
+        "cluster": 0,
+        "topics": [
+            "media racist",
+            "elon musk"
+        ],
+        "primary_topic": "media racist"
+    },
+    {
+        "handle": "@elonmuskelry\n·\nDec 17",
+        "text": "SO FAR NO ONE HAS FOUND THE WORD IN THE BOX",
+        "timestamp": "2025-12-19T14:34:17.682433",
+        "x": 0.26424822211265564,
+        "y": 11.01010799407959,
+        "sentiment": "negative",
+        "sentiment_score": -0.641,
+        "emotion": "neutral",
+        "emotion_score": 0.733,
+        "cluster": 0,
+        "topics": [
+            "word box",
+            "word"
+        ],
+        "primary_topic": "word box"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 17",
+        "text": "Do you support Tom Homan’s proposal to deport all foreign students to their home countries if they engage in disruptive behavior at their colleges?\n\nYES or NO?\n\nIF Yes, Give me a THUMBS-UP!",
+        "timestamp": "2025-12-19T14:34:17.698485",
+        "x": 3.21509051322937,
+        "y": 12.62723445892334,
+        "sentiment": "negative",
+        "sentiment_score": -0.706,
+        "emotion": "anger",
+        "emotion_score": 0.485,
+        "cluster": 0,
+        "topics": [
+            "homan proposal",
+            "proposal deport"
+        ],
+        "primary_topic": "homan proposal"
+    },
+    {
+        "handle": "@elonmusk\n·\n16h",
+        "text": "Troubling",
+        "timestamp": "2025-12-19T14:34:20.489730",
+        "x": 0.705148458480835,
+        "y": 10.252866744995117,
+        "sentiment": "negative",
+        "sentiment_score": -0.143,
+        "emotion": "fear",
+        "emotion_score": 0.544,
+        "cluster": 0,
+        "topics": [
+            "troubling"
+        ],
+        "primary_topic": "troubling"
+    },
+    {
+        "handle": "@GuntherEagleman\n·\nDec 16",
+        "text": "“The amount of indoctrination that's happening in schools  is far beyond what parents realize”  - Elon Musk\n\nHe’s right… They are coming for your kids.",
+        "timestamp": "2025-12-19T14:34:22.391664",
+        "x": 3.107250213623047,
+        "y": 12.430508613586426,
+        "sentiment": "negative",
+        "sentiment_score": -0.547,
+        "emotion": "fear",
+        "emotion_score": 0.56,
+        "cluster": 0,
+        "topics": [
+            "indoctrination happening",
+            "indoctrination"
+        ],
+        "primary_topic": "indoctrination happening"
+    },
+    {
+        "handle": "@iam_smx\n·\nDec 14",
+        "text": "This beautiful moment of Elon Musk dancing with his daughter perfectly captures Elon Musk's message:\n\n“You will be absolutely happier if you have kids”",
+        "timestamp": "2025-12-19T14:34:22.422632",
+        "x": -0.32279127836227417,
+        "y": 11.882415771484375,
+        "sentiment": "positive",
+        "sentiment_score": 0.915,
+        "emotion": "joy",
+        "emotion_score": 0.915,
+        "cluster": 2,
+        "topics": [
+            "musk dancing",
+            "elon musk"
+        ],
+        "primary_topic": "musk dancing"
+    },
+    {
+        "handle": "@FTMO_com",
+        "text": "Prove your trading skills with simulated capital and start earning real-money rewards!",
+        "timestamp": "2025-12-19T14:34:24.709736",
+        "x": 1.188057541847229,
+        "y": 11.2872314453125,
+        "sentiment": "positive",
+        "sentiment_score": 0.716,
+        "emotion": "neutral",
+        "emotion_score": 0.529,
+        "cluster": 2,
+        "topics": [
+            "simulated capital",
+            "trading skills"
+        ],
+        "primary_topic": "simulated capital"
+    },
+    {
+        "handle": "@ThomasSowell\n·\nDec 12",
+        "text": "Elon Musk: \"While I'm not a particularly religious person, I do believe that the teachings of Jesus are good and wise and that there's tremendous wisdom in turn the other cheek.\"",
+        "timestamp": "2025-12-19T14:34:24.726657",
+        "x": 2.307307481765747,
+        "y": 12.051834106445312,
+        "sentiment": "positive",
+        "sentiment_score": 0.868,
+        "emotion": "neutral",
+        "emotion_score": 0.855,
+        "cluster": 2,
+        "topics": [
+            "teachings jesus",
+            "elon musk"
+        ],
+        "primary_topic": "teachings jesus"
+    },
+    {
+        "handle": "@GuntherEagleman\n·\nDec 9",
+        "text": " Elon Musk on Charlie Kirk’s assassination:\n\n“It’s made going out in public even harder. One wrong move and you’re gone.”\n\nThe Left is violent, be safe.",
+        "timestamp": "2025-12-19T14:34:27.462129",
+        "x": 2.2759363651275635,
+        "y": 13.054187774658203,
+        "sentiment": "negative",
+        "sentiment_score": -0.767,
+        "emotion": "anger",
+        "emotion_score": 0.887,
+        "cluster": 0,
+        "topics": [
+            "left violent",
+            "kirk assassination"
+        ],
+        "primary_topic": "left violent"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 18",
+        "text": "MIKE PENCE is considering running for PRESIDENT.\n\nWhat are the chances you’d consider him in 2028?\nA. 100\nB. 50\nC. Zero",
+        "timestamp": "2025-12-19T14:34:27.478065",
+        "x": -0.7598680853843689,
+        "y": 13.927501678466797,
+        "sentiment": "neutral",
+        "sentiment_score": 0.043,
+        "emotion": "neutral",
+        "emotion_score": 0.896,
+        "cluster": 1,
+        "topics": [
+            "pence considering",
+            "president chances"
+        ],
+        "primary_topic": "pence considering"
+    },
+    {
+        "handle": "@DefiantLs\n·\nDec 17",
+        "text": "Sen. Warren is asked, \"what can we do to stop Elon Musk?\"",
+        "timestamp": "2025-12-19T14:34:30.391810",
+        "x": 1.448481559753418,
+        "y": 13.567556381225586,
+        "sentiment": "neutral",
+        "sentiment_score": 0.001,
+        "emotion": "fear",
+        "emotion_score": 0.536,
+        "cluster": 1,
+        "topics": [
+            "elon musk",
+            "sen warren"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@browsertotal",
+        "text": "Ever wonder what your Browser extensions are really doing?\nOr what data that random VSCode plugin is siphoning off?",
+        "timestamp": "2025-12-19T14:34:32.210789",
+        "x": 0.17192690074443817,
+        "y": 14.417529106140137,
+        "sentiment": "negative",
+        "sentiment_score": -0.43,
+        "emotion": "surprise",
+        "emotion_score": 0.959,
+        "cluster": 0,
+        "topics": [
+            "vscode plugin",
+            "vscode"
+        ],
+        "primary_topic": "vscode plugin"
+    },
+    {
+        "handle": "@GuntherEagleman\n·\nDec 9",
+        "text": " BREAKING: Trump blasts EU’s $140M fine on Elon Musk’s X as “outrageous,” vows to get a “full report” and warns Europe is going down a “very dangerous path.”\n\n“Elon will win”",
+        "timestamp": "2025-12-19T14:34:35.081021",
+        "x": 2.95880389213562,
+        "y": 14.535590171813965,
+        "sentiment": "negative",
+        "sentiment_score": -0.729,
+        "emotion": "anger",
+        "emotion_score": 0.939,
+        "cluster": 0,
+        "topics": [
+            "musk outrageous",
+            "elon musk"
+        ],
+        "primary_topic": "musk outrageous"
+    },
+    {
+        "handle": "@akafaceUS\n·\nDec 13",
+        "text": "Elon Musk: \"Back in 2008, I gave Tesla the last of my remaining cash, didn’t even own a house or anything sellable.\"\n\nHe risked it all and was rewarded.. Meanwhile you got Elizabeth Warren screaming that he doesn't pay enough taxes.",
+        "timestamp": "2025-12-19T14:34:35.098320",
+        "x": 0.14173577725887299,
+        "y": 13.718564987182617,
+        "sentiment": "negative",
+        "sentiment_score": -0.355,
+        "emotion": "anger",
+        "emotion_score": 0.413,
+        "cluster": 0,
+        "topics": [
+            "gave tesla",
+            "tesla remaining"
+        ],
+        "primary_topic": "gave tesla"
+    },
+    {
+        "handle": "@DefiantLs\n·\nDec 12",
+        "text": "“This is my message for Elon Musk: The EU will be forever... there will be no ex-EU”",
+        "timestamp": "2025-12-19T14:34:35.116160",
+        "x": 3.36002254486084,
+        "y": 13.945533752441406,
+        "sentiment": "positive",
+        "sentiment_score": 0.346,
+        "emotion": "neutral",
+        "emotion_score": 0.902,
+        "cluster": 2,
+        "topics": [
+            "musk eu",
+            "eu forever"
+        ],
+        "primary_topic": "musk eu"
+    },
+    {
+        "handle": "@newstart_2024\n·\nDec 11",
+        "text": "This 7-minute exchange between Elon Musk and Joe Rogan is quietly one of the most important conversations of the decade.\n\nElon lays it out plainly:\nAI is a “supersonic tsunami” already erasing every purely digital job—coding, emails, spreadsheets, customer support—faster than any",
+        "timestamp": "2025-12-19T14:34:37.301850",
+        "x": 0.839763343334198,
+        "y": 12.326499938964844,
+        "sentiment": "positive",
+        "sentiment_score": 0.751,
+        "emotion": "surprise",
+        "emotion_score": 0.563,
+        "cluster": 2,
+        "topics": [
+            "ai supersonic",
+            "ai"
+        ],
+        "primary_topic": "ai supersonic"
+    },
+    {
+        "handle": "@seanhannity\n·\nDec 17",
+        "text": "MUSK'S MAGA COMEBACK! Elon Opens Checkbook to Help Republicans in 2026 Midterms",
+        "timestamp": "2025-12-19T14:34:37.321896",
+        "x": -0.4381595253944397,
+        "y": 13.868995666503906,
+        "sentiment": "positive",
+        "sentiment_score": 0.751,
+        "emotion": "neutral",
+        "emotion_score": 0.828,
+        "cluster": 2,
+        "topics": [
+            "musk maga",
+            "musk"
+        ],
+        "primary_topic": "musk maga"
+    },
+    {
+        "handle": "@ThomasSowell\n·\nDec 16",
+        "text": "Rep. Tim Burchett: \"There's around a thousand of these NGOs that are created… Elon Musk told me… we probably put close to $1 TRILLION into these things, then it flows into the pockets of terrorists!\"",
+        "timestamp": "2025-12-19T14:34:39.147343",
+        "x": 0.6373923420906067,
+        "y": 14.402368545532227,
+        "sentiment": "negative",
+        "sentiment_score": -0.499,
+        "emotion": "surprise",
+        "emotion_score": 0.343,
+        "cluster": 0,
+        "topics": [
+            "thousand ngos",
+            "ngos created"
+        ],
+        "primary_topic": "thousand ngos"
+    },
+    {
+        "handle": "@iam_smx\n·\nDec 9",
+        "text": "“Elon Musk is helping the world wake up for once and for all and become aware of the woke mind virus, this makes him a hero in the history of humanity”\n\n-Javier Milei, President of Argentina",
+        "timestamp": "2025-12-19T14:34:41.443061",
+        "x": 0.7056671380996704,
+        "y": 11.882616996765137,
+        "sentiment": "positive",
+        "sentiment_score": 0.85,
+        "emotion": "neutral",
+        "emotion_score": 0.88,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "musk helping"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@MartiniGuyYT\n·\n40m",
+        "text": "ELON MUSK IS TALKING ABOUT BITCOIN",
+        "timestamp": "2025-12-19T14:34:41.459311",
+        "x": 0.1612107902765274,
+        "y": 13.94690227508545,
+        "sentiment": "neutral",
+        "sentiment_score": 0.077,
+        "emotion": "neutral",
+        "emotion_score": 0.889,
+        "cluster": 1,
+        "topics": [
+            "talking bitcoin",
+            "bitcoin"
+        ],
+        "primary_topic": "talking bitcoin"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 17",
+        "text": "Would you support Mel Gibson replacing Gavin Newsom as the NEXT Governor of California ?\n\nYES or NO?\n\nIF Yes, Give me a THUMBS-UP!",
+        "timestamp": "2025-12-19T14:34:41.478348",
+        "x": 3.473930597305298,
+        "y": 12.979989051818848,
+        "sentiment": "neutral",
+        "sentiment_score": 0.025,
+        "emotion": "neutral",
+        "emotion_score": 0.745,
+        "cluster": 1,
+        "topics": [
+            "mel gibson",
+            "gibson replacing"
+        ],
+        "primary_topic": "mel gibson"
+    },
+    {
+        "handle": "@JDunlap1974·Dec 14",
+        "text": "BREAKING : Elon Musk calls for the arrest of all corrupt politicians, red or blue, who stole our hard-earned money through USAID and NGOs.",
+        "timestamp": "2025-12-19T14:34:41.495443",
+        "x": 1.131156325340271,
+        "y": 14.377166748046875,
+        "sentiment": "negative",
+        "sentiment_score": -0.698,
+        "emotion": "anger",
+        "emotion_score": 0.925,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk calls"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@elonmusk·13h",
+        "text": "It needs to end",
+        "timestamp": "2025-12-19T14:34:41.512013",
+        "x": 0.5175121426582336,
+        "y": 10.63814926147461,
+        "sentiment": "negative",
+        "sentiment_score": -0.728,
+        "emotion": "neutral",
+        "emotion_score": 0.311,
+        "cluster": 0,
+        "topics": [
+            "needs end",
+            "end"
+        ],
+        "primary_topic": "needs end"
+    },
+    {
+        "handle": "@indyfor45th47th\n·\n4h",
+        "text": " Elon Musk has dropped a bombshell, publicly calling for the arrest of politicians involved in a massive money laundering scheme of taxpayer money through non-governmental organizations. \n\nMusk calls for Attorney General Pam Bondi to \"put the hammer down\" on the culprits. ",
+        "timestamp": "2025-12-19T14:34:46.024170",
+        "x": 1.2249876260757446,
+        "y": 14.499939918518066,
+        "sentiment": "negative",
+        "sentiment_score": -0.432,
+        "emotion": "fear",
+        "emotion_score": 0.486,
+        "cluster": 0,
+        "topics": [
+            "musk dropped",
+            "elon musk"
+        ],
+        "primary_topic": "musk dropped"
+    },
+    {
+        "handle": "@elonmusk\n·\n5h",
+        "text": "Time to undo the great wrong that has been committed against the people of Europe",
+        "timestamp": "2025-12-19T14:34:49.156069",
+        "x": 3.013249158859253,
+        "y": 14.300406455993652,
+        "sentiment": "negative",
+        "sentiment_score": -0.856,
+        "emotion": "anger",
+        "emotion_score": 0.708,
+        "cluster": 0,
+        "topics": [
+            "undo great",
+            "people europe"
+        ],
+        "primary_topic": "undo great"
+    },
+    {
+        "handle": "@DefiantLs\n·\n7h",
+        "text": "Mark Ruffalo says people shouldn't listen to Elon Musk: \"We are the ones you have to believe in.\"",
+        "timestamp": "2025-12-19T14:34:49.170449",
+        "x": 2.393235445022583,
+        "y": 12.42280101776123,
+        "sentiment": "neutral",
+        "sentiment_score": 0.005,
+        "emotion": "neutral",
+        "emotion_score": 0.506,
+        "cluster": 1,
+        "topics": [
+            "elon musk",
+            "ruffalo says"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@elonmusk\n·\n12h",
+        "text": "Cybertruck is incredible",
+        "timestamp": "2025-12-19T14:34:51.247466",
+        "x": 0.9404698014259338,
+        "y": 11.909313201904297,
+        "sentiment": "positive",
+        "sentiment_score": 0.946,
+        "emotion": "surprise",
+        "emotion_score": 0.663,
+        "cluster": 2,
+        "topics": [
+            "cybertruck incredible",
+            "cybertruck"
+        ],
+        "primary_topic": "cybertruck incredible"
+    },
+    {
+        "handle": "@elonmusk\n·\n12h",
+        "text": "I was CEO and Peter reported to me, so could not fire me. It was a palace coup by most (not all) of the exec team and most of the board, who were worried that my decisions were too risky. \n\nI was the largest shareholder in the company. There was nothing anyone could have done to",
+        "timestamp": "2025-12-19T14:34:51.264463",
+        "x": 2.2354001998901367,
+        "y": 14.91090202331543,
+        "sentiment": "negative",
+        "sentiment_score": -0.309,
+        "emotion": "fear",
+        "emotion_score": 0.963,
+        "cluster": 0,
+        "topics": [
+            "ceo peter",
+            "palace coup"
+        ],
+        "primary_topic": "ceo peter"
+    },
+    {
+        "handle": "@elonmusk\n·\n2h",
+        "text": "No kidding",
+        "timestamp": "2025-12-19T14:34:51.280190",
+        "x": -0.49291154742240906,
+        "y": 11.724797248840332,
+        "sentiment": "neutral",
+        "sentiment_score": 0.06,
+        "emotion": "anger",
+        "emotion_score": 0.391,
+        "cluster": 1,
+        "topics": [
+            "kidding"
+        ],
+        "primary_topic": "kidding"
+    },
+    {
+        "handle": "@elon70669\n·\n18h",
+        "text": "Years ago, Elon Musk casually mentioned that he likes pineapple on pizza. \nSome preferences don’t need defending.\nNo manifesto.\nNo debate thread.\nJust an honest answer.\n\nThat small detail says more than the food choice itself.\n\nHe doesn’t perform taste.\nHe doesn’t chase trends.",
+        "timestamp": "2025-12-19T14:34:54.211839",
+        "x": -0.5737608671188354,
+        "y": 12.610608100891113,
+        "sentiment": "neutral",
+        "sentiment_score": -0.071,
+        "emotion": "neutral",
+        "emotion_score": 0.951,
+        "cluster": 1,
+        "topics": [
+            "pineapple pizza",
+            "pizza preferences"
+        ],
+        "primary_topic": "pineapple pizza"
+    },
+    {
+        "handle": "@nypost\n·\n58m",
+        "text": "Elon Musk celebrates 9% cut in federal workers: ‘matrix was reprogrammed’ \nhttps://\ntrib.al/SHlZ3dU",
+        "timestamp": "2025-12-19T14:34:54.228150",
+        "x": 0.6682747006416321,
+        "y": 13.403992652893066,
+        "sentiment": "positive",
+        "sentiment_score": 0.572,
+        "emotion": "neutral",
+        "emotion_score": 0.465,
+        "cluster": 2,
+        "topics": [
+            "workers matrix",
+            "musk celebrates"
+        ],
+        "primary_topic": "workers matrix"
+    },
+    {
+        "handle": "@zei_squirrel\n·\nDec 12, 2022",
+        "text": "Elon Musk is deeply integrated in the military-industrial-intelligence complex of the US. He is the nominally privatized segment of it, and I say nominally because he only exists by virtue of tax breaks, subsidies and stealing public research. This is who Elon Musk is:",
+        "timestamp": "2025-12-19T14:34:55.945423",
+        "x": 0.40855395793914795,
+        "y": 13.185319900512695,
+        "sentiment": "negative",
+        "sentiment_score": -0.519,
+        "emotion": "neutral",
+        "emotion_score": 0.856,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@BGatesIsaPyscho\n·\n4h",
+        "text": "Mark Zuckerberg training hard - perhaps he’s gonna fight Elon Musk after all.",
+        "timestamp": "2025-12-19T14:34:55.966005",
+        "x": 0.21447600424289703,
+        "y": 12.647234916687012,
+        "sentiment": "positive",
+        "sentiment_score": 0.229,
+        "emotion": "neutral",
+        "emotion_score": 0.859,
+        "cluster": 2,
+        "topics": [
+            "zuckerberg training",
+            "mark zuckerberg"
+        ],
+        "primary_topic": "zuckerberg training"
+    },
+    {
+        "handle": "@MAGAVoice\n·\nDec 15",
+        "text": "BREAKING  Elon Musk just reposted this Photo to his 229 Million followers saying “Never Forget”\n\nWE CAN’T SIT BACK AND LET THEM TAKE OVER\n\nHE IS RIGHT",
+        "timestamp": "2025-12-19T14:35:01.319372",
+        "x": -0.8275723457336426,
+        "y": 11.823497772216797,
+        "sentiment": "positive",
+        "sentiment_score": 0.147,
+        "emotion": "neutral",
+        "emotion_score": 0.485,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "musk"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@EricLDaugh\n·\nDec 12",
+        "text": " WOW: Elon Musk is RUTHLESSLY ratioing Slithering Gavin Newsom, who said Elon’s daughter “hates” him\n\nHis reply has over 232,000 THOUSAND likes\n\n“I assume you’re referring to my son, Xavier, who has a tragic mental illness caused by the evil woke mind virus you push on",
+        "timestamp": "2025-12-19T14:35:01.338751",
+        "x": -0.07499489188194275,
+        "y": 12.251421928405762,
+        "sentiment": "negative",
+        "sentiment_score": -0.294,
+        "emotion": "surprise",
+        "emotion_score": 0.36,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "musk ruthlessly"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@RightScopee\n·\nDec 8",
+        "text": "BREAKING: President Trump EVISCERATES the European Union for fining Elon Musk and X $140M, says he will be getting a \"full report\" on the situation\n\nThe EU may have COOKED ITSELF!\n\n\"Elon has not called me to ask for help, but no, that's tough. I don't think it's right, no! I",
+        "timestamp": "2025-12-19T14:35:01.356842",
+        "x": 3.3255646228790283,
+        "y": 14.534575462341309,
+        "sentiment": "negative",
+        "sentiment_score": -0.444,
+        "emotion": "surprise",
+        "emotion_score": 0.341,
+        "cluster": 0,
+        "topics": [
+            "situation eu",
+            "trump eviscerates"
+        ],
+        "primary_topic": "situation eu"
+    },
+    {
+        "handle": "@elonmuskelry\n·\n7h",
+        "text": "BREAKING: ELON MUSK says \"Charlie Kirk believed in dialogue and open debate. He was man of ideas and peace, & was murde*ed in cold blo*d. He was kil*ed because his words made a difference. He was showing people the light & he was kil*ed by the dark.\"\n\nDo you agree Elon?",
+        "timestamp": "2025-12-19T14:35:03.129820",
+        "x": 2.259044885635376,
+        "y": 12.628175735473633,
+        "sentiment": "positive",
+        "sentiment_score": 0.153,
+        "emotion": "neutral",
+        "emotion_score": 0.816,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "kirk believed"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@EricLDaugh\n·\nDec 10",
+        "text": " ELON MUSK SAYS IT PERFECTLY “There are massive transfer payments going to illegal immigrants.\"\n\n\"We're paying people to come here from somewhere else in vast numbers.\"\n\n\"Flying them in then fast tracking them to citizenship and making them beholden to government payments and",
+        "timestamp": "2025-12-19T14:35:03.158525",
+        "x": 0.8664895296096802,
+        "y": 14.10119915008545,
+        "sentiment": "negative",
+        "sentiment_score": -0.222,
+        "emotion": "neutral",
+        "emotion_score": 0.763,
+        "cluster": 0,
+        "topics": [
+            "immigrants paying",
+            "illegal immigrants"
+        ],
+        "primary_topic": "immigrants paying"
+    },
+    {
+        "handle": "@ElonMusk_LordX\n·\n4h",
+        "text": "Do you believe in success is the best revenge?\n\nYes or No",
+        "timestamp": "2025-12-19T14:35:05.124249",
+        "x": 1.9820820093154907,
+        "y": 10.332242012023926,
+        "sentiment": "positive",
+        "sentiment_score": 0.135,
+        "emotion": "anger",
+        "emotion_score": 0.534,
+        "cluster": 2,
+        "topics": [
+            "revenge yes",
+            "best revenge"
+        ],
+        "primary_topic": "revenge yes"
+    },
+    {
+        "handle": "@elonmusk\n·\n15h",
+        "text": "Many judges had broken the law",
+        "timestamp": "2025-12-19T14:35:07.904919",
+        "x": 2.1149768829345703,
+        "y": 14.884994506835938,
+        "sentiment": "negative",
+        "sentiment_score": -0.609,
+        "emotion": "anger",
+        "emotion_score": 0.567,
+        "cluster": 0,
+        "topics": [
+            "judges broken",
+            "judges"
+        ],
+        "primary_topic": "judges broken"
+    },
+    {
+        "handle": "@elonmusk\n·\nDec 10",
+        "text": "Good questions",
+        "timestamp": "2025-12-19T14:35:07.924369",
+        "x": 0.8084651231765747,
+        "y": 10.152405738830566,
+        "sentiment": "positive",
+        "sentiment_score": 0.682,
+        "emotion": "neutral",
+        "emotion_score": 0.881,
+        "cluster": 2,
+        "topics": [
+            "good questions",
+            "questions"
+        ],
+        "primary_topic": "good questions"
+    },
+    {
+        "handle": "@Real_RobN\n·\nDec 17",
+        "text": "Audit finds Gavin Newscum racketeered $24 billion of taxpayer money on a scam he calls “ending homelessness.”\n\nWhere did $24 billion go? \n\nHere is Elon Musk in one minute and eight seconds: “Homeless is the wrong word”\n\nGavin Newsom + Democrats + NGOs. \n\n\n@elonmusk\n “They're",
+        "timestamp": "2025-12-19T14:35:10.469691",
+        "x": 0.5041910409927368,
+        "y": 14.709362030029297,
+        "sentiment": "negative",
+        "sentiment_score": -0.698,
+        "emotion": "fear",
+        "emotion_score": 0.842,
+        "cluster": 0,
+        "topics": [
+            "homeless wrong",
+            "billion taxpayer"
+        ],
+        "primary_topic": "homeless wrong"
+    },
+    {
+        "handle": "@RedEagleUpdates\n·\nDec 15",
+        "text": "Elon Musk is considering backing JD VANCE in 2028 rather than starting a new party\n\nAs of today, how would you rate your level of support for JD Vance?\n\nA. Very Strong Support (100%)\nB. Strong Support (75%)\nC. Moderate Support (50%)\nD. Limited Support (25%)\nE. No Support (0%)",
+        "timestamp": "2025-12-19T14:35:13.469798",
+        "x": -0.7900484204292297,
+        "y": 13.899242401123047,
+        "sentiment": "positive",
+        "sentiment_score": 0.12,
+        "emotion": "neutral",
+        "emotion_score": 0.938,
+        "cluster": 2,
+        "topics": [
+            "support jd",
+            "moderate support"
+        ],
+        "primary_topic": "support jd"
+    },
+    {
+        "handle": "@XFreeze\n·\n14h",
+        "text": "ELON MUSK EXPOSES THE 'LEGAL LOOPHOLE' BEHIND THE NGO SCAM\n\nWe saw a case where one person was getting $1.9 billion sent to their NGO, which was formed about a year ago and had no prior activity. They just stand up an NGO\n\nThe whole NGO thing is a nightmare and a misnomer. If you",
+        "timestamp": "2025-12-19T14:35:13.490014",
+        "x": 0.9569240808486938,
+        "y": 14.608808517456055,
+        "sentiment": "negative",
+        "sentiment_score": -0.702,
+        "emotion": "neutral",
+        "emotion_score": 0.295,
+        "cluster": 0,
+        "topics": [
+            "ngo scam",
+            "loophole ngo"
+        ],
+        "primary_topic": "ngo scam"
+    },
+    {
+        "handle": "@DefiantLs\n·\nDec 12",
+        "text": "Elon Musk: \"Charlie Kirk believed in dialogue and open debate. He was man of ideas and peace and was murdered in cold blood. He was killed because his words made a difference.\"",
+        "timestamp": "2025-12-19T14:35:15.307344",
+        "x": 2.3021700382232666,
+        "y": 12.726058959960938,
+        "sentiment": "negative",
+        "sentiment_score": -0.715,
+        "emotion": "anger",
+        "emotion_score": 0.625,
+        "cluster": 0,
+        "topics": [
+            "charlie kirk",
+            "kirk believed"
+        ],
+        "primary_topic": "charlie kirk"
+    },
+    {
+        "handle": "@cb_doge\n·\nDec 9",
+        "text": "NEW: Elon Musk on Illegal Immigrants:\n\n\"I guess the biggest thing is that, there are massive transfer payments going to illegal immigrants. We're paying people to come here from somewhere else in vast numbers, including flying them in. So like, it's not like you need a border",
+        "timestamp": "2025-12-19T14:35:17.509696",
+        "x": 0.7162598371505737,
+        "y": 13.917716979980469,
+        "sentiment": "negative",
+        "sentiment_score": -0.144,
+        "emotion": "neutral",
+        "emotion_score": 0.763,
+        "cluster": 0,
+        "topics": [
+            "illegal immigrants",
+            "immigrants"
+        ],
+        "primary_topic": "illegal immigrants"
+    },
+    {
+        "handle": "@tedcruz\n·\nDec 10",
+        "text": "Tucker Carlson’s interview with the Prime Minister of Qatar was an opportunity to hold the PM accountable. \n\nTucker failed to do so. \n\nWe break it all down on Verdict: \nhttps://\npodcasts.apple.com/us/podcast/eur\nope-fines-elon-musk-trying-to-enforce-censorship/id1495601614?i=1000740603181\n…",
+        "timestamp": "2025-12-19T14:35:17.526126",
+        "x": 2.3399245738983154,
+        "y": 14.802508354187012,
+        "sentiment": "negative",
+        "sentiment_score": -0.633,
+        "emotion": "anger",
+        "emotion_score": 0.645,
+        "cluster": 0,
+        "topics": [
+            "accountable tucker",
+            "tucker carlson"
+        ],
+        "primary_topic": "accountable tucker"
+    },
+    {
+        "handle": "@ThomasSowell\n·\nDec 12",
+        "text": "Bernie Sanders: \"Elon Musk owns more wealth than the bottom 52% of American households… It is insane that the top 1% owns more wealth than the bottom 93%. Billionaires are flourishing… and 60% of Americans are living paycheck to paycheck.\"",
+        "timestamp": "2025-12-19T14:35:20.222271",
+        "x": -0.05596974119544029,
+        "y": 13.55567741394043,
+        "sentiment": "positive",
+        "sentiment_score": 0.802,
+        "emotion": "surprise",
+        "emotion_score": 0.673,
+        "cluster": 2,
+        "topics": [
+            "owns wealth",
+            "billionaires flourishing"
+        ],
+        "primary_topic": "owns wealth"
+    },
+    {
+        "handle": "@newstart_2024\n·\nDec 8",
+        "text": "Elon Musk just said the quiet part out loud — and it’s pure common sense:\n“A country is not its geography. A country is its people.”\n\nHis simple thought experiment:\nIf you woke up tomorrow and every single Italian was suddenly living in Nevada — that patch of desert would",
+        "timestamp": "2025-12-19T14:35:20.238452",
+        "x": 3.4295146465301514,
+        "y": 13.463621139526367,
+        "sentiment": "positive",
+        "sentiment_score": 0.34,
+        "emotion": "neutral",
+        "emotion_score": 0.942,
+        "cluster": 2,
+        "topics": [
+            "country geography",
+            "geography country"
+        ],
+        "primary_topic": "country geography"
+    },
+    {
+        "handle": "@FoxNews\n·\nDec 10",
+        "text": "FIERCE CRITIQUE: Elon Musk accused Rep. Ilhan Omar of treason over past comments in which she vowed to safeguard Somali interests from within the U.S. government.",
+        "timestamp": "2025-12-19T14:35:23.058677",
+        "x": 2.6333823204040527,
+        "y": 13.383938789367676,
+        "sentiment": "negative",
+        "sentiment_score": -0.53,
+        "emotion": "anger",
+        "emotion_score": 0.72,
+        "cluster": 0,
+        "topics": [
+            "musk accused",
+            "omar treason"
+        ],
+        "primary_topic": "musk accused"
+    },
+    {
+        "handle": "@elonmusk\n·\nDec 10",
+        "text": "No Text",
+        "timestamp": "2025-12-19T14:35:23.068840",
+        "x": 0.2916232943534851,
+        "y": 11.108455657958984,
+        "sentiment": "neutral",
+        "sentiment_score": 0.007,
+        "emotion": "neutral",
+        "emotion_score": 0.861,
+        "cluster": 1,
+        "topics": [
+            "text"
+        ],
+        "primary_topic": "text"
+    },
+    {
+        "handle": "@john322226\n·\n12h",
+        "text": "No be say some people no get money to buy blue tick, them no wan buy bcos if Elon musk no pay them, e mean say white man don scam them.",
+        "timestamp": "2025-12-19T14:35:25.637323",
+        "x": 0.37738001346588135,
+        "y": 14.080349922180176,
+        "sentiment": "negative",
+        "sentiment_score": -0.532,
+        "emotion": "anger",
+        "emotion_score": 0.361,
+        "cluster": 0,
+        "topics": [
+            "musk pay",
+            "blue tick"
+        ],
+        "primary_topic": "musk pay"
+    },
+    {
+        "handle": "@WakeUpPatriott\n·\nDec 17",
+        "text": "BREAKING: Italian PM Giorgia Meloni says, \"Elon Musk is NOT a danger to democracy, George Soros is” \n\nElon Musk is LOVED by millions worldwide.\n\nDo you agree with her?\n\nA. YES\nB. NO",
+        "timestamp": "2025-12-19T14:35:25.657577",
+        "x": 3.40010404586792,
+        "y": 13.107121467590332,
+        "sentiment": "positive",
+        "sentiment_score": 0.203,
+        "emotion": "neutral",
+        "emotion_score": 0.427,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "musk loved"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@MAGAVoice\n·\nDec 16",
+        "text": "BREAKING  Elon Musk just reposted this video of him exposing schools for indoctrinating our kids:\n\n“The amount of indoctrination that's happening in schools  is far beyond what parents realize”\n\nHE IS ABSOLUTELY RIGHT ",
+        "timestamp": "2025-12-19T14:35:28.400151",
+        "x": 2.9512581825256348,
+        "y": 12.327887535095215,
+        "sentiment": "neutral",
+        "sentiment_score": -0.072,
+        "emotion": "fear",
+        "emotion_score": 0.486,
+        "cluster": 1,
+        "topics": [
+            "schools indoctrinating",
+            "kids indoctrination"
+        ],
+        "primary_topic": "schools indoctrinating"
+    },
+    {
+        "handle": "@elonmusk\n·\n5h",
+        "text": "UK is Prison Island",
+        "timestamp": "2025-12-19T14:35:28.416908",
+        "x": 2.5326595306396484,
+        "y": 14.283364295959473,
+        "sentiment": "negative",
+        "sentiment_score": -0.802,
+        "emotion": "neutral",
+        "emotion_score": 0.544,
+        "cluster": 0,
+        "topics": [
+            "uk prison",
+            "prison island"
+        ],
+        "primary_topic": "uk prison"
+    },
+    {
+        "handle": "@GrandDaughterX\n·\nDec 17",
+        "text": "Majority of Americans like Elon Musk, leave a red heart  or give him thumbs up ",
+        "timestamp": "2025-12-19T14:35:30.875081",
+        "x": -1.0259402990341187,
+        "y": 12.698698997497559,
+        "sentiment": "neutral",
+        "sentiment_score": 0.015,
+        "emotion": "neutral",
+        "emotion_score": 0.861,
+        "cluster": 1,
+        "topics": [
+            "elon musk",
+            "musk leave"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 17",
+        "text": "Do you support Italys Prime Minister Giorgia Meloni working with Trump to Make Europe Great Again ?\n\nYES or NO ?",
+        "timestamp": "2025-12-19T14:35:30.891930",
+        "x": 3.5854570865631104,
+        "y": 13.165576934814453,
+        "sentiment": "positive",
+        "sentiment_score": 0.248,
+        "emotion": "neutral",
+        "emotion_score": 0.805,
+        "cluster": 2,
+        "topics": [
+            "support italys",
+            "italys prime"
+        ],
+        "primary_topic": "support italys"
+    },
+    {
+        "handle": "@DefiantLs\n·\nDec 18",
+        "text": "Jordan Peterson: \"Second guessing Elon Musk is a fool's game.\"",
+        "timestamp": "2025-12-19T14:35:32.758718",
+        "x": 1.698354959487915,
+        "y": 12.841365814208984,
+        "sentiment": "negative",
+        "sentiment_score": -0.518,
+        "emotion": "neutral",
+        "emotion_score": 0.687,
+        "cluster": 0,
+        "topics": [
+            "musk fool",
+            "elon musk"
+        ],
+        "primary_topic": "musk fool"
+    },
+    {
+        "handle": "@FDogenews32\n·\n3h",
+        "text": "Kindly show some love to Elon Musk and his team if you're happy for their achievements so far. \n\nComment, repost and like. ",
+        "timestamp": "2025-12-19T14:35:32.775523",
+        "x": -0.43892529606819153,
+        "y": 12.077202796936035,
+        "sentiment": "positive",
+        "sentiment_score": 0.966,
+        "emotion": "neutral",
+        "emotion_score": 0.5,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "musk team"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@EricLDaugh\n·\n22m",
+        "text": " JUST IN: Elon Musk responds to the Prime Minister of Australia announcing they will CONFISCATE and destroy law-abiding citizens' firearms because of an Islamic terror attack\n\n\"Thank God for the Second Amendment.\"\n\nEVERY Western nation should adopt a 2nd Amendment and crush",
+        "timestamp": "2025-12-19T14:35:34.774255",
+        "x": 1.9866942167282104,
+        "y": 13.994348526000977,
+        "sentiment": "negative",
+        "sentiment_score": -0.492,
+        "emotion": "fear",
+        "emotion_score": 0.899,
+        "cluster": 0,
+        "topics": [
+            "second amendment",
+            "2nd amendment"
+        ],
+        "primary_topic": "second amendment"
+    },
+    {
+        "handle": "@elonmusk\n·\n2h",
+        "text": "Good for them!",
+        "timestamp": "2025-12-19T14:35:34.790718",
+        "x": 0.8713282346725464,
+        "y": 10.13622760772705,
+        "sentiment": "positive",
+        "sentiment_score": 0.97,
+        "emotion": "joy",
+        "emotion_score": 0.868,
+        "cluster": 2,
+        "topics": [
+            "good"
+        ],
+        "primary_topic": "good"
+    },
+    {
+        "handle": "@joeroganhq\n·\nDec 13",
+        "text": "Elon Musk: \"This is strictly my opinion, the goal of Hamas was to provoke an overreaction from Israel. They didn’t expect a military victory – they wanted to commit the worst atrocities possible to trigger the most aggressive response.\"",
+        "timestamp": "2025-12-19T14:35:37.507898",
+        "x": 2.4256751537323,
+        "y": 13.380216598510742,
+        "sentiment": "negative",
+        "sentiment_score": -0.719,
+        "emotion": "anger",
+        "emotion_score": 0.532,
+        "cluster": 0,
+        "topics": [
+            "hamas provoke",
+            "goal hamas"
+        ],
+        "primary_topic": "hamas provoke"
+    },
+    {
+        "handle": "@StandUpForElonn\n·\nDec 13",
+        "text": "BREAKING: Elon Musk has vowed to destroy the Woke Mind Virus once and for all\n\n“I lost my Son essentially, they call it dead naming for a reason, so my Son, Xavier is dead. Killed by the woke mind virus. I vowed to destroy the woke mind virus after that, and we are making some",
+        "timestamp": "2025-12-19T14:35:40.440879",
+        "x": 0.49011051654815674,
+        "y": 11.765896797180176,
+        "sentiment": "negative",
+        "sentiment_score": -0.482,
+        "emotion": "sadness",
+        "emotion_score": 0.769,
+        "cluster": 0,
+        "topics": [
+            "mind virus",
+            "elon musk"
+        ],
+        "primary_topic": "mind virus"
+    },
+    {
+        "handle": "@EricLDaugh\n·\nDec 9",
+        "text": " JUST IN: Elon Musk is asked about whether he believes in God\n\nKATIE MILLER: Who do you look up to the most?\n\nELON: The Creator.\n\nMILLER: What's your position on God?\n\nELON: God is the Creator.\n\nMILLER: You don't believe in God though, do you?\n\nELON: Well, I believe this",
+        "timestamp": "2025-12-19T14:35:40.455851",
+        "x": 2.065708875656128,
+        "y": 11.636523246765137,
+        "sentiment": "neutral",
+        "sentiment_score": 0.029,
+        "emotion": "neutral",
+        "emotion_score": 0.721,
+        "cluster": 1,
+        "topics": [
+            "elon god",
+            "elon believe"
+        ],
+        "primary_topic": "elon god"
+    },
+    {
+        "handle": "@BoLoudon\n·\nDec 9",
+        "text": "BREAKING: President Trump just said he \"LOVES\" Elon Musk to his massive Pennsylvania rally crowd.\n\n\"We all love Elon! Elon was up here campaigning.\"\n\nGod bless \n@ElonMusk\n!\n\nFollow: \n@BoLoudon",
+        "timestamp": "2025-12-19T14:35:42.856658",
+        "x": -0.8311728239059448,
+        "y": 12.695077896118164,
+        "sentiment": "positive",
+        "sentiment_score": 0.972,
+        "emotion": "joy",
+        "emotion_score": 0.51,
+        "cluster": 2,
+        "topics": [
+            "loves elon",
+            "elon musk"
+        ],
+        "primary_topic": "loves elon"
+    },
+    {
+        "handle": "@cb_doge\n·\nDec 9",
+        "text": "Elon Musk on Starship:\n\n\"If there are historians in the future, they will look back at Starship and say it was one of the most profound things that ever happened. The degree to which a Starship is a revolutionary technology is not well understood in the world.\n\nIt's the first",
+        "timestamp": "2025-12-19T14:35:42.872216",
+        "x": 1.0010530948638916,
+        "y": 12.916923522949219,
+        "sentiment": "positive",
+        "sentiment_score": 0.798,
+        "emotion": "surprise",
+        "emotion_score": 0.552,
+        "cluster": 2,
+        "topics": [
+            "starship revolutionary",
+            "musk starship"
+        ],
+        "primary_topic": "starship revolutionary"
+    },
+    {
+        "handle": "@bennyjohnson\n·\nDec 9",
+        "text": "Elon Musk says God is The Creator and the One he looks up to most.\n\nIncredible things are happening. ",
+        "timestamp": "2025-12-19T14:35:45.230184",
+        "x": 1.9277065992355347,
+        "y": 11.696882247924805,
+        "sentiment": "positive",
+        "sentiment_score": 0.892,
+        "emotion": "neutral",
+        "emotion_score": 0.357,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "god creator"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@cb_doge\n·\nDec 10",
+        "text": "ELON MUSK: \"I did originally come to North America with like 2500 bucks Canadian, or 2000 US, one bag of books and one bag of clothes in Montreal at age of 17. So that is how I started out.\"",
+        "timestamp": "2025-12-19T14:35:48.226779",
+        "x": 1.6962192058563232,
+        "y": 13.28909969329834,
+        "sentiment": "positive",
+        "sentiment_score": 0.124,
+        "emotion": "neutral",
+        "emotion_score": 0.865,
+        "cluster": 2,
+        "topics": [
+            "clothes montreal",
+            "montreal age"
+        ],
+        "primary_topic": "clothes montreal"
+    },
+    {
+        "handle": "@DefiantLs\n·\nDec 14",
+        "text": "Elon Musk: \"I acquired X in order to preserve freedom of speech in America.\"",
+        "timestamp": "2025-12-19T14:35:48.243147",
+        "x": 1.8646583557128906,
+        "y": 13.11090087890625,
+        "sentiment": "positive",
+        "sentiment_score": 0.478,
+        "emotion": "neutral",
+        "emotion_score": 0.952,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "musk"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@cb_doge\n·\nDec 9",
+        "text": "ELON MUSK: \"Starbase is probably the coolest place on earth. We built a gigantic rocket factory and two giant launch towers down by the river, literally on an actual sand bar. It's an incorporated city, like legally a city. You don't hear about new cities being formed that often\"",
+        "timestamp": "2025-12-19T14:35:50.006955",
+        "x": 1.3426178693771362,
+        "y": 13.120734214782715,
+        "sentiment": "positive",
+        "sentiment_score": 0.956,
+        "emotion": "neutral",
+        "emotion_score": 0.635,
+        "cluster": 2,
+        "topics": [
+            "coolest place",
+            "new cities"
+        ],
+        "primary_topic": "coolest place"
+    },
+    {
+        "handle": "@EricLDaugh\n·\nDec 13",
+        "text": " BREAKING: Elon Musk eviscerates transgender puberty blockers as \"absolutely CHILD ABUSE\"\n\nHe's right. This is pure evil.\n\nBillboard Chris at European Parliament: \"What's being done is they are sending teenage girls into MENOPAUSE. Which has a hundred side effects of its own.",
+        "timestamp": "2025-12-19T14:35:50.025601",
+        "x": 2.989881753921509,
+        "y": 12.205619812011719,
+        "sentiment": "negative",
+        "sentiment_score": -0.845,
+        "emotion": "disgust",
+        "emotion_score": 0.827,
+        "cluster": 0,
+        "topics": [
+            "transgender puberty",
+            "puberty blockers"
+        ],
+        "primary_topic": "transgender puberty"
+    },
+    {
+        "handle": "@MAGANEWSShapiro\n·\nDec 17",
+        "text": "The best smell is fresh coffee in the morning.\n\nDo you agree?\n\nYes or No?",
+        "timestamp": "2025-12-19T14:35:53.064770",
+        "x": 1.8599810600280762,
+        "y": 10.210057258605957,
+        "sentiment": "positive",
+        "sentiment_score": 0.934,
+        "emotion": "neutral",
+        "emotion_score": 0.598,
+        "cluster": 2,
+        "topics": [
+            "best smell",
+            "smell fresh"
+        ],
+        "primary_topic": "best smell"
+    },
+    {
+        "handle": "@MAGANEWSShapiro\n·\nDec 17",
+        "text": "If you love Elon Musk, kindly comment and repost under this post. Show him some love .",
+        "timestamp": "2025-12-19T14:35:54.865252",
+        "x": -0.7567460536956787,
+        "y": 12.16495418548584,
+        "sentiment": "positive",
+        "sentiment_score": 0.924,
+        "emotion": "neutral",
+        "emotion_score": 0.707,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "musk kindly"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@collegehub_\n·\nAug 27, 2020",
+        "text": "4. ELON MUSK: ($96.8 billion)\nElon Musk is an engineer, industrial designer, technology entrepreneur and philanthropist. \n\nHe’s the CEO of SpaceX the creator of Tesla automobiles.",
+        "timestamp": "2025-12-19T14:35:54.916895",
+        "x": 0.6127198934555054,
+        "y": 13.201899528503418,
+        "sentiment": "positive",
+        "sentiment_score": 0.552,
+        "emotion": "neutral",
+        "emotion_score": 0.924,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "musk engineer"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@joeroganhq\n·\nDec 13",
+        "text": "Sanders: \"[Elon Musk] spent $270M to elect Trump as president. I think that’s absurd that any one person [can do that].\"\n\nRogan: \"What's the most someone donated towards the Harris campaign?... They spent $1.5B just in the course of a couple of months.\"",
+        "timestamp": "2025-12-19T14:35:54.942987",
+        "x": -0.10108210146427155,
+        "y": 14.236383438110352,
+        "sentiment": "negative",
+        "sentiment_score": -0.58,
+        "emotion": "surprise",
+        "emotion_score": 0.429,
+        "cluster": 0,
+        "topics": [
+            "musk spent",
+            "rogan donated"
+        ],
+        "primary_topic": "musk spent"
+    },
+    {
+        "handle": "@CensoredMen\n·\nJan 22, 2024",
+        "text": "Elon Musk: \"I grew up around a lot of Jewish people, I went to Hebrew preschool -- my name is pretty Jewish.\"\n\n\"I went to Israel when I was 13 -- most of my friends are Jewish, sometimes I forget 'Am I Jewish?', I'm Jew-ish, aspirationally Jewish.\"",
+        "timestamp": "2025-12-19T14:36:00.640359",
+        "x": 0.3536023795604706,
+        "y": 13.107521057128906,
+        "sentiment": "positive",
+        "sentiment_score": 0.759,
+        "emotion": "neutral",
+        "emotion_score": 0.761,
+        "cluster": 2,
+        "topics": [
+            "forget jewish",
+            "jewish"
+        ],
+        "primary_topic": "forget jewish"
+    },
+    {
+        "handle": "@BarronTNews_\n·\nDec 9",
+        "text": " BREAKING\nElon Musk just revealed something jaw-dropping. DOGE didn’t just streamline the government. It stopped ONE HUNDRED to TWO HUNDRED BILLION dollars of zombie payments from leaking out of the US treasury every single year.\n\nRead that again. Up to $200B burning for",
+        "timestamp": "2025-12-19T14:36:00.660413",
+        "x": 0.38901421427726746,
+        "y": 14.745832443237305,
+        "sentiment": "positive",
+        "sentiment_score": 0.405,
+        "emotion": "surprise",
+        "emotion_score": 0.387,
+        "cluster": 2,
+        "topics": [
+            "doge didn",
+            "government stopped"
+        ],
+        "primary_topic": "doge didn"
+    },
+    {
+        "handle": "@akafaceUS\n·\nDec 15",
+        "text": "Kevin O'leary talking about Elon Musk: \"I’ve seen him walk away from a conversation the minute he realized there was no useful information in it.\"\n\nElon doesn't waste his time.",
+        "timestamp": "2025-12-19T14:36:00.677103",
+        "x": 0.6913171410560608,
+        "y": 12.75584602355957,
+        "sentiment": "negative",
+        "sentiment_score": -0.48,
+        "emotion": "disgust",
+        "emotion_score": 0.44,
+        "cluster": 0,
+        "topics": [
+            "elon musk",
+            "information elon"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@EricLDaugh\n·\nDec 14",
+        "text": " AUSTRALIA: *Imports Muslims* *Implements harsh gun control*\n\nMUSLIMS: *Shoot up Australians and celebrate*\n\nThis is the suicidal empathy Elon Musk is talking about.\n\nIt's up to the West whether this continues.\n\nAll of this is entirely optional.",
+        "timestamp": "2025-12-19T14:36:03.803994",
+        "x": 2.195129632949829,
+        "y": 13.901527404785156,
+        "sentiment": "negative",
+        "sentiment_score": -0.61,
+        "emotion": "anger",
+        "emotion_score": 0.413,
+        "cluster": 0,
+        "topics": [
+            "shoot australians",
+            "muslims shoot"
+        ],
+        "primary_topic": "shoot australians"
+    },
+    {
+        "handle": "@elonmusk\n·\nDec 13",
+        "text": "Wow",
+        "timestamp": "2025-12-19T14:36:06.159802",
+        "x": 0.07568766176700592,
+        "y": 10.500019073486328,
+        "sentiment": "positive",
+        "sentiment_score": 0.635,
+        "emotion": "surprise",
+        "emotion_score": 0.967,
+        "cluster": 2,
+        "topics": [
+            "wow"
+        ],
+        "primary_topic": "wow"
+    },
+    {
+        "handle": "@mitchellvii\n·\nDec 14",
+        "text": "THIS IS MASSIVE! - Elon Musk calls out states hiding SNAP fraud, demanding they lose every federal dollar until they come clean and stop ripping off hardworking taxpayers. \n\nElon Musk posted: “If a state refuses to hand over data on SNAP fraud, it shouldn’t get a single cent in",
+        "timestamp": "2025-12-19T14:36:06.177044",
+        "x": 0.9619929194450378,
+        "y": 14.996466636657715,
+        "sentiment": "negative",
+        "sentiment_score": -0.564,
+        "emotion": "anger",
+        "emotion_score": 0.623,
+        "cluster": 0,
+        "topics": [
+            "snap fraud",
+            "fraud demanding"
+        ],
+        "primary_topic": "snap fraud"
+    },
+    {
+        "handle": "@andst7\n·\nDec 9",
+        "text": "Elon Musk is pro-Europe: he created around 15.000 jobs here, invests billions of euros, and continues to create opportunities, rather we should ask ourselves if European institutions are heading in the right direction.",
+        "timestamp": "2025-12-19T14:36:06.195293",
+        "x": 3.494065046310425,
+        "y": 14.172470092773438,
+        "sentiment": "positive",
+        "sentiment_score": 0.695,
+        "emotion": "neutral",
+        "emotion_score": 0.94,
+        "cluster": 2,
+        "topics": [
+            "elon musk",
+            "pro europe"
+        ],
+        "primary_topic": "elon musk"
+    },
+    {
+        "handle": "@bennyjohnson\n·\nDec 9",
+        "text": "Elon Musk calls out the fact that Ilhan Omar and Communist Zohran Mamdani were elected by people who aren’t from America and don’t respect it. \n\n“Ilhan Omar, who was literally voted into power, voted into Congress by a large group of people from Somalia who are in Minnesota,",
+        "timestamp": "2025-12-19T14:36:08.483366",
+        "x": 2.81038761138916,
+        "y": 13.459938049316406,
+        "sentiment": "negative",
+        "sentiment_score": -0.731,
+        "emotion": "disgust",
+        "emotion_score": 0.445,
+        "cluster": 0,
+        "topics": [
+            "ilhan omar",
+            "omar communist"
+        ],
+        "primary_topic": "ilhan omar"
+    },
+    {
+        "handle": "@ThomasSowell\n·\nDec 8",
+        "text": "That split-second when Elon Musk knew SpaceX made history.",
+        "timestamp": "2025-12-19T14:36:11.372255",
+        "x": 0.8094173669815063,
+        "y": 12.810890197753906,
+        "sentiment": "positive",
+        "sentiment_score": 0.651,
+        "emotion": "surprise",
+        "emotion_score": 0.788,
+        "cluster": 2,
+        "topics": [
+            "knew spacex",
+            "musk knew"
+        ],
+        "primary_topic": "knew spacex"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "handle": "@DJohnstonEC\n·\nDec 2",
+        "text": "Awesome to see other open source builders who use \n@ollama\n at NeurIPS! \n\nPart of the \n@MorpheusAIs\n origin story with the original local install.",
+        "timestamp": "2025-12-18T12:05:23.832731"
+    },
+    {
+        "handle": "@BraveNightly\n·\nDec 8",
+        "text": "Sync your \n@ollama\n local models!",
+        "timestamp": "2025-12-18T12:05:23.851898"
+    },
+    {
+        "handle": "@mim_djo\n·\nDec 5",
+        "text": "Microsoft is officially joining the local LLM trend with Foundry Local. more or less the same as ollama or LM studio\nnow you finally have a solid business reason to ask for a better laptop :)\n\n#LLMs #AI #opensource \n\nhttps://\ngithub.com/microsoft/Foun\ndry-Local\n…",
+        "timestamp": "2025-12-18T12:05:23.870633"
+    },
+    {
+        "handle": "@ollama\n·\nDec 9",
+        "text": ".\n@essential_ai\n's rnj-1 model is now on Ollama!\n\nollama run rnj-1 \n\n8B parameter, open-weight dense model trained from scratch. The model is optimized for code and STEM with capabilities on par with other state of the art open-weight models. \n\nLet's go! ",
+        "timestamp": "2025-12-18T12:05:23.890516"
+    },
+    {
+        "handle": "@zuri_nft\n·\n9h",
+        "text": "Excited to try Gemini 3 Flash",
+        "timestamp": "2025-12-18T12:05:25.816248"
+    },
+    {
+        "handle": "@tom_doerr\n·\nDec 5",
+        "text": "GUI for batch processing text files with Ollama\n\n\nhttps://\ngithub.com/hclivess/ollam\na-batch-processor/\n…",
+        "timestamp": "2025-12-18T12:05:25.837223"
+    },
+    {
+        "handle": "@piacere_ex\n·\nDec 16",
+        "text": "Using the same technique as running Phoenix on Android, I managed to get Ollama + Gemma3 running too lol\n\nMessing around with local LLMs is getting so much more fun, huh?",
+        "timestamp": "2025-12-18T12:05:25.856385"
+    },
+    {
+        "handle": "@BlackEnokas\n·\nDec 9",
+        "text": "Please fix your billing system \n@ollama\n , why is he still trying to charge me after 2 months and i'm unable to cancel and remove my card",
+        "timestamp": "2025-12-18T12:05:28.736154"
+    },
+    {
+        "handle": "@PromptInjection\n·\n21h",
+        "text": "Is there any documentation available that specifies the exact usage limits?",
+        "timestamp": "2025-12-18T12:05:31.877131"
+    },
+    {
+        "handle": "@ollama\n·\nDec 16",
+        "text": "Olmo 3.1 and 3 from \n@allen_ai\n models are available on Ollama. \n\n7B Instruct: \nollama run olmo-3:7b-instruct\n\n7B Think: \nollama run olmo-3:7b-think \n\n32B Instruct: \nollama run olmo-3.1:32b-instruct\n\n32B Think: \nollama run olmo-3.1:32b-think",
+        "timestamp": "2025-12-18T12:05:31.894252"
+    },
+    {
+        "handle": "@ollama\n·\n21h",
+        "text": "Model page:",
+        "timestamp": "2025-12-18T12:05:31.911811"
+    }
+]
