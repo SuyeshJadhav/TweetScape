@@ -18,15 +18,11 @@ function App() {
 		console.log('App: Starting full pipeline for:', searchTopic, 'limit:', limit)
 		try {
 			// Step 1: Scrape tweets
-			console.log('Step 1: Scraping tweets...')
-			await analyzeTopic(searchTopic, limit)
-
-			// Step 2: Cluster the scraped data
-			console.log('Step 2: Clustering data...')
+			console.log('Step 1: Starting scrape + cluster with expanded queries...')
 			const clusterResponse = await clusterTopic(searchTopic)
 			console.log('Cluster Response:', clusterResponse)
 
-			// Step 3: Set data
+			// Step 2: Set data
 			setClusterData(clusterResponse)
 		} catch (error) {
 			console.error('Pipeline error:', error)
@@ -118,6 +114,18 @@ function App() {
 					</div>
 				)
 			})() }
+
+			{/* AI Summary */ }
+			{ clusterData?.summary && (
+				<div className="legend-container" style={ { marginTop: '1rem', background: '#f0fdf4', borderColor: '#22c55e' } }>
+					<div className="legend-title">
+						🤖 AI Summary
+					</div>
+					<p style={ { fontSize: '0.9rem', lineHeight: 1.6, margin: 0 } }>
+						{ clusterData.summary }
+					</p>
+				</div>
+			) }
 
 			{/* Top Topics */ }
 			{ clusterData?.topic_stats?.top_topics && (

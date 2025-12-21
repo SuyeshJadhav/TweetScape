@@ -1,0 +1,52 @@
+[
+    {
+        "handle": "@MrEwanMorrison\n·\nNov 6",
+        "text": "45% of all AI answers had at least one significant issue.\n31% of responses had serious sourcing problems: missing, misleading or incorrect attributions.\n20% contained major accuracy issues, including hallucinated details & outdated information.\nGemini had errors 76% of the time.",
+        "timestamp": "2025-12-21T07:56:37.114647"
+    },
+    {
+        "handle": "@ChrisLaubAI\n·\nDec 9",
+        "text": "This will piss off the ChatGPT fanboys.\n\nSo, my friend just tested ChatGPT, DeepSeek, and Gemini on the same UI design challenge.\n\nThe winner isn't what the benchmarks told you.\n\nHere's the real comparison no one's talking about:",
+        "timestamp": "2025-12-21T07:56:37.130921"
+    },
+    {
+        "handle": "@alifcoder\n·\nDec 6, 2023",
+        "text": "Google just dropped it's ChatGPT killer\n\nGoogle says Gemini beats GPT4 in 30 out of 32 benchmarks.\n\nHere are 7 things you should know about:",
+        "timestamp": "2025-12-21T07:56:37.144396"
+    },
+    {
+        "handle": "@godofprompt\n·\nNov 19",
+        "text": "ChatGPT (left)  vs.  Gemini 3.0  vs.  Grok 4.1 (right)  \n\nGemini finished in 40 seconds. ChatGPT failed. Took 2 minutes for Grok.",
+        "timestamp": "2025-12-21T07:56:37.159929"
+    },
+    {
+        "handle": "@rplevy\n·\nDec 16",
+        "text": "ChatGPT explaining why Gemini is better at this",
+        "timestamp": "2025-12-21T07:56:37.175803"
+    },
+    {
+        "handle": "@MillieMarconnni\n·\nJun 16",
+        "text": "ChatGPT o3 vs Gemini 2.5 Pro\n\nSame prompts. Wildly different results.\n\nI’ve included videos to prove it:\n\nTHREAD ↓",
+        "timestamp": "2025-12-21T07:56:39.605942"
+    },
+    {
+        "handle": "@daniel149383994\n·\nDec 15",
+        "text": "I’m gong to have a moan chat gpt isn’t good Keeps on getting stuff wrong. Grok and gemini are far above chat gpt. \n5-6 times I asked chat gpt to do me a Lucky 15 for tomorrow it got it wrong every single time while when I asked gemini they got it right first time.",
+        "timestamp": "2025-12-21T07:56:42.587553"
+    },
+    {
+        "handle": "@nzemmili\n·\n1h",
+        "text": "I agree, Gemini is better than ChatGPT in accuracy for now. Will try the Gemini Plus version to see how it works.",
+        "timestamp": "2025-12-21T07:56:42.602491"
+    },
+    {
+        "handle": "@JulianGoldieSEO\n·\nDec 15",
+        "text": "I ran the same prompts on ChatGPT 5.2 and Gemini 3.\n\nThe results shocked me.\n\nChatGPT felt like a senior engineer.\nPrecise. Logical. No fluff.\n\nGemini felt like a smart assistant.\nFlexible. Practical. Plugged into real life.\n\nSame task.\nVery different brains.\n\nSave this video,",
+        "timestamp": "2025-12-21T07:56:42.616646"
+    },
+    {
+        "handle": "@tivrfoa\n·\nDec 19",
+        "text": "Arithmetic Hallucination \n\nGemini vs ChatGPT\n\n\"This discrepancy likely occurs because:\n\nArithmetic Hallucination: Large Language Models often struggle with precise multi-digit division and exponentiation unless they use an internal tool (like a Python interpreter). ChatGPT",
+        "timestamp": "2025-12-21T07:56:45.609901"
+    }
+]

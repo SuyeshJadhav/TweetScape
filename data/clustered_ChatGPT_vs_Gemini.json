@@ -1,0 +1,886 @@
+[
+    {
+        "handle": "@iamwilsxn\n·\nDec 8",
+        "text": "Stop paying for the same overpriced apps. Try these \n\nPAID    VS        FREE\n\nNetflix → Netmirror\nSpotify → Jango\nApple Music → Demus music\nChatGPT → Compass\nMicrosoft Office → LibreOffice\nMidjourney → Higgsfield\nCanva → Vectr\nGemini → Misty\nDisney+ → Tubi\nHulu → Pluto",
+        "timestamp": "2025-12-21T07:56:06.793164",
+        "x": 6.705800533294678,
+        "y": 12.220833778381348,
+        "sentiment": "negative",
+        "sentiment_score": -0.124,
+        "emotion": "neutral",
+        "emotion_score": 0.741,
+        "cluster": 0,
+        "topics": [
+            "free netflix",
+            "overpriced apps"
+        ],
+        "primary_topic": "free netflix"
+    },
+    {
+        "handle": "@KirkDBorne\n·\nDec 17",
+        "text": "Infographic - When to use Each AI Tool - ChatGPT vs Perplexity vs Grok vs Gemini",
+        "timestamp": "2025-12-21T07:56:06.806312",
+        "x": 6.1225786209106445,
+        "y": 10.247406005859375,
+        "sentiment": "neutral",
+        "sentiment_score": 0.024,
+        "emotion": "neutral",
+        "emotion_score": 0.896,
+        "cluster": 1,
+        "topics": [
+            "chatgpt vs",
+            "tool chatgpt"
+        ],
+        "primary_topic": "chatgpt vs"
+    },
+    {
+        "handle": "@joinearlybird\n·\nDec 18",
+        "text": "Gemini vs ChatGPT vs Grok\n\n(\n@elonmusk\n - Grok needs to step it up...)",
+        "timestamp": "2025-12-21T07:56:06.819713",
+        "x": 8.069839477539062,
+        "y": 9.912653923034668,
+        "sentiment": "positive",
+        "sentiment_score": 0.196,
+        "emotion": "neutral",
+        "emotion_score": 0.552,
+        "cluster": 2,
+        "topics": [
+            "gemini vs",
+            "vs grok"
+        ],
+        "primary_topic": "gemini vs"
+    },
+    {
+        "handle": "@iamrollandex\n·\nDec 17",
+        "text": "Stop paying for those same overpriced apps.  Try these instead. \n\nPAID    VS        FREE\n\nNetflix → Netmirror\nSpotify → Jango\nCanva → Vectr\nGemini → Misty\nApple Music → Demus music\nChatGPT → Compass\nMicrosoft Office → LibreOffice\nMidjourney → Higgsfield\nDisney+ → Tubi",
+        "timestamp": "2025-12-21T07:56:06.831659",
+        "x": 6.857734680175781,
+        "y": 12.4522705078125,
+        "sentiment": "negative",
+        "sentiment_score": -0.252,
+        "emotion": "neutral",
+        "emotion_score": 0.693,
+        "cluster": 0,
+        "topics": [
+            "overpriced apps",
+            "free netflix"
+        ],
+        "primary_topic": "overpriced apps"
+    },
+    {
+        "handle": "@FutureFrontz\n·\n8h",
+        "text": "Same Prompt, Different AI Models (#64)        \n\nChatGPT vs Gemini vs Grok                                         \n\n(Prompt below)",
+        "timestamp": "2025-12-21T07:56:06.845799",
+        "x": 7.714025974273682,
+        "y": 10.543837547302246,
+        "sentiment": "neutral",
+        "sentiment_score": 0.018,
+        "emotion": "surprise",
+        "emotion_score": 0.308,
+        "cluster": 1,
+        "topics": [
+            "prompt different",
+            "grok prompt"
+        ],
+        "primary_topic": "prompt different"
+    },
+    {
+        "handle": "@AndrewBolis\n·\nDec 16",
+        "text": "ChatGPT vs Gemini vs Claude vs Grok vs DeepSeek.\n\nEach one has different strengths and use cases.\n\nSome excel in multimodal creativity, others stand out in deep research, real-time updates or lower costs.\n\nChoosing the right one helps you become truly effective with AI.\n\n[ ",
+        "timestamp": "2025-12-21T07:56:08.772234",
+        "x": 5.510321140289307,
+        "y": 10.374251365661621,
+        "sentiment": "positive",
+        "sentiment_score": 0.16,
+        "emotion": "neutral",
+        "emotion_score": 0.89,
+        "cluster": 2,
+        "topics": [
+            "vs deepseek",
+            "chatgpt vs"
+        ],
+        "primary_topic": "vs deepseek"
+    },
+    {
+        "handle": "@dairieigyo\n·\nDec 17",
+        "text": "【Grok VS ChatGPT VS Gemini】\nToday, I took the blonde girl that Grok made for me yesterday and processed her further using all three AIs\n\nLast night, I generated the girl and casually adjusted her outfit and composition\nUsing that as a base, I verified the outputs from the",
+        "timestamp": "2025-12-21T07:56:08.784416",
+        "x": 7.859653472900391,
+        "y": 10.138333320617676,
+        "sentiment": "neutral",
+        "sentiment_score": 0.054,
+        "emotion": "neutral",
+        "emotion_score": 0.877,
+        "cluster": 1,
+        "topics": [
+            "vs gemini",
+            "grok vs"
+        ],
+        "primary_topic": "vs gemini"
+    },
+    {
+        "handle": "@godofprompt\n·\nNov 29",
+        "text": "Gemini (left) vs ChatGPT vs Claude (right)\n\nPrompt: \nCreate an interactive HTML, CSS, and JavaScript simulation of a satellite system that transmits signals to ground receivers. The simulation should show a satellite orbiting the Earth and periodically sending signals that are",
+        "timestamp": "2025-12-21T07:56:10.572194",
+        "x": 8.193682670593262,
+        "y": 11.851927757263184,
+        "sentiment": "neutral",
+        "sentiment_score": 0.014,
+        "emotion": "neutral",
+        "emotion_score": 0.828,
+        "cluster": 1,
+        "topics": [
+            "chatgpt vs",
+            "vs chatgpt"
+        ],
+        "primary_topic": "chatgpt vs"
+    },
+    {
+        "handle": "@Hoshino_AISales\n·\nDec 12",
+        "text": "【AI Showdown at the Top】GPT-5.2 vs Claude Opus 4.5 vs Gemini 3 Pro: A Thorough Comparison\n\nConclusion. As of now, GPT-5.2 is the big winner. I've used it quite extensively myself, and the output results are on another level. That said, Google will probably come out with",
+        "timestamp": "2025-12-21T07:56:10.585395",
+        "x": 6.944450378417969,
+        "y": 10.793216705322266,
+        "sentiment": "positive",
+        "sentiment_score": 0.695,
+        "emotion": "neutral",
+        "emotion_score": 0.885,
+        "cluster": 2,
+        "topics": [
+            "showdown gpt",
+            "gpt vs"
+        ],
+        "primary_topic": "showdown gpt"
+    },
+    {
+        "handle": "@altf4andrei\n·\nDec 16",
+        "text": "new ChatGPT image (left) vs Gemini Nano Banana (right)\n\nI still prefer Gemini",
+        "timestamp": "2025-12-21T07:56:13.670840",
+        "x": 7.061131954193115,
+        "y": 9.426331520080566,
+        "sentiment": "neutral",
+        "sentiment_score": 0.083,
+        "emotion": "neutral",
+        "emotion_score": 0.883,
+        "cluster": 1,
+        "topics": [
+            "gemini nano",
+            "vs gemini"
+        ],
+        "primary_topic": "gemini nano"
+    },
+    {
+        "handle": "@masahirochaen\n·\nNov 30",
+        "text": "【Will Gemini Surpass ChatGPT Soon?】\n\nGemini Surpasses ChatGPT in \"Time Spent\"\nThe Catch-Up Is Impressive\n\n・Monthly Users: Gemini 650 Million vs ChatGPT 800 Million\n・Time Spent: Gemini 7.2 Minutes vs ChatGPT 6 Minutes\n・Gemini's Downloads Surge 4.4 Times in Half a Year",
+        "timestamp": "2025-12-21T07:56:13.683894",
+        "x": 7.447876453399658,
+        "y": 13.030579566955566,
+        "sentiment": "positive",
+        "sentiment_score": 0.772,
+        "emotion": "neutral",
+        "emotion_score": 0.567,
+        "cluster": 2,
+        "topics": [
+            "chatgpt time",
+            "chatgpt minutes"
+        ],
+        "primary_topic": "chatgpt time"
+    },
+    {
+        "handle": "@MorningBrew\n·\nDec 1",
+        "text": "Gemini is really breathing down ChatGPT's neck now \n\n• Closing gap on monthly downloads (100.8M vs. 67.8M in November)\n\n• Users now spend more time in Gemini than ChatGPT",
+        "timestamp": "2025-12-21T07:56:22.015152",
+        "x": 7.259620666503906,
+        "y": 12.626017570495605,
+        "sentiment": "negative",
+        "sentiment_score": -0.453,
+        "emotion": "neutral",
+        "emotion_score": 0.275,
+        "cluster": 0,
+        "topics": [
+            "gemini chatgpt",
+            "chatgpt"
+        ],
+        "primary_topic": "gemini chatgpt"
+    },
+    {
+        "handle": "@designeshYT\n·\nDec 17",
+        "text": "Chatgpt 5.2 vs Gemini 3 Live Test\n\n​The battle is finally over.\n​Everyone is asking which one is actually better.\n​The answer depends entirely on the workflow.\n​Here is the breakdown thread to stop wasting time on the wrong tool.",
+        "timestamp": "2025-12-21T07:56:22.032866",
+        "x": 8.2695894241333,
+        "y": 11.315934181213379,
+        "sentiment": "positive",
+        "sentiment_score": 0.116,
+        "emotion": "neutral",
+        "emotion_score": 0.929,
+        "cluster": 2,
+        "topics": [
+            "chatgpt vs",
+            "vs gemini"
+        ],
+        "primary_topic": "chatgpt vs"
+    },
+    {
+        "handle": "@MarioNawfal\n·\nNov 21",
+        "text": " GROK 4.1 VS GEMINI 3 VS CHATGPT 5.1: HOW GROK LEADS THE WAY\n\nThe top players in AI have made their latest moves. \n\nOpenAI’s GPT-5.1 prioritizes seamless instruction-following and polished tone control.\n\nGoogle’s Gemini 3 dominates in multimodal performance, blending text,",
+        "timestamp": "2025-12-21T07:56:22.055544",
+        "x": 6.828202724456787,
+        "y": 10.272518157958984,
+        "sentiment": "positive",
+        "sentiment_score": 0.344,
+        "emotion": "neutral",
+        "emotion_score": 0.936,
+        "cluster": 2,
+        "topics": [
+            "chatgpt grok",
+            "grok vs"
+        ],
+        "primary_topic": "chatgpt grok"
+    },
+    {
+        "handle": "@alex_prompter\n·\nNov 18",
+        "text": "ChatGPT (left)  vs.  Gemini 3.0  vs.  Grok 4.1 (right)\n\nGemini finished in 30 seconds. Took 2 minutes for ChatGPT and Grok.",
+        "timestamp": "2025-12-21T07:56:22.073797",
+        "x": 8.323229789733887,
+        "y": 10.38584041595459,
+        "sentiment": "neutral",
+        "sentiment_score": 0.037,
+        "emotion": "neutral",
+        "emotion_score": 0.623,
+        "cluster": 1,
+        "topics": [
+            "chatgpt grok",
+            "gemini finished"
+        ],
+        "primary_topic": "chatgpt grok"
+    },
+    {
+        "handle": "@ChrisLaubAI\n·\nDec 9",
+        "text": "This will piss off the ChatGPT fanboys.\n\nSo, my friend just tested ChatGPT, DeepSeek, and Gemini on the same UI design challenge.\n\nThe winner isn't what the benchmarks told you.\n\nHere's the real comparison no one's talking about:",
+        "timestamp": "2025-12-21T07:56:22.091140",
+        "x": 7.5138421058654785,
+        "y": 11.416423797607422,
+        "sentiment": "negative",
+        "sentiment_score": -0.61,
+        "emotion": "neutral",
+        "emotion_score": 0.845,
+        "cluster": 0,
+        "topics": [
+            "tested chatgpt",
+            "chatgpt deepseek"
+        ],
+        "primary_topic": "tested chatgpt"
+    },
+    {
+        "handle": "@godofprompt\n·\nNov 19",
+        "text": "ChatGPT (left)  vs.  Gemini 3.0  vs.  Grok 4.1 (right)  \n\nGemini finished in 40 seconds. ChatGPT failed. Took 2 minutes for Grok.",
+        "timestamp": "2025-12-21T07:56:24.707632",
+        "x": 8.522679328918457,
+        "y": 10.129547119140625,
+        "sentiment": "negative",
+        "sentiment_score": -0.27,
+        "emotion": "surprise",
+        "emotion_score": 0.436,
+        "cluster": 0,
+        "topics": [
+            "gemini finished",
+            "chatgpt failed"
+        ],
+        "primary_topic": "gemini finished"
+    },
+    {
+        "handle": "@MillieMarconnni\n·\nJun 16",
+        "text": "ChatGPT o3 vs Gemini 2.5 Pro\n\nSame prompts. Wildly different results.\n\nI’ve included videos to prove it:\n\nTHREAD ↓",
+        "timestamp": "2025-12-21T07:56:27.426425",
+        "x": 8.80526065826416,
+        "y": 12.065709114074707,
+        "sentiment": "neutral",
+        "sentiment_score": -0.034,
+        "emotion": "neutral",
+        "emotion_score": 0.603,
+        "cluster": 1,
+        "topics": [
+            "chatgpt o3",
+            "gemini pro"
+        ],
+        "primary_topic": "chatgpt o3"
+    },
+    {
+        "handle": "@GlobalXInt\n·\nFeb 10",
+        "text": "The app functions as an AI chatbot or assistant, rivalling ChatGPT, Claude, and Gemini, among others. \n\n• Model efficiency: Smaller size, similar performance\n• API costs: $8 per million tokens vs GPT-4's $30\n• Processing speed: 1000 words/sec VS ChatGPT's 650\n\n(3/3)",
+        "timestamp": "2025-12-21T07:56:27.439784",
+        "x": 6.09474515914917,
+        "y": 10.8314208984375,
+        "sentiment": "positive",
+        "sentiment_score": 0.15,
+        "emotion": "neutral",
+        "emotion_score": 0.896,
+        "cluster": 2,
+        "topics": [
+            "chatbot assistant",
+            "ai chatbot"
+        ],
+        "primary_topic": "chatbot assistant"
+    },
+    {
+        "handle": "@JulianGoldieSEO\n·\nDec 15",
+        "text": "I ran the same prompts on ChatGPT 5.2 and Gemini 3.\n\nThe results shocked me.\n\nChatGPT felt like a senior engineer.\nPrecise. Logical. No fluff.\n\nGemini felt like a smart assistant.\nFlexible. Practical. Plugged into real life.\n\nSame task.\nVery different brains.\n\nSave this video,",
+        "timestamp": "2025-12-21T07:56:29.394729",
+        "x": 8.677604675292969,
+        "y": 12.559952735900879,
+        "sentiment": "positive",
+        "sentiment_score": 0.28,
+        "emotion": "surprise",
+        "emotion_score": 0.963,
+        "cluster": 2,
+        "topics": [
+            "chatgpt gemini",
+            "prompts chatgpt"
+        ],
+        "primary_topic": "chatgpt gemini"
+    },
+    {
+        "handle": "@JasonrShuman\n·\nNov 23",
+        "text": "How is no one talking about this?\n\nGemini is reviewing 450+ sources for me when creating deep research reports. \n\nChatGPT might be 10-15. \n\nThe quality and depth is night and day IMO.",
+        "timestamp": "2025-12-21T07:56:29.408303",
+        "x": 7.4860615730285645,
+        "y": 13.236989974975586,
+        "sentiment": "neutral",
+        "sentiment_score": -0.061,
+        "emotion": "neutral",
+        "emotion_score": 0.747,
+        "cluster": 1,
+        "topics": [
+            "gemini reviewing",
+            "talking gemini"
+        ],
+        "primary_topic": "gemini reviewing"
+    },
+    {
+        "handle": "@omooretweets\n·\nDec 18",
+        "text": "Who is \"winning\" the consumer in AI? \n\nChatGPT started 2025 as the runaway leader, and is still at 3x Gemini's size \n\nBut Gemini is now growing 155% YoY vs. ChatGPT's 23%\n\n....and their growth rate is accelerating at scale ",
+        "timestamp": "2025-12-21T07:56:29.422845",
+        "x": 5.380964756011963,
+        "y": 11.284370422363281,
+        "sentiment": "positive",
+        "sentiment_score": 0.435,
+        "emotion": "fear",
+        "emotion_score": 0.395,
+        "cluster": 2,
+        "topics": [
+            "ai chatgpt",
+            "winning consumer"
+        ],
+        "primary_topic": "ai chatgpt"
+    },
+    {
+        "handle": "@MrEwanMorrison\n·\nNov 6",
+        "text": "45% of all AI answers had at least one significant issue.\n31% of responses had serious sourcing problems: missing, misleading or incorrect attributions.\n20% contained major accuracy issues, including hallucinated details & outdated information.\nGemini had errors 76% of the time.",
+        "timestamp": "2025-12-21T07:56:37.114647",
+        "x": 6.022518634796143,
+        "y": 12.33602523803711,
+        "sentiment": "negative",
+        "sentiment_score": -0.813,
+        "emotion": "neutral",
+        "emotion_score": 0.579,
+        "cluster": 0,
+        "topics": [
+            "gemini errors",
+            "ai answers"
+        ],
+        "primary_topic": "gemini errors"
+    },
+    {
+        "handle": "@alifcoder\n·\nDec 6, 2023",
+        "text": "Google just dropped it's ChatGPT killer\n\nGoogle says Gemini beats GPT4 in 30 out of 32 benchmarks.\n\nHere are 7 things you should know about:",
+        "timestamp": "2025-12-21T07:56:37.144396",
+        "x": 7.074641227722168,
+        "y": 11.54849910736084,
+        "sentiment": "positive",
+        "sentiment_score": 0.702,
+        "emotion": "neutral",
+        "emotion_score": 0.761,
+        "cluster": 2,
+        "topics": [
+            "chatgpt",
+            "beats gpt4"
+        ],
+        "primary_topic": "chatgpt"
+    },
+    {
+        "handle": "@rplevy\n·\nDec 16",
+        "text": "ChatGPT explaining why Gemini is better at this",
+        "timestamp": "2025-12-21T07:56:37.175803",
+        "x": 8.027586936950684,
+        "y": 12.884185791015625,
+        "sentiment": "positive",
+        "sentiment_score": 0.518,
+        "emotion": "neutral",
+        "emotion_score": 0.708,
+        "cluster": 2,
+        "topics": [
+            "gemini better",
+            "explaining gemini"
+        ],
+        "primary_topic": "gemini better"
+    },
+    {
+        "handle": "@daniel149383994\n·\nDec 15",
+        "text": "I’m gong to have a moan chat gpt isn’t good Keeps on getting stuff wrong. Grok and gemini are far above chat gpt. \n5-6 times I asked chat gpt to do me a Lucky 15 for tomorrow it got it wrong every single time while when I asked gemini they got it right first time.",
+        "timestamp": "2025-12-21T07:56:42.587553",
+        "x": 8.383795738220215,
+        "y": 10.020136833190918,
+        "sentiment": "negative",
+        "sentiment_score": -0.902,
+        "emotion": "neutral",
+        "emotion_score": 0.283,
+        "cluster": 0,
+        "topics": [
+            "chat gpt",
+            "grok gemini"
+        ],
+        "primary_topic": "chat gpt"
+    },
+    {
+        "handle": "@nzemmili\n·\n1h",
+        "text": "I agree, Gemini is better than ChatGPT in accuracy for now. Will try the Gemini Plus version to see how it works.",
+        "timestamp": "2025-12-21T07:56:42.602491",
+        "x": 7.525618076324463,
+        "y": 11.906023025512695,
+        "sentiment": "positive",
+        "sentiment_score": 0.818,
+        "emotion": "neutral",
+        "emotion_score": 0.966,
+        "cluster": 2,
+        "topics": [
+            "chatgpt accuracy",
+            "try gemini"
+        ],
+        "primary_topic": "chatgpt accuracy"
+    },
+    {
+        "handle": "@tivrfoa\n·\nDec 19",
+        "text": "Arithmetic Hallucination \n\nGemini vs ChatGPT\n\n\"This discrepancy likely occurs because:\n\nArithmetic Hallucination: Large Language Models often struggle with precise multi-digit division and exponentiation unless they use an internal tool (like a Python interpreter). ChatGPT",
+        "timestamp": "2025-12-21T07:56:45.609901",
+        "x": 8.305343627929688,
+        "y": 12.779603958129883,
+        "sentiment": "negative",
+        "sentiment_score": -0.206,
+        "emotion": "neutral",
+        "emotion_score": 0.76,
+        "cluster": 0,
+        "topics": [
+            "chatgpt discrepancy",
+            "gemini vs"
+        ],
+        "primary_topic": "chatgpt discrepancy"
+    },
+    {
+        "handle": "@alex_prompter\n·\nNov 19",
+        "text": "I tested Gemini 3.0 Pro Thinking and ChatGPT-5.1 Thinking with same critical prompts.\n\nThe results will blow your mind.\n\nGemini 3.0                 Vs.              ChatGPT-5.1\n\n(Video demos are included)",
+        "timestamp": "2025-12-21T07:56:53.422914",
+        "x": 8.860528945922852,
+        "y": 11.523393630981445,
+        "sentiment": "positive",
+        "sentiment_score": 0.702,
+        "emotion": "surprise",
+        "emotion_score": 0.516,
+        "cluster": 2,
+        "topics": [
+            "chatgpt thinking",
+            "thinking chatgpt"
+        ],
+        "primary_topic": "chatgpt thinking"
+    },
+    {
+        "handle": "@MillieMarconnni\n·\nNov 29",
+        "text": "This crazy LLM comparison will blow your mind:\n\n1. Gemini 3.0 Pro\n2. ChatGPT-5.1 Thinking\n3. Claude 4.5 Opus\n\nDemos + prompts ",
+        "timestamp": "2025-12-21T07:56:53.479122",
+        "x": 9.266473770141602,
+        "y": 11.534086227416992,
+        "sentiment": "positive",
+        "sentiment_score": 0.107,
+        "emotion": "anger",
+        "emotion_score": 0.325,
+        "cluster": 2,
+        "topics": [
+            "gemini pro",
+            "opus demos"
+        ],
+        "primary_topic": "gemini pro"
+    },
+    {
+        "handle": "@alex_prompter\n·\nAug 14",
+        "text": "I tested ChatGPT-5 and Gemini 2.5 Pro with same critical prompts.\n\nThe results will shock you.\n\nChatGPT-5      Vs.     Gemini 2.5 Pro\n\n(Video demos are included)",
+        "timestamp": "2025-12-21T07:56:55.376002",
+        "x": 9.139705657958984,
+        "y": 11.905139923095703,
+        "sentiment": "positive",
+        "sentiment_score": 0.2,
+        "emotion": "surprise",
+        "emotion_score": 0.956,
+        "cluster": 2,
+        "topics": [
+            "chatgpt gemini",
+            "tested chatgpt"
+        ],
+        "primary_topic": "chatgpt gemini"
+    },
+    {
+        "handle": "@Zar_xplorer\n·\nDec 18",
+        "text": "Image Comparison Chatgpt images 1.5 vs Google Gemini Pro \n\nWhich one is the best ? \nPrompt in comment  \n\nGPT images 1.5                    Google Gemini Pro",
+        "timestamp": "2025-12-21T07:56:57.219046",
+        "x": 6.940866947174072,
+        "y": 9.795940399169922,
+        "sentiment": "positive",
+        "sentiment_score": 0.194,
+        "emotion": "fear",
+        "emotion_score": 0.243,
+        "cluster": 2,
+        "topics": [
+            "chatgpt images",
+            "gemini pro"
+        ],
+        "primary_topic": "chatgpt images"
+    },
+    {
+        "handle": "@rowancheung\n·\nDec 6, 2023",
+        "text": " BREAKING: Google DeepMind just revealed Gemini- ChatGPT's biggest competitor.\n\nGemini is the FIRST multimodal AI to outperform human experts on the MMLU, scoring over 90%.",
+        "timestamp": "2025-12-21T07:56:58.913045",
+        "x": 5.5208563804626465,
+        "y": 10.99850845336914,
+        "sentiment": "positive",
+        "sentiment_score": 0.848,
+        "emotion": "surprise",
+        "emotion_score": 0.689,
+        "cluster": 2,
+        "topics": [
+            "gemini multimodal",
+            "gemini chatgpt"
+        ],
+        "primary_topic": "gemini multimodal"
+    },
+    {
+        "handle": "@godofprompt\n·\nDec 17",
+        "text": "I tried 10 viral AI image generation prompts in both Nano Banana Pro and ChatGPT Images to see which one is better.\n\nHere are the results:\n\nNano Banana Pro                       ChatGPT Images\n\n1. Selfie",
+        "timestamp": "2025-12-21T07:57:06.380130",
+        "x": 6.533400058746338,
+        "y": 9.484334945678711,
+        "sentiment": "positive",
+        "sentiment_score": 0.228,
+        "emotion": "neutral",
+        "emotion_score": 0.608,
+        "cluster": 2,
+        "topics": [
+            "nano banana",
+            "banana pro"
+        ],
+        "primary_topic": "nano banana"
+    },
+    {
+        "handle": "@Priya_Upadhyay_\n·\nDec 15",
+        "text": "which ai is better than chatgpt ?",
+        "timestamp": "2025-12-21T07:57:06.399432",
+        "x": 5.805711269378662,
+        "y": 10.557478904724121,
+        "sentiment": "neutral",
+        "sentiment_score": -0.006,
+        "emotion": "neutral",
+        "emotion_score": 0.615,
+        "cluster": 1,
+        "topics": [
+            "ai better",
+            "better chatgpt"
+        ],
+        "primary_topic": "ai better"
+    },
+    {
+        "handle": "@FuelOnline\n·\nNov 26",
+        "text": "ChatGPT vs Gemini vs Claude: What Actually Sets Them Apart\n\nIf you spend your days juggling content, research, client work, and data the way many of us do, you already know this debate is getting louder. Three major AI tools, three very different personalities. After testing",
+        "timestamp": "2025-12-21T07:57:06.417338",
+        "x": 5.260705947875977,
+        "y": 10.679590225219727,
+        "sentiment": "neutral",
+        "sentiment_score": -0.056,
+        "emotion": "neutral",
+        "emotion_score": 0.768,
+        "cluster": 1,
+        "topics": [
+            "chatgpt vs",
+            "vs gemini"
+        ],
+        "primary_topic": "chatgpt vs"
+    },
+    {
+        "handle": "@ai_artworkgen\n·\nDec 16",
+        "text": "ChatGPT Images vs Nano Banana Pro\n\nWhich is better? Which do you prefer?\n\nPrompts + more examples ... ",
+        "timestamp": "2025-12-21T07:57:06.431559",
+        "x": 6.807600021362305,
+        "y": 9.244193077087402,
+        "sentiment": "neutral",
+        "sentiment_score": 0.082,
+        "emotion": "neutral",
+        "emotion_score": 0.864,
+        "cluster": 1,
+        "topics": [
+            "banana pro",
+            "chatgpt images"
+        ],
+        "primary_topic": "banana pro"
+    },
+    {
+        "handle": "@qasimbizs\n·\nDec 10",
+        "text": "I made two models build the same app.\n\nOne is drastically better than the other, this will be my go to model now.\n\n> Claude Opus 4.5 vs Gemini 3.0 Pro\n> Exact same prompt\n> Built using Rork AI\n\nGuess which was Gemini and which was Opus (reveal in comments)",
+        "timestamp": "2025-12-21T07:57:06.443489",
+        "x": 9.53559398651123,
+        "y": 11.712635040283203,
+        "sentiment": "positive",
+        "sentiment_score": 0.889,
+        "emotion": "neutral",
+        "emotion_score": 0.871,
+        "cluster": 2,
+        "topics": [
+            "gemini opus",
+            "gemini pro"
+        ],
+        "primary_topic": "gemini opus"
+    },
+    {
+        "handle": "@DrMauricioGon\n·\nDec 12",
+        "text": "Gemini now is far better than ChatGPT. This AI race is insane",
+        "timestamp": "2025-12-21T07:57:08.344860",
+        "x": 5.864582061767578,
+        "y": 11.775494575500488,
+        "sentiment": "positive",
+        "sentiment_score": 0.555,
+        "emotion": "surprise",
+        "emotion_score": 0.339,
+        "cluster": 2,
+        "topics": [
+            "chatgpt ai",
+            "better chatgpt"
+        ],
+        "primary_topic": "chatgpt ai"
+    },
+    {
+        "handle": "@ai_with_shah\n·\nDec 15",
+        "text": "Two Titans: ChatGPT 5.2 and Gemini 3 Pro\n\nOpenAI and Google released their main models just a few weeks apart. Both claim to be the best – but in practice, each excels in its own area.\n\nGPT-5.2 is better at writing code, solving math problems, and creating work documents. If",
+        "timestamp": "2025-12-21T07:57:10.776494",
+        "x": 6.676070213317871,
+        "y": 10.924899101257324,
+        "sentiment": "positive",
+        "sentiment_score": 0.817,
+        "emotion": "neutral",
+        "emotion_score": 0.928,
+        "cluster": 2,
+        "topics": [
+            "gpt better",
+            "chatgpt"
+        ],
+        "primary_topic": "gpt better"
+    },
+    {
+        "handle": "@Xfulfilment\n·\nDec 16",
+        "text": "guys, which ai is better than chatgpt right now? i use gemini for images and GPT for text.\n\nwhat are you using right now?",
+        "timestamp": "2025-12-21T07:57:10.790043",
+        "x": 6.32797908782959,
+        "y": 10.21298599243164,
+        "sentiment": "positive",
+        "sentiment_score": 0.271,
+        "emotion": "surprise",
+        "emotion_score": 0.638,
+        "cluster": 2,
+        "topics": [
+            "better chatgpt",
+            "chatgpt"
+        ],
+        "primary_topic": "better chatgpt"
+    },
+    {
+        "handle": "@0x_kiro\n·\nDec 15",
+        "text": "chatGPT has a much better app than Gemini. Feels more coherent.\n\nGemini is smart, but constrained with an army of idiots from google who gave it a shitty interface, dumb restrictions, and god damn bugs that ruin chats.",
+        "timestamp": "2025-12-21T07:57:10.804759",
+        "x": 7.7809858322143555,
+        "y": 12.174638748168945,
+        "sentiment": "neutral",
+        "sentiment_score": 0.091,
+        "emotion": "neutral",
+        "emotion_score": 0.765,
+        "cluster": 1,
+        "topics": [
+            "app gemini",
+            "chatgpt better"
+        ],
+        "primary_topic": "app gemini"
+    },
+    {
+        "handle": "@0x_kvl\n·\nDec 11",
+        "text": "Which AI assistant do you think is better overall, easy to use, and brings the best results?\n\n1.  ChatGPT (by OpenAI)\n2.  Grok (by xAI / Elon Musk)\n3.  Gemini (by Google DeepMind)\n4.  Claude (by Anthropic)\n\nProve with your experience",
+        "timestamp": "2025-12-21T07:57:10.817760",
+        "x": 5.734696865081787,
+        "y": 10.065986633300781,
+        "sentiment": "positive",
+        "sentiment_score": 0.596,
+        "emotion": "neutral",
+        "emotion_score": 0.848,
+        "cluster": 2,
+        "topics": [
+            "ai assistant",
+            "ai"
+        ],
+        "primary_topic": "ai assistant"
+    },
+    {
+        "handle": "@ai_for_success\n·\nDec 14",
+        "text": "One reason I prefer Gemini over ChatGPT is its ability to easily upload video files and process them to get insights, transcriptions, and more. \nI cannot believe why OpenAI has ignored this feature in ChatGPT.",
+        "timestamp": "2025-12-21T07:57:19.067921",
+        "x": 7.1700758934021,
+        "y": 12.116579055786133,
+        "sentiment": "positive",
+        "sentiment_score": 0.724,
+        "emotion": "surprise",
+        "emotion_score": 0.967,
+        "cluster": 2,
+        "topics": [
+            "gemini chatgpt",
+            "chatgpt ability"
+        ],
+        "primary_topic": "gemini chatgpt"
+    },
+    {
+        "handle": "@harrisonclark02\n·\nDec 16",
+        "text": "The issue with Chat GPT is the free version sucks. Gemini beats it any day of the week. If open ai wants to continue to be in the lead of LLM’s, there free version needs to improve. As a large majority of people using these models aren’t paying.",
+        "timestamp": "2025-12-21T07:57:19.093163",
+        "x": 6.547997951507568,
+        "y": 11.555431365966797,
+        "sentiment": "negative",
+        "sentiment_score": -0.88,
+        "emotion": "neutral",
+        "emotion_score": 0.488,
+        "cluster": 0,
+        "topics": [
+            "chat gpt",
+            "gpt free"
+        ],
+        "primary_topic": "chat gpt"
+    },
+    {
+        "handle": "@phai_music\n·\nDec 14",
+        "text": "Had an interesting conversation with Gemini \n@GeminiApp\n - So Gemini Gems have no access to real world data. That means you train it, then you have to offload that training to another AI bot that isn't a gem, get the info you need, then go back to that gem, and tell it that",
+        "timestamp": "2025-12-21T07:57:19.138436",
+        "x": 5.526605606079102,
+        "y": 12.434813499450684,
+        "sentiment": "positive",
+        "sentiment_score": 0.189,
+        "emotion": "fear",
+        "emotion_score": 0.345,
+        "cluster": 2,
+        "topics": [
+            "gem info",
+            "gemini gems"
+        ],
+        "primary_topic": "gem info"
+    },
+    {
+        "handle": "@kexicheng\n·\nDec 17",
+        "text": "As a long-term user who deeply integrates AI into work assistance  and co-creation, I’ve noticed a precipitous drop in my ChatGPT usage. This is driven by the immense friction from aggressive safety routing and the new model's diminishing EQ. I have to admit: for many scenarios,",
+        "timestamp": "2025-12-21T07:57:19.154489",
+        "x": 6.057695388793945,
+        "y": 11.282269477844238,
+        "sentiment": "negative",
+        "sentiment_score": -0.584,
+        "emotion": "neutral",
+        "emotion_score": 0.615,
+        "cluster": 0,
+        "topics": [
+            "chatgpt usage",
+            "drop chatgpt"
+        ],
+        "primary_topic": "chatgpt usage"
+    },
+    {
+        "handle": "@_zeroxinfinity_\n·\nDec 14",
+        "text": "I am a noob but I felt Gemini was better at coding stuff I wanted. I use ChatGPT for just normal data or knowledge queries. It just couldn’t code tbh.\n800m globally monthly active users wow\nHow much is India in this?",
+        "timestamp": "2025-12-21T07:57:22.225278",
+        "x": 6.910027503967285,
+        "y": 13.047443389892578,
+        "sentiment": "negative",
+        "sentiment_score": -0.276,
+        "emotion": "surprise",
+        "emotion_score": 0.891,
+        "cluster": 0,
+        "topics": [
+            "use chatgpt",
+            "chatgpt"
+        ],
+        "primary_topic": "use chatgpt"
+    },
+    {
+        "handle": "@Eesl\n·\nDec 16",
+        "text": "Artistically ChatGPT is much better.\n\nUtility wise, Gemini is much better.",
+        "timestamp": "2025-12-21T07:57:25.198997",
+        "x": 7.844615936279297,
+        "y": 11.488616943359375,
+        "sentiment": "positive",
+        "sentiment_score": 0.786,
+        "emotion": "neutral",
+        "emotion_score": 0.936,
+        "cluster": 2,
+        "topics": [
+            "gemini better",
+            "artistically chatgpt"
+        ],
+        "primary_topic": "gemini better"
+    },
+    {
+        "handle": "@Mohsine_Mahzi\n·\n23h",
+        "text": "Dont move to Gemini if you use your ai app for work, more specifically if you use the **projects** feature. \n\nI tried this month Gemini ultra when gemini 3.0 pro got released, and had the worst experience ever : \n\nFirst, all my work related chats with **Gems**, that a used as an",
+        "timestamp": "2025-12-21T07:57:25.212740",
+        "x": 5.930784225463867,
+        "y": 12.746153831481934,
+        "sentiment": "negative",
+        "sentiment_score": -0.629,
+        "emotion": "disgust",
+        "emotion_score": 0.844,
+        "cluster": 0,
+        "topics": [
+            "gemini pro",
+            "gemini use"
+        ],
+        "primary_topic": "gemini pro"
+    },
+    {
+        "handle": "@rosejn\n·\nDec 16",
+        "text": "ChatGPT's voice mode still blows Gemini out of the water.  I can talk for an hour and feel like I'm having a productive conversation that's hitting on what I want to cover.  With Gemini it seems to keep asking sort of irrelevant questions going down random rabbit holes that don't",
+        "timestamp": "2025-12-21T07:57:25.224935",
+        "x": 7.765901565551758,
+        "y": 12.64987850189209,
+        "sentiment": "negative",
+        "sentiment_score": -0.163,
+        "emotion": "neutral",
+        "emotion_score": 0.733,
+        "cluster": 0,
+        "topics": [
+            "gemini asking",
+            "chatgpt voice"
+        ],
+        "primary_topic": "gemini asking"
+    },
+    {
+        "handle": "@NavigatorSaint\n·\nDec 16",
+        "text": "ChatGPT in the lead because of how many times you have to prompt it to get the actual fucking answer you’re looking for lol. Gemini is a much better product at this point for verbal prompts, toss up on images",
+        "timestamp": "2025-12-21T07:57:25.237274",
+        "x": 8.386272430419922,
+        "y": 12.267189979553223,
+        "sentiment": "negative",
+        "sentiment_score": -0.584,
+        "emotion": "anger",
+        "emotion_score": 0.781,
+        "cluster": 0,
+        "topics": [
+            "chatgpt lead",
+            "chatgpt"
+        ],
+        "primary_topic": "chatgpt lead"
+    }
+]
