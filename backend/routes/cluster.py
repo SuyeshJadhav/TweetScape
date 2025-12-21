@@ -6,9 +6,8 @@ import subprocess
 
 # Add services to path for import
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-from services.clustering import process_topic_data
-from services.agent import get_expanded_queries
-from services.agent import get_summary
+from services.pipeline import process_topic_data
+from services.agent import get_expanded_queries, get_summary
 
 router = APIRouter()
 
@@ -51,6 +50,15 @@ def cluster_topic(topic: str):
 	combined_file = os.path.join(data_dir, f"tweets_{safe_topic}.json")
 	with open(combined_file, "w", encoding="utf-8") as f:
 		json.dump(all_tweets, f, indent=4, ensure_ascii=False)
+	
+	# 4. Cleanup intermediate files (keep only combined file)
+	for query in expanded_queries:
+		safe_query = query.replace(" ", "_")
+		if safe_query != safe_topic:  # Don't delete the combined file
+			intermediate_file = os.path.join(data_dir, f"tweets_{safe_query}.json")
+			if os.path.exists(intermediate_file):
+				os.remove(intermediate_file)
+				print(f"Cleaned up: tweets_{safe_query}.json")
 	
 	print(f"Combined {len(all_tweets)} tweets from {len(expanded_queries)} queries")
 	

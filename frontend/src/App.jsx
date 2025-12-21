@@ -4,10 +4,9 @@ import ClusterMap from './components/ClusterMap'
 import TweetList from './components/TweetList'
 import { useState } from 'react'
 import Loading from './components/Loading'
-import { analyzeTopic, clusterTopic, getClusterData } from './api/client'
+import { clusterTopic } from './api/client'
 
 function App() {
-	const [topic, setTopic] = useState('')
 	const [loading, setLoading] = useState(false)
 	const [clusterData, setClusterData] = useState(null)
 	const [error, setError] = useState(null)

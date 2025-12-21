@@ -76,18 +76,3 @@ def summarize_tweets(topic, stats, sample_tweets):
 	"""
 	# 3. Call chat() and return response
 	return chat(prompt)
-
-if __name__ == "__main__":
-	test_stats = {
-		'positive': 60,
-		'negative': 25,
-		'neutral': 15,
-		'emotions': 'joy, anger'
-	}
-	test_tweets = [
-		"DeepSeek is amazing, way better than GPT!",
-		"Not sure about DeepSeek, seems overhyped",
-		"Just tried DeepSeek API, very fast!"
-	]
-	summary = summarize_tweets("DeepSeek vs OpenAI", test_stats, test_tweets)
-	print(f"Summary: {summary}")

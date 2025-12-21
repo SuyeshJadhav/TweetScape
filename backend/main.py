@@ -6,7 +6,6 @@ if sys.platform == "win32":
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from routes.analyze import router as analyze_router
 from routes.cluster import router as cluster_router
 from routes.agent import router as agent_router
 
@@ -20,7 +19,6 @@ app.add_middleware(
 	allow_headers=["*"]
 )
 
-app.include_router(analyze_router, prefix="/api")
 app.include_router(cluster_router, prefix="/api")
 app.include_router(agent_router, prefix="/agent", tags=["agent"])
 
