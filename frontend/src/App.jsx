@@ -37,7 +37,7 @@ function App() {
 			{/* Header */ }
 			<header className="header">
 				<div className="logo">
-					Twit<span className="logo-accent">Cluster</span>
+					Tweet<span className="logo-accent">Scape</span>
 				</div>
 				<nav style={ { display: 'flex', gap: '1rem' } }>
 					<button className="btn-secondary">DOCS</button>

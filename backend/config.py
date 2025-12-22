@@ -1,5 +1,5 @@
 """
-Centralized configuration for TwitStar backend.
+Centralized configuration for TweetScape backend.
 All paths, constants, and model names in one place.
 """
 import os
