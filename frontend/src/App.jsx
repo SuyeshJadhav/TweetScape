@@ -4,12 +4,15 @@ import ClusterMap from './components/ClusterMap'
 import TweetList from './components/TweetList'
 import { useState } from 'react'
 import Loading from './components/Loading'
+import DocsModal from './components/DocsModal'
+import ReactMarkdown from 'react-markdown'
 import { clusterTopic } from './api/client'
 
 function App() {
 	const [loading, setLoading] = useState(false)
 	const [clusterData, setClusterData] = useState(null)
 	const [error, setError] = useState(null)
+	const [showDocs, setShowDocs] = useState(false)
 
 	const handleSearch = async (searchTopic, limit = 10) => {
 		setLoading(true)
@@ -40,7 +43,12 @@ function App() {
 					Tweet<span className="logo-accent">Scape</span>
 				</div>
 				<nav style={ { display: 'flex', gap: '1rem' } }>
-					<button className="btn-secondary">DOCS</button>
+					<button
+						className="btn-secondary"
+						onClick={ () => setShowDocs(true) }
+					>
+						DOCS
+					</button>
 				</nav>
 			</header>
 
@@ -120,9 +128,9 @@ function App() {
 					<div className="legend-title">
 						🤖 AI Summary
 					</div>
-					<p style={ { fontSize: '0.9rem', lineHeight: 1.6, margin: 0 } }>
-						{ clusterData.summary }
-					</p>
+					<div style={ { fontSize: '0.9rem', lineHeight: 1.6, margin: 0 } }>
+						<ReactMarkdown>{ clusterData.summary }</ReactMarkdown>
+					</div>
 				</div>
 			) }
 
@@ -211,6 +219,9 @@ function App() {
 
 			{/* Loading State (conditionally render) */ }
 			{ loading && <Loading /> }
+
+			{/* Docs Modal */ }
+			{ showDocs && <DocsModal onClose={ () => setShowDocs(false) } /> }
 		</div>
 	)
 }

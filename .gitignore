@@ -87,3 +87,5 @@ coverage.xml
 .pytest_cache/
 
 TECHNICAL.md
+benchmark_results.json
+data/
