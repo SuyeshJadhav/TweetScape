@@ -13,6 +13,7 @@ from services.analysis import (
     extract_topics, get_cluster_keywords
 )
 from services.clustering_new import reduce_dimensions, assign_clusters_by_sentiment
+from services.cache import get_cached_result, store_result
 
 logger = setup_logging("pipeline")
 
@@ -68,6 +69,12 @@ def process_topic_data(topic: str) -> dict:
     Returns:
         Result dict with all data and stats
     """
+    # ========== CHECK CACHE FIRST ==========
+    cached = get_cached_result(topic)
+    if cached:
+        logger.info(f"Returning cached result for topic: {topic}")
+        return cached
+    
     safe_topic = topic.replace(" ", "_")
     input_file = os.path.join(DATA_DIR, f"tweets_{safe_topic}.json")
     output_file = os.path.join(DATA_DIR, f"clustered_{safe_topic}.json")
@@ -140,7 +147,7 @@ def process_topic_data(topic: str) -> dict:
     
     logger.info(f"Pipeline complete! Saved to {output_file}")
     
-    return {
+    result = {
         "topic": topic,
         "total_tweets": len(df),
         "clusters": 3,
@@ -149,3 +156,8 @@ def process_topic_data(topic: str) -> dict:
         "topic_stats": {"top_topics": topic_results['top_topics']},
         "data": output_data
     }
+    
+    # ========== CACHE THE RESULT ==========
+    store_result(topic, result)
+    
+    return result

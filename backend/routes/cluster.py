@@ -8,12 +8,31 @@ import subprocess
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from services.pipeline import process_topic_data
 from services.agent import get_expanded_queries, get_summary
+from services.cache import get_cached_result, get_cache_stats, clear_all as clear_cache
 
 router = APIRouter()
 
 @router.post("/cluster/{topic}")
 def cluster_topic(topic: str):
 	"""Run clustering on scraped tweets for a topic"""
+	
+	# ========== CHECK CACHE FIRST ==========
+	cached = get_cached_result(topic)
+	if cached:
+		# Return cached result immediately - skip scraping entirely!
+		return {
+			"status": "success",
+			"topic": cached["topic"],
+			"total_tweets": cached["total_tweets"],
+			"clusters": cached.get("clusters", 3),
+			"cluster_keywords": cached.get("cluster_keywords"),
+			"dedup_stats": cached.get("dedup_stats"),
+			"topic_stats": cached.get("topic_stats"),
+			"summary": cached.get("summary"),
+			"data": cached["data"],
+			"_from_cache": True,
+			"_cache_hits": cached.get("_cache_hits", 1)
+		}
 
 	# Define paths
 	backend_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -108,3 +127,16 @@ def get_cluster(topic: str):
 			"status": "error",
 			"message": f"No clustered data found for topic: {topic}"
 		}
+
+
+@router.get("/cache/stats")
+def cache_stats():
+	"""Get cache statistics"""
+	return get_cache_stats()
+
+
+@router.delete("/cache")
+def clear_cache_endpoint():
+	"""Clear all cached results"""
+	deleted = clear_cache()
+	return {"status": "success", "deleted_entries": deleted}

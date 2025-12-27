@@ -13,6 +13,11 @@ DATA_DIR = os.path.join(PROJECT_ROOT, "data")
 # Ensure data directory exists
 os.makedirs(DATA_DIR, exist_ok=True)
 
+# ============ CACHE ============
+CACHE_DB_PATH = os.path.join(BACKEND_DIR, "cache.db")
+CACHE_TTL_HOURS = 24  # Hours before cached results expire
+
+
 # ============ SCRAPING ============
 TWEETS_PER_QUERY = 10
 MAX_SCROLL_ATTEMPTS = 10

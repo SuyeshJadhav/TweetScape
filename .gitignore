@@ -89,3 +89,7 @@ coverage.xml
 TECHNICAL.md
 benchmark_results.json
 data/
+
+# Cache database
+*.db
+cache.db

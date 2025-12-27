@@ -465,9 +465,154 @@ def benchmark_full_pipeline():
     return results
 
 
+def benchmark_cache_operations():
+    """Benchmark SQLite cache read/write performance at different table sizes."""
+    print("\n" + "="*60)
+    print("📊 BENCHMARK: SQLite Cache Operations")
+    print("="*60)
+    
+    import sqlite3
+    from datetime import timedelta
+    
+    results = {}
+    temp_db = os.path.join(os.path.dirname(__file__), "benchmark_cache_test.db")
+    
+    def setup_test_db(num_entries):
+        """Populate cache with N entries."""
+        conn = sqlite3.connect(temp_db)
+        cursor = conn.cursor()
+        cursor.execute("""
+            CREATE TABLE IF NOT EXISTS query_cache (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                topic TEXT UNIQUE NOT NULL,
+                results_json TEXT NOT NULL,
+                created_at TEXT NOT NULL,
+                expires_at TEXT NOT NULL,
+                hit_count INTEGER DEFAULT 0
+            )
+        """)
+        cursor.execute("CREATE INDEX IF NOT EXISTS idx_topic ON query_cache(topic)")
+        cursor.execute("DELETE FROM query_cache")
+        
+        sample_result = {"topic": "test", "total_tweets": 50, "data": generate_test_data(50)}
+        sample_json = json.dumps(sample_result)
+        now = datetime.now()
+        expires = now + timedelta(hours=6)
+        
+        for i in range(num_entries):
+            cursor.execute("""
+                INSERT INTO query_cache (topic, results_json, created_at, expires_at, hit_count)
+                VALUES (?, ?, ?, ?, 0)
+            """, (f"topic_{i}", sample_json, now.isoformat(), expires.isoformat()))
+        conn.commit()
+        conn.close()
+        return sample_json
+    
+    def cache_lookup(topic):
+        conn = sqlite3.connect(temp_db)
+        cursor = conn.cursor()
+        cursor.execute("SELECT results_json FROM query_cache WHERE topic = ?", (topic,))
+        row = cursor.fetchone()
+        conn.close()
+        return row[0] if row else None
+    
+    for table_size in [10, 50, 100]:
+        print(f"\n  Table Size: {table_size} entries")
+        sample_json = setup_test_db(table_size)
+        
+        # Benchmark CACHE HIT
+        hit_times = []
+        for _ in range(NUM_BENCHMARK_RUNS * 20):
+            with BenchmarkTimer("cache_hit") as timer:
+                result = cache_lookup(f"topic_{table_size // 2}")
+            hit_times.append(timer.elapsed)
+        
+        hit_stats = format_results(hit_times)
+        print(f"    Cache HIT:  {hit_stats['avg_ms']:.3f}ms avg | {hit_stats['min_ms']:.3f}ms min")
+        
+        # Benchmark CACHE MISS
+        miss_times = []
+        for _ in range(NUM_BENCHMARK_RUNS * 20):
+            with BenchmarkTimer("cache_miss") as timer:
+                result = cache_lookup("nonexistent_topic_xyz")
+            miss_times.append(timer.elapsed)
+        
+        miss_stats = format_results(miss_times)
+        print(f"    Cache MISS: {miss_stats['avg_ms']:.3f}ms avg | {miss_stats['min_ms']:.3f}ms min")
+        
+        results[f"{table_size}_entries"] = {"hit": hit_stats, "miss": miss_stats}
+    
+    if os.path.exists(temp_db):
+        os.remove(temp_db)
+    
+    return results
+
+
+def benchmark_cache_with_json_parsing():
+    """Benchmark cache lookup INCLUDING JSON parsing (real-world scenario)."""
+    print("\n" + "="*60)
+    print("📊 BENCHMARK: Cache + JSON Parsing (Real-World)")
+    print("="*60)
+    
+    import sqlite3
+    from datetime import timedelta
+    
+    results = {}
+    temp_db = os.path.join(os.path.dirname(__file__), "benchmark_cache_json_test.db")
+    
+    conn = sqlite3.connect(temp_db)
+    cursor = conn.cursor()
+    cursor.execute("""
+        CREATE TABLE IF NOT EXISTS query_cache (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            topic TEXT UNIQUE NOT NULL,
+            results_json TEXT NOT NULL,
+            created_at TEXT NOT NULL,
+            expires_at TEXT NOT NULL
+        )
+    """)
+    cursor.execute("DELETE FROM query_cache")
+    
+    for num_tweets in [25, 50, 100, 200]:
+        sample_result = {"topic": "test", "total_tweets": num_tweets, "data": generate_test_data(num_tweets)}
+        sample_json = json.dumps(sample_result)
+        json_size_kb = len(sample_json) / 1024
+        
+        now = datetime.now()
+        expires = now + timedelta(hours=6)
+        
+        cursor.execute("""
+            INSERT OR REPLACE INTO query_cache (topic, results_json, created_at, expires_at)
+            VALUES (?, ?, ?, ?)
+        """, (f"topic_{num_tweets}", sample_json, now.isoformat(), expires.isoformat()))
+        conn.commit()
+        
+        times = []
+        for _ in range(NUM_BENCHMARK_RUNS * 20):
+            with BenchmarkTimer("cache_full") as timer:
+                cursor.execute("SELECT results_json FROM query_cache WHERE topic = ?", (f"topic_{num_tweets}",))
+                row = cursor.fetchone()
+                if row:
+                    parsed = json.loads(row[0])
+            times.append(timer.elapsed)
+        
+        stats = format_results(times)
+        stats["json_size_kb"] = round(json_size_kb, 1)
+        results[f"{num_tweets}_tweets"] = stats
+        
+        print(f"  {num_tweets:4} tweets ({json_size_kb:.1f}KB): {stats['avg_ms']:.2f}ms avg | {stats['min_ms']:.2f}ms min")
+    
+    conn.close()
+    if os.path.exists(temp_db):
+        os.remove(temp_db)
+    
+    return results
+
+
 # ============================================================================
 # MAIN EXECUTION
 # ============================================================================
+
 
 def run_all_benchmarks():
     """Execute all benchmarks and generate report."""
@@ -519,6 +664,16 @@ def run_all_benchmarks():
     except Exception as e:
         print(f"  ❌ Full pipeline benchmark failed: {e}")
     
+    try:
+        all_results["cache_operations"] = benchmark_cache_operations()
+    except Exception as e:
+        print(f"  ❌ Cache operations benchmark failed: {e}")
+    
+    try:
+        all_results["cache_json"] = benchmark_cache_with_json_parsing()
+    except Exception as e:
+        print(f"  ❌ Cache JSON benchmark failed: {e}")
+    
     # ========== SUMMARY ==========
     print("\n" + "="*60)
     print("  📋 BENCHMARK SUMMARY (for Resume)")
@@ -545,6 +700,14 @@ def run_all_benchmarks():
     if "full_pipeline" in all_results:
         per_tweet = all_results["full_pipeline"].get("100_tweets", {}).get("per_tweet_ms", "N/A")
         summary.append(f"• Full pipeline: ~{per_tweet}ms per tweet (end-to-end)")
+    
+    if "cache_operations" in all_results:
+        cache_100 = all_results["cache_operations"].get("100_entries", {}).get("hit", {}).get("avg_ms", "N/A")
+        summary.append(f"• SQLite cache (100 entries): ~{cache_100:.2f}ms lookup")
+    
+    if "cache_json" in all_results:
+        cache_100_json = all_results["cache_json"].get("100_tweets", {}).get("avg_ms", "N/A")
+        summary.append(f"• Cache + JSON parse (100 tweets): ~{cache_100_json:.2f}ms")
     
     for s in summary:
         print(s)
